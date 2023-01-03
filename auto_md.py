@@ -1,7 +1,7 @@
 import os
 import jsonlines
 
-# construct a provblem table
+# construct a full provblem table
 def json_data_read(json_file_name):
 
     json_list = []
@@ -35,7 +35,6 @@ f.write("# LeetCode Algorithm" + '\n'+ '\n')
 f.write("| # | Title | Solution | Difficulty |" + '\n')
 f.write("|---| ----- | -------- | -------- |" + '\n')
 
-# files = str(files).split(".")
 for file in files:
     file_original = file
     file = str(file).split(".")
