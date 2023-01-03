@@ -1,14 +1,27 @@
 import os
 import jsonlines
+import time
+
+# get the modify time of a file
+def TimeStampToTime(timestamp):
+    timeStruct = time.localtime(timestamp)
+    return time.strftime('%Y-%m-%d %H:%M:%S',timeStruct)
+
+def get_FileModifyTime(fileName):
+    if fileName.endswith(".java"):
+        filePath = "./algorithms/java/" + fileName
+    elif fileName.endswith(".py"):
+        filePath = "./algorithms/python/" + fileName
+    t = os.path.getmtime(filePath)
+    res = (TimeStampToTime(t)).split(" ")
+    return res[0]
 
 # construct a full provblem table
 def json_data_read(json_file_name):
-
     json_list = []
     with open(json_file_name, 'r+') as f:
         for item in jsonlines.Reader(f):
             json_list.append(item)
-
     return  json_list
 
 all_problems_path = "/home/jsson/.lc/leetcode/cache/problems.json"
@@ -31,10 +44,11 @@ path = "./algorithms/java"
 files =  os.listdir(path)
 files.sort()
 f = open(readme, 'a+')
-f.write("# LeetCode Algorithm" + '\n'+ '\n')
-f.write("| # | Title | Solution | Difficulty |" + '\n')
-f.write("|---| ----- | -------- | -------- |" + '\n')
+f.write("# LeetCode Algorithms" + '\n'+ '\n')
+f.write("| # | Title | Solution | Difficulty | Time |" + '\n')
+f.write("|---| ----- | -------- | -------- | -------- |" + '\n')
 
+# main loop
 for file in files:
     file_original = file
     file = str(file).split(".")
@@ -54,9 +68,11 @@ for file in files:
 
         # part3: difficulty
         part3 = getLevel(q_table, file[1])
-        print(part3)
+
+        # part4: modify time
+        part4 = get_FileModifyTime(file_original)
 
         # output
-        f.write("|" + file[0] + "|" + part1 + "|" + part2 + "|" + part3 + "|" + '\n')
+        f.write("|" + file[0] + "|" + part1 + "|" + part2 + "|" + part3 + "|" + part4 + "|" + '\n')
 
 f.close()
