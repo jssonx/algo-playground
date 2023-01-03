@@ -40,8 +40,6 @@ readme = "README.md"
 if os.path.isfile(readme):
     os.remove(readme)
 
-
-
 # get all the files in the algorithms folder
 input_path = "./algorithms"
 dir_list = []
@@ -56,7 +54,6 @@ for i in range(len(dir_list)):
     files += tmp
 
 files.sort()
-
 
 f = open(readme, 'a+')
 f.write("# LeetCode Algorithms" + '\n'+ '\n')
