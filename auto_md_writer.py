@@ -59,7 +59,7 @@ for i in range(len(files)):
     n = int((files[i].split("."))[0])
     sorted_res.append((n, files[i]))
 
-sorted_tuple_list = sorted(sorted_res, key=lambda x: x[0])
+sorted_tuple_list = sorted(sorted_res, key=lambda x: x[0], reverse = True)
 files_sorted = []
 for t in sorted_tuple_list:
     files_sorted.append(t[1])
