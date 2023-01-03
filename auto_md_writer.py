@@ -40,7 +40,7 @@ readme = "README.md"
 if os.path.isfile(readme):
     os.remove(readme)
 
-path = "./algorithms/java"
+path = "./algorithms/python"
 files =  os.listdir(path)
 files.sort()
 f = open(readme, 'a+')
@@ -49,30 +49,54 @@ f.write("| # | Title | Solution | Difficulty | Time |" + '\n')
 f.write("|---| ----- | -------- | -------- | -------- |" + '\n')
 
 # main loop
+full_prob_table = []
+full_num = {}
 for file in files:
+    repeated = False 
     file_original = file
     file = str(file).split(".")
-    if file[2] == "java":
-        
-        # part1: problem name
-        q_name = file[1]
-        q_name = q_name.split("-")
-        q_name = [s.capitalize() for s in q_name]
-        q_name = str(' '.join(q_name))
-        url = "https://leetcode.com/problems/" + str(file[1]) + "/"
-        part1 = "[" + q_name + "]" + "(" + url + ")"
 
-        # part2: solution path
+    # part0: problem number
+    part0 = int(file[0])
+    if part0 not in full_num:
+        full_num[part0] = file[2]  
+    else:
+        repeated = True
+        
+    # part1: problem name
+    q_name = file[1]
+    q_name = q_name.split("-")
+    q_name = [s.capitalize() for s in q_name]
+    q_name = str(' '.join(q_name))
+    url = "https://leetcode.com/problems/" + str(file[1]) + "/"
+    part1 = "[" + q_name + "]" + "(" + url + ")"
+
+    # part2: solution path
+    if file_original.endswith(".java"):
         q_path = "./algorithms/java/" + str(file_original)
         part2 = "[Java]" + "(" + q_path + ")"
+    elif file_original.endswith(".py"):
+        q_path = "./algorithms/python/" + str(file_original)
+        part2 = "[Python]" + "(" + q_path + ")"
+    
+    if repeated:
+        if full_num[part0] == "java":
+            part2 += "[Java]" + "(" + "./algorithms/java/" + str(part0) + "." + file[1] + ".java" + ")"
+        elif full_num[part0] == "py":
+            part2 += "[Python]" + "(" + "./algorithms/python/" + str(part0) + "." + file[1] + ".py" + ")"
 
-        # part3: difficulty
-        part3 = getLevel(q_table, file[1])
+    # part3: difficulty
+    part3 = getLevel(q_table, file[1])
 
-        # part4: modify time
-        part4 = get_FileModifyTime(file_original)
+    # part4: modify time
+    part4 = get_FileModifyTime(file_original)
 
-        # output
-        f.write("|" + file[0] + "|" + part1 + "|" + part2 + "|" + part3 + "|" + part4 + "|" + '\n')
+    one_line = "| " + str(part0) + " | " + part1 + " | " + part2 + " | " + part3 + " | " + part4 + " |" + '\n'
+    full_prob_table.append(one_line)
 
+# output
+for i in range(len(full_prob_table)):
+    f.write(full_prob_table[i])
+
+print(full_num)
 f.close()
