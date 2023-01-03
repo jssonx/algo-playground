@@ -8,8 +8,7 @@ path = "./algorithms/java"
 files =  os.listdir(path)
 files.sort()
 f = open(readme, 'a+')
-f.write("# 笔记" + '\n'+ '\n')
-f.write("### LeetCode Algorithm" + '\n')
+f.write("# LeetCode Algorithm" + '\n'+ '\n')
 f.write("| # | Title | Solution |" + '\n')
 f.write("|---| ----- | -------- |" + '\n')
     

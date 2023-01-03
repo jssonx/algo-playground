@@ -1,6 +1,5 @@
-# 笔记
+# LeetCode Algorithm
 
-### LeetCode Algorithm
 | # | Title | Solution |
 |---| ----- | -------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./algorithms/java/1.two-sum.java)|
