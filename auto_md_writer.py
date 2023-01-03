@@ -40,9 +40,24 @@ readme = "README.md"
 if os.path.isfile(readme):
     os.remove(readme)
 
-path = "./algorithms/python"
-files =  os.listdir(path)
+
+
+# get all the files in the algorithms folder
+input_path = "./algorithms"
+dir_list = []
+for root, dirs, files in os.walk(input_path):        
+    dir_list = dirs              
+    break
+
+files = []
+for i in range(len(dir_list)):
+    path = "./algorithms/" + dir_list[i]
+    tmp =  os.listdir(path)
+    files += tmp
+
 files.sort()
+
+
 f = open(readme, 'a+')
 f.write("# LeetCode Algorithms" + '\n'+ '\n')
 f.write("| # | Title | Solution | Difficulty | Time |" + '\n')
@@ -81,9 +96,9 @@ for file in files:
     
     if repeated:
         if full_num[part0] == "java":
-            part2 += "[Java]" + "(" + "./algorithms/java/" + str(part0) + "." + file[1] + ".java" + ")"
+            part2 +=" " + "[Java]" + "(" + "./algorithms/java/" + str(part0) + "." + file[1] + ".java" + ")"
         elif full_num[part0] == "py":
-            part2 += "[Python]" + "(" + "./algorithms/python/" + str(part0) + "." + file[1] + ".py" + ")"
+            part2 += " " + "[Python]" + "(" + "./algorithms/python/" + str(part0) + "." + file[1] + ".py" + ")"
 
     # part3: difficulty
     part3 = getLevel(q_table, file[1])
@@ -91,12 +106,17 @@ for file in files:
     # part4: modify time
     part4 = get_FileModifyTime(file_original)
 
-    one_line = "| " + str(part0) + " | " + part1 + " | " + part2 + " | " + part3 + " | " + part4 + " |" + '\n'
-    full_prob_table.append(one_line)
+    one_line = str(part0) + "$" + " | " + str(part0) + " | " + part1 + " | " + part2 + " | " + part3 + " | " + part4 + " |" + '\n'
+    
+    if not repeated:
+        full_prob_table.append(one_line)
+    else:
+        for i in range(len(full_prob_table)):
+            num = full_prob_table[i].split("$")[0]
+            full_prob_table[i] = one_line
 
 # output
 for i in range(len(full_prob_table)):
-    f.write(full_prob_table[i])
+    f.write(full_prob_table[i].split("$")[1])
 
-print(full_num)
 f.close()
