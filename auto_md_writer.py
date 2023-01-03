@@ -3,7 +3,7 @@ import jsonlines
 import time
 
 # get the modify time of a file
-def TimeStampToTime(timestamp):
+def timeStampToTime(timestamp):
     timeStruct = time.localtime(timestamp)
     return time.strftime('%Y-%m-%d %H:%M:%S',timeStruct)
 
@@ -13,7 +13,7 @@ def get_FileModifyTime(fileName):
     elif fileName.endswith(".py"):
         filePath = "./algorithms/python/" + fileName
     t = os.path.getmtime(filePath)
-    res = (TimeStampToTime(t)).split(" ")
+    res = (timeStampToTime(t)).split(" ")
     return res[0]
 
 # construct a full provblem table
