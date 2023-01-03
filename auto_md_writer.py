@@ -16,7 +16,7 @@ def get_FileModifyTime(fileName):
     res = (timeStampToTime(t)).split(" ")
     return res[0]
 
-# construct a full provblem table
+# construct a full problem table
 def json_data_read(json_file_name):
     json_list = []
     with open(json_file_name, 'r+') as f:
