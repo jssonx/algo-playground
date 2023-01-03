@@ -110,7 +110,9 @@ for file in files:
     else:
         for i in range(len(full_prob_table)):
             num = full_prob_table[i].split("$")[0]
-            full_prob_table[i] = one_line
+            if num == str(part0):
+                full_prob_table[i] = one_line
+                break
 
 # output
 for i in range(len(full_prob_table)):
