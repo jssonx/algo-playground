@@ -63,6 +63,7 @@ f.write("|---| ----- | -------- | -------- | -------- |" + '\n')
 # main loop
 full_prob_table = []
 full_num = {}
+small_list = ["a", "an", "the", "in", "on", "at", "by", "for", "of", "with", "to", "and", "or", "but"]
 for file in files:
     repeated = False 
     file_original = file
@@ -78,7 +79,11 @@ for file in files:
     # part1: problem name
     q_name = file[1]
     q_name = q_name.split("-")
-    q_name = [s.capitalize() for s in q_name]
+    for i in range(len(q_name)):
+        if q_name[i] in small_list:
+            continue
+        else:
+            q_name[i] = q_name[i].capitalize()
     q_name = str(' '.join(q_name))
     url = "https://leetcode.com/problems/" + str(file[1]) + "/"
     part1 = "[" + q_name + "]" + "(" + url + ")"
