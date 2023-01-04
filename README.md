@@ -9,6 +9,7 @@
  | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](./algorithms/java/206.reverse-linked-list.java) | Easy | 2023-01-03 |
  | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Java](./algorithms/java/203.remove-linked-list-elements.java) | Easy | 2023-01-03 |
  | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./algorithms/java/160.intersection-of-two-linked-lists.java) | Easy | 2023-01-03 |
+ | 142 | [Linked List Cycle Ii](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./algorithms/java/142.linked-list-cycle-ii.java) | Medium | 2023-01-03 |
  | 59 | [Spiral Matrix Ii](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | 2023-01-03 |
  | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./algorithms/java/27.remove-element.java) | Easy | 2023-01-02 |
  | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./algorithms/java/24.swap-nodes-in-pairs.java) | Medium | 2023-01-03 |
