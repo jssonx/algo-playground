@@ -1,4 +1,4 @@
-# make run n=19
+# e.g. make run n=19
 # NUMBER = $(filter-out $@,$(MAKECMDGOALS))
 
 run:
