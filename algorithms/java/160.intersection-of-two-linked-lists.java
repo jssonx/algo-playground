@@ -40,9 +40,8 @@ public class Solution {
             curB = tmpNode;
         }
         int gap = lenA - lenB;
-        while (gap > 0) {
+        while (gap-- > 0) {
             curA = curA.next;
-            gap--;
         }
         while (curA != null) {
             if (curA == curB) {
