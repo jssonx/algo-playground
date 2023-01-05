@@ -19,6 +19,7 @@
  | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./algorithms/java/151.reverse-words-in-a-string.java) | Easy | 2023-01-05 |
  | 142 | [Linked List Cycle ii](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./algorithms/java/142.linked-list-cycle-ii.java) | Medium | 2023-01-03 |
  | 59 | [Spiral Matrix ii](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | 2023-01-03 |
+ | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Java](./algorithms/java/28.find-the-index-of-the-first-occurrence-in-a-string.java) | Medium | 2023-01-05 |
  | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./algorithms/java/27.remove-element.java) | Easy | 2023-01-02 |
  | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](./algorithms/java/24.swap-nodes-in-pairs.java) | Medium | 2023-01-03 |
  | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Java](./algorithms/java/19.remove-nth-node-from-end-of-list.java) | Medium | 2023-01-03 |
@@ -26,4 +27,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑ = 23
+##### ∑ = 24
