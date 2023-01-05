@@ -74,7 +74,7 @@ f.write("| --- | ----- | -------- | -------- | -------- |" + '\n')
 # main loop
 full_prob_table = []
 full_num = {}
-small_list = ["a", "an", "the", "in", "on", "at", "by", "for", "of", "with", "to", "and", "or", "but"]
+small_list = ["a", "an", "the", "in", "on", "at", "by", "for", "of", "with", "to", "and", "or", "but", "ii", "iii", "iv"]
 for file in files:
     repeated = False 
     file_original = file
