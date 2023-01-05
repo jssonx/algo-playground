@@ -1,6 +1,7 @@
 import os
 import jsonlines
 import time
+import json
 
 # get the modify time of a file
 def timeStampToTime(timestamp):
@@ -130,7 +131,18 @@ for file in files:
                 full_prob_table[i] = one_line
                 break
 
+
+# save the list to the local file
+with open('prob_table.json', 'w') as f_table:
+    json.dump(full_prob_table, f_table)
+
+
 # output
+# # 从本地读取 list
+# with open('prob_table.json', 'r') as f_table:
+#     full_prob_table = json.load(f_table)
+
+
 for i in range(len(full_prob_table)):
     f.write(full_prob_table[i].split("$")[1])
 
