@@ -1,6 +1,10 @@
 # Notes
 
+1002
 ```java
-int [] words = new int[26];
-System.out.println(Arrays.toString(words));
+List<String> res = new ArrayList<>();
+int[] hash = new int[26];
+char c = (char) (i + 'a');
+res.add(String.valueOf(c));
+System.out.println(Arrays.toString(hash));
 ```
