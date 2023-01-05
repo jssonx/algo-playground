@@ -25,3 +25,8 @@ String ransomNote
 for (char r : ransomNote.toCharArray()) {}
 ```
 
+151
+```
+java String和char[] 如何互换？
+使用 toCharArray() 和 new String(char[]) 方法可以在 Java 中将字符串和字符数组之间进行转换。
+```
