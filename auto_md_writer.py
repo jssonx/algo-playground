@@ -69,7 +69,7 @@ files = files_sorted
 f = open(readme, 'a+')
 f.write("# LeetCode Algorithms" + '\n'+ '\n')
 f.write("| # | Title | Solution | Difficulty | Time |" + '\n')
-f.write("|---| ----- | -------- | -------- | -------- |" + '\n')
+f.write("| --- | ----- | -------- | -------- | -------- |" + '\n')
 
 # main loop
 full_prob_table = []
