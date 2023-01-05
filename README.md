@@ -7,6 +7,7 @@
  | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java](./algorithms/java/707.design-linked-list.java) | Medium | 2023-01-03 |
  | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./algorithms/java/704.binary-search.java) | Medium | 2023-01-02 |
  | 454 | [4sum ii](https://leetcode.com/problems/4sum-ii/) | [Java](./algorithms/java/454.4sum-ii.java) | Medium | 2023-01-04 |
+ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./algorithms/java/383.ransom-note.java) | Easy | 2023-01-05 |
  | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./algorithms/java/349.intersection-of-two-arrays.java) | Easy | 2023-01-04 |
  | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./algorithms/java/242.valid-anagram.java) | Easy | 2023-01-03 |
  | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./algorithms/java/209.minimum-size-subarray-sum.java) | Medium | 2023-01-03 |

@@ -18,3 +18,10 @@ res.stream().mapToInt(i -> i).toArray();
 // List<Integer> -> int[]
 res.stream().mapToInt(i -> i).toArray();
 ```
+
+383
+```java
+String ransomNote
+for (char r : ransomNote.toCharArray()) {}
+```
+
