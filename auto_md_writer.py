@@ -134,4 +134,6 @@ for file in files:
 for i in range(len(full_prob_table)):
     f.write(full_prob_table[i].split("$")[1])
 
+f.write("\n")
+f.write("##### ∑ = " + str(len(full_prob_table)))
 f.close()
