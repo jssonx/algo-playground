@@ -8,3 +8,13 @@ char c = (char) (i + 'a');
 res.add(String.valueOf(c));
 System.out.println(Arrays.toString(hash));
 ```
+
+349
+```java
+Set<Integer> set = new HashSet<>();
+System.out.println(set);
+// Set<Integer> -> int[]
+res.stream().mapToInt(i -> i).toArray();
+// List<Integer> -> int[]
+res.stream().mapToInt(i -> i).toArray();
+```
