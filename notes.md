@@ -57,3 +57,29 @@ map.put('(', ')');
 map.put('[', ']');
 map.put('{', '}');
 ```
+
+1047
+```java
+Stack<Character> stk = new Stack<>();
+String str = stk.toString();
+str = str.replaceAll("\\[|\\]|,| ", "");
+```
+```java
+class Solution {
+    public String removeDuplicates(String s) {
+        Deque<Character> dq = new ArrayDeque<>();
+        for (char c : s.toCharArray()) {
+            if (!dq.isEmpty() && dq.peekLast() == c) {
+                dq.pollLast();
+            } else {
+                dq.offer(c);
+            }
+         }
+        StringBuilder sb = new StringBuilder();
+        for (char c : dq) { 
+            sb.append(c);
+        }
+        return sb.toString();
+    }
+}
+```

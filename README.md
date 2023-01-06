@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty | Time |
 | --- | ----- | -------- | -------- | -------- |
+ | 1047 | [Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Java](./algorithms/java/1047.remove-all-adjacent-duplicates-in-string.java) | Medium | 2023-01-05 |
  | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [Java](./algorithms/java/1002.find-common-characters.java) | Easy | 2023-01-04 |
  | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/java/977.squares-of-a-sorted-array.java) | Easy | 2023-01-03 |
  | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java](./algorithms/java/707.design-linked-list.java) | Medium | 2023-01-03 |
@@ -31,4 +32,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑ = 28
+##### ∑ = 29
