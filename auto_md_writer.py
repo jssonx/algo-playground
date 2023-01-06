@@ -125,6 +125,7 @@ for file in files:
     if not repeated:
         full_prob_table.append(one_line)
     else:
+        # update this line (since there is a new revision time and possibly a new solution)
         for i in range(len(full_prob_table)):
             num = full_prob_table[i].split("$")[0]
             if num == str(part0):
