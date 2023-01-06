@@ -28,6 +28,7 @@
  | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./algorithms/java/145.binary-tree-postorder-traversal.java) | Easy | 2023-01-06 |
  | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./algorithms/java/144.binary-tree-preorder-traversal.java) | Easy | 2023-01-06 |
  | 142 | [Linked List Cycle ii](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./algorithms/java/142.linked-list-cycle-ii.java) | Medium | 2023-01-03 |
+ | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./algorithms/java/104.maximum-depth-of-binary-tree.java) | Easy | 2023-01-06 |
  | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./algorithms/java/102.binary-tree-level-order-traversal.java) | Medium | 2023-01-06 |
  | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./algorithms/java/101.symmetric-tree.java) | Easy | 2023-01-06 |
  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) | Easy | 2023-01-06 |
@@ -41,4 +42,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑ = 38
+##### ∑ = 39
