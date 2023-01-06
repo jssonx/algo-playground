@@ -25,6 +25,7 @@
  | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./algorithms/java/151.reverse-words-in-a-string.java) | Easy | 2023-01-05 |
  | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./algorithms/java/150.evaluate-reverse-polish-notation.java) | Medium | 2023-01-05 |
  | 142 | [Linked List Cycle ii](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./algorithms/java/142.linked-list-cycle-ii.java) | Medium | 2023-01-03 |
+ | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) | Easy | 2023-01-05 |
  | 59 | [Spiral Matrix ii](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | 2023-01-03 |
  | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Java](./algorithms/java/28.find-the-index-of-the-first-occurrence-in-a-string.java) | Medium | 2023-01-05 |
  | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Java](./algorithms/java/27.remove-element.java) | Easy | 2023-01-02 |
@@ -35,4 +36,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑ = 32
+##### ∑ = 33
