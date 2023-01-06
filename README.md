@@ -13,6 +13,7 @@
  | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./algorithms/java/349.intersection-of-two-arrays.java) | Easy | 2023-01-04 |
  | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./algorithms/java/344.reverse-string.java) | Easy | 2023-01-05 |
  | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./algorithms/java/242.valid-anagram.java) | Easy | 2023-01-03 |
+ | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](./algorithms/java/239.sliding-window-maximum.java) | Hard | 2023-01-05 |
  | 232 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./algorithms/java/232.implement-queue-using-stacks.java) | Easy | 2023-01-05 |
  | 225 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](./algorithms/java/225.implement-stack-using-queues.java) | Easy | 2023-01-05 |
  | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Java](./algorithms/java/209.minimum-size-subarray-sum.java) | Medium | 2023-01-03 |
@@ -33,4 +34,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑ = 30
+##### ∑ = 31
