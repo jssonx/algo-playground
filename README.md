@@ -9,6 +9,7 @@
  | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./algorithms/java/704.binary-search.java) | Medium | 2023-01-02 |
  | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Java](./algorithms/java/459.repeated-substring-pattern.java) | Easy | 2023-01-05 |
  | 454 | [4sum ii](https://leetcode.com/problems/4sum-ii/) | [Java](./algorithms/java/454.4sum-ii.java) | Medium | 2023-01-04 |
+ | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](./algorithms/java/404.sum-of-left-leaves.java) | Easy | 2023-01-06 |
  | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./algorithms/java/383.ransom-note.java) | Easy | 2023-01-05 |
  | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./algorithms/java/349.intersection-of-two-arrays.java) | Easy | 2023-01-04 |
  | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](./algorithms/java/347.top-k-frequent-elements.java) | Medium | 2023-01-05 |
@@ -47,4 +48,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑ = 44
+##### ∑ = 45
