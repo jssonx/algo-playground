@@ -83,3 +83,11 @@ class Solution {
     }
 }
 ```
+
+150
+```java
+String[] array = new String[] {"e1","e2","e3"};
+for (String t: tokens) { 
+    int x = Integer.parseInt(t)
+}
+```
