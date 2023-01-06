@@ -14,6 +14,7 @@
  | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./algorithms/java/349.intersection-of-two-arrays.java) | Easy | 2023-01-04 |
  | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](./algorithms/java/347.top-k-frequent-elements.java) | Medium | 2023-01-05 |
  | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](./algorithms/java/344.reverse-string.java) | Easy | 2023-01-05 |
+ | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [Java](./algorithms/java/266.palindrome-permutation.java) | Medium | 2023-01-06 |
  | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Java](./algorithms/java/257.binary-tree-paths.java) | Easy | 2023-01-06 |
  | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./algorithms/java/242.valid-anagram.java) | Easy | 2023-01-03 |
  | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](./algorithms/java/239.sliding-window-maximum.java) | Hard | 2023-01-05 |
@@ -48,4 +49,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑ = 45
+##### ∑ = 46

@@ -113,3 +113,10 @@ class Solution {
     }
 }
 ```
+
+266
+```java
+for (char key: map.keySet()) {
+    int val = map.get(key);
+}
+```
