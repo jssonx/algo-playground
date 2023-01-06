@@ -134,7 +134,7 @@ for file in files:
 
 # save the list to the local file
 with open('prob_table.json', 'w') as f_table:
-    json.dump(full_prob_table, f_table)
+    json.dump(full_prob_table, f_table, indent = 4)
 
 
 # output
