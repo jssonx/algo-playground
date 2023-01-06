@@ -24,6 +24,8 @@
  | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](./algorithms/java/160.intersection-of-two-linked-lists.java) | Easy | 2023-01-03 |
  | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./algorithms/java/151.reverse-words-in-a-string.java) | Easy | 2023-01-05 |
  | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Java](./algorithms/java/150.evaluate-reverse-polish-notation.java) | Medium | 2023-01-05 |
+ | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./algorithms/java/145.binary-tree-postorder-traversal.java) | Easy | 2023-01-05 |
+ | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Java](./algorithms/java/144.binary-tree-preorder-traversal.java) | Easy | 2023-01-05 |
  | 142 | [Linked List Cycle ii](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](./algorithms/java/142.linked-list-cycle-ii.java) | Medium | 2023-01-03 |
  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) | Easy | 2023-01-05 |
  | 59 | [Spiral Matrix ii](https://leetcode.com/problems/spiral-matrix-ii/) | [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | 2023-01-03 |
@@ -36,4 +38,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑ = 33
+##### ∑ = 35
