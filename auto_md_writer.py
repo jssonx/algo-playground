@@ -1,7 +1,8 @@
 import os
+import json
 import jsonlines
 import time
-import json
+import datetime
 
 # get the modify time of a file
 def timeStampToTime(timestamp):
@@ -76,6 +77,10 @@ f.write("| --- | ----- | -------- | -------- | -------- |" + '\n')
 full_prob_table = []
 full_num = {}
 small_list = ["a", "an", "the", "in", "on", "at", "by", "for", "of", "with", "to", "and", "or", "but", "ii", "iii", "iv"]
+now = datetime.datetime.now()
+now = now.strftime("%Y-%m-%d %H:%M:%S")
+today = (now.split(" "))[0]
+today_num = 0
 for file in files:
     repeated = False 
     file_original = file
@@ -121,7 +126,10 @@ for file in files:
     part4 = get_FileModifyTime(file_original)
 
     one_line = str(part0) + "$" + " | " + str(part0) + " | " + part1 + " | " + part2 + " | " + part3 + " | " + part4 + " |" + '\n'
-    
+
+    if today in one_line:
+        today_num += 1
+
     if not repeated:
         full_prob_table.append(one_line)
     else:
@@ -148,5 +156,6 @@ for i in range(len(full_prob_table)):
     f.write(full_prob_table[i].split("$")[1])
 
 f.write("\n")
-f.write("##### ∑ = " + str(len(full_prob_table)))
+f.write("##### ∑all = " + str(len(full_prob_table)) +  "&nbsp;&nbsp;" + "∑today = " + str(today_num))
+
 f.close()

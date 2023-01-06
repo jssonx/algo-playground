@@ -49,4 +49,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑ = 46
+##### ∑all = 46&nbsp;&nbsp;∑today = 14
