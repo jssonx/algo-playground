@@ -49,3 +49,11 @@ queue.peek(); // .top()
 queue.offer(x); // .push()
 queue.size();
 ```
+
+20
+```java
+Map<Character, Character> map = new HashMap<>();
+map.put('(', ')');
+map.put('[', ']');
+map.put('{', '}');
+```
