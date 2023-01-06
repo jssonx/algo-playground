@@ -30,3 +30,22 @@ for (char r : ransomNote.toCharArray()) {}
 java String和char[] 如何互换？
 使用 toCharArray() 和 new String(char[]) 方法可以在 Java 中将字符串和字符数组之间进行转换。
 ```
+
+232
+```java
+Stack<Integer> stackIn;
+stackIn = new Stack<>();
+stackIn.push(x);
+stackIn.pop();
+stackIn.peek();
+```
+
+225
+```java
+Queue<Integer> queue;
+queue = new LinkedList<>();
+queue.poll(); // .pop()
+queue.peek(); // .top()
+queue.offer(x); // .push()
+queue.size();
+```
