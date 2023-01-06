@@ -156,6 +156,6 @@ for i in range(len(full_prob_table)):
     f.write(full_prob_table[i].split("$")[1])
 
 f.write("\n")
-f.write("##### ∑all = " + str(len(full_prob_table)) +  "&nbsp;&nbsp;" + "∑today = " + str(today_num))
+f.write("##### ∑all = " + str(len(full_prob_table)) +  "&nbsp;&nbsp;" + "∑" + today + " = " + str(today_num))
 
 f.close()
