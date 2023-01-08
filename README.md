@@ -10,6 +10,7 @@
  | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./algorithms/java/700.search-in-a-binary-search-tree.java) | Easy | 2023-01-08 |
  | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Java](./algorithms/java/654.maximum-binary-tree.java) | Medium | 2023-01-08 |
  | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](./algorithms/java/617.merge-two-binary-trees.java) | Easy | 2023-01-08 |
+ | 530 | [Minimum Absolute Difference in Bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](./algorithms/java/530.minimum-absolute-difference-in-bst.java) | Easy | 2023-01-08 |
  | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./algorithms/java/513.find-bottom-left-tree-value.java) | Medium | 2023-01-07 |
  | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Java](./algorithms/java/459.repeated-substring-pattern.java) | Easy | 2023-01-05 |
  | 454 | [4sum ii](https://leetcode.com/problems/4sum-ii/) | [Java](./algorithms/java/454.4sum-ii.java) | Medium | 2023-01-04 |
@@ -57,4 +58,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑all = 54&nbsp;&nbsp;∑2023-01-08 = 6
+##### ∑all = 55&nbsp;&nbsp;∑2023-01-08 = 7
