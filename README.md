@@ -36,6 +36,7 @@
  | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./algorithms/java/112.path-sum.java) | Hard | 2023-01-07 |
  | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Java](./algorithms/java/111.minimum-depth-of-binary-tree.java) | Easy | 2023-01-06 |
  | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./algorithms/java/110.balanced-binary-tree.java) | Easy | 2023-01-06 |
+ | 106 | [Construct Binary Tree From Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Java](./algorithms/java/106.construct-binary-tree-from-inorder-and-postorder-traversal.java) | Medium | 2023-01-08 |
  | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](./algorithms/java/104.maximum-depth-of-binary-tree.java) | Easy | 2023-01-06 |
  | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Java](./algorithms/java/102.binary-tree-level-order-traversal.java) | Medium | 2023-01-06 |
  | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Java](./algorithms/java/101.symmetric-tree.java) | Easy | 2023-01-06 |
@@ -51,4 +52,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑all = 48&nbsp;&nbsp;∑2023-01-07 = 2
+##### ∑all = 49&nbsp;&nbsp;∑2023-01-08 = 1
