@@ -76,7 +76,7 @@ f.write("| --- | ----- | -------- | -------- | -------- |" + '\n')
 # main loop
 full_prob_table = []
 full_num = {}
-small_list = ["a", "an", "the", "in", "on", "at", "from", "by", "for", "of", "with", "to", "and", "or", "but", "ii", "iii", "iv", "BST"]
+small_list = ["a", "an", "the", "in", "on", "at", "from", "by", "for", "of", "with", "to", "and", "or", "but", "ii", "iii", "iv"]
 now = datetime.datetime.now()
 now = now.strftime("%Y-%m-%d %H:%M:%S")
 today = (now.split(" "))[0]
