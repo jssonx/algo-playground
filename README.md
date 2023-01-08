@@ -7,6 +7,7 @@
  | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Java](./algorithms/java/977.squares-of-a-sorted-array.java) | Easy | 2023-01-03 |
  | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | [Java](./algorithms/java/707.design-linked-list.java) | Medium | 2023-01-03 |
  | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./algorithms/java/704.binary-search.java) | Medium | 2023-01-02 |
+ | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./algorithms/java/700.search-in-a-binary-search-tree.java) | Easy | 2023-01-08 |
  | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Java](./algorithms/java/654.maximum-binary-tree.java) | Medium | 2023-01-08 |
  | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](./algorithms/java/617.merge-two-binary-trees.java) | Easy | 2023-01-08 |
  | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./algorithms/java/513.find-bottom-left-tree-value.java) | Medium | 2023-01-07 |
@@ -55,4 +56,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 |
 
-##### ∑all = 52&nbsp;&nbsp;∑2023-01-08 = 4
+##### ∑all = 53&nbsp;&nbsp;∑2023-01-08 = 5
