@@ -168,7 +168,6 @@ for file in files:
     #     else:
     #         q_name[i] = q_name[i].capitalize()
     # q_name = str(' '.join(q_name))
-    print(q_name)
     url = "https://leetcode.com/problems/" + str(file[1]) + "/"
     part1 = "[" + q_name + "]" + "(" + url + ")"
 
