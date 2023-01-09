@@ -11,14 +11,14 @@ tags_files = os.listdir(tags_path)
 tags_files.remove('problems.json')
 tags_files.remove('translationConfig.json')
 
-# 读取所有json文件
+# read all json files
 json_data = []
 for file in tags_files:
     with open(tags_path + file, 'r') as f:
         data = json.loads(f.read())
         json_data.append(data)
 
-# 将所有json文件内容并列存放在新的json文件中
+# store the contents of all json files side-by-side in a new json file
 with open('tags.json', 'w') as f:
     json.dump(json_data, f, indent = 4)
 
@@ -163,7 +163,6 @@ with open('output_table.json', 'w') as f_table:
     json.dump(full_prob_table, f_table, indent = 4)
 
 # output
-# # 从本地读取 list
 # with open('output_table.json', 'r') as f_table:
 #     full_prob_table = json.load(f_table)
 
