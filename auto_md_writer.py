@@ -4,6 +4,26 @@ import jsonlines
 import time
 import datetime
 
+# construct a table of tags
+tags_files = []
+tags_path = "/home/jsson/.lc/leetcode/cache/"
+tags_files = os.listdir(tags_path)
+tags_files.remove('problems.json')
+tags_files.remove('translationConfig.json')
+
+# 读取所有json文件
+json_data = []
+for file in tags_files:
+    with open(tags_path + file, 'r') as f:
+        data = json.loads(f.read())
+        json_data.append(data)
+
+# 将所有json文件内容并列存放在新的json文件中
+with open('tags.json', 'w') as f:
+    json.dump(json_data, f, indent = 4)
+
+#########################################
+
 # get the modify time of a file
 def timeStampToTime(timestamp):
     timeStruct = time.localtime(timestamp)
@@ -30,11 +50,31 @@ all_problems_path = "/home/jsson/.lc/leetcode/cache/problems.json"
 q_table = json_data_read(all_problems_path)
 q_table = q_table[0]
 
+# save the list to the local file
+with open('test.json', 'w') as ff_table:
+    json.dump(q_table, ff_table, indent = 4)
+
 # get the level of a problem
 def getLevel(q_table, problem):
     for i in range(len(q_table)):
         if problem in q_table[i]["link"]:
-            return str(q_table[i]["level"])
+            name = str(q_table[i]["name"])
+            level = str(q_table[i]["level"])
+            category = str(q_table[i]["category"])
+            return level
+
+# get tags
+with open('tags.json', 'r') as f_table:
+    tags_table = json.load(f_table)
+def get_tags(p_num, tags_table):
+    for i in range(len(tags_table)):
+        if tags_table[i]['fid'] == p_num:
+            return tags_table[i]['tags']
+def tagging(tags):
+    tag_list = []
+    for tag in tags:
+        tag_list.append("`" + tag + "`")
+    return " ".join(tag_list)
 
 # construct a readme file
 readme = "README.md"
@@ -70,8 +110,8 @@ files = files_sorted
 
 f = open(readme, 'a+')
 f.write("# LeetCode Algorithms" + '\n'+ '\n')
-f.write("| # | Title | Solution | Difficulty | Time |" + '\n')
-f.write("| --- | ----- | -------- | -------- | -------- |" + '\n')
+f.write("| # | Title | Solution | Difficulty | Time | Tags |" + '\n')
+f.write("| --- | ----- | -------- | -------- | -------- | -------- |" + '\n')
 
 # main loop
 full_prob_table = []
@@ -125,7 +165,10 @@ for file in files:
     # part4: modify time
     part4 = get_FileModifyTime(file_original)
 
-    one_line = str(part0) + "$" + " | " + str(part0) + " | " + part1 + " | " + part2 + " | " + part3 + " | " + part4 + " |" + '\n'
+    # part5: tags
+    part5 = tagging(get_tags(part0, tags_table))
+
+    one_line = str(part0) + "$" + " | " + str(part0) + " | " + part1 + " | " + part2 + " | " + part3 + " | " + part4 + " | " + part5 + " |" + '\n'
 
     if today in one_line:
         today_num += 1
