@@ -69,7 +69,7 @@ with open('tags.json', 'r') as f_table:
 def get_tags(p_num, tags_table):
     for i in range(len(tags_table)):
         if tags_table[i]['fid'] == p_num:
-            return tags_table[i]['tags'], tags_table[i]['tags']
+            return tags_table[i]['tags'], tags_table[i]['name']
 def tagging(tags):
     tag_list = []
     for tag in tags:
@@ -133,17 +133,7 @@ for file in files:
     else:
         repeated = True
         
-    # part1: problem name
-    q_name = file[1]
-    q_name = q_name.split("-")
-    for i in range(len(q_name)):
-        if q_name[i] in small_list:
-            continue
-        else:
-            q_name[i] = q_name[i].capitalize()
-    q_name = str(' '.join(q_name))
-    url = "https://leetcode.com/problems/" + str(file[1]) + "/"
-    part1 = "[" + q_name + "]" + "(" + url + ")"
+    
 
     # part2: solution path
     if file_original.endswith(".java"):
@@ -166,8 +156,21 @@ for file in files:
     part4 = get_FileModifyTime(file_original)
 
     # part5: tags
-    tag, name = get_tags(part0, tags_table)
+    tag, q_name = get_tags(part0, tags_table)
     part5 = tagging(tag)
+
+    # part1: problem name
+    # q_name = file[1]
+    # q_name = q_name.split("-")
+    # for i in range(len(q_name)):
+    #     if q_name[i] in small_list:
+    #         continue
+    #     else:
+    #         q_name[i] = q_name[i].capitalize()
+    # q_name = str(' '.join(q_name))
+    print(q_name)
+    url = "https://leetcode.com/problems/" + str(file[1]) + "/"
+    part1 = "[" + q_name + "]" + "(" + url + ")"
 
     one_line = str(part0) + "$" + " | " + str(part0) + " | " + part1 + " | " + part2 + " | " + part3 + " | " + part4 + " | " + part5 + " |" + '\n'
 
