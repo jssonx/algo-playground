@@ -69,7 +69,7 @@ with open('tags.json', 'r') as f_table:
 def get_tags(p_num, tags_table):
     for i in range(len(tags_table)):
         if tags_table[i]['fid'] == p_num:
-            return tags_table[i]['tags'], tags_table[i]['name']
+            return tags_table[i]['tags'], tags_table[i]['name'], tags_table[i]['level']
 def tagging(tags):
     tag_list = []
     for tag in tags:
@@ -116,7 +116,6 @@ f.write("| --- | ----- | -------- | -------- | -------- | -------- |" + '\n')
 # main loop
 full_prob_table = []
 full_num = {}
-small_list = ["a", "an", "the", "in", "on", "at", "from", "by", "for", "of", "with", "to", "and", "or", "but", "ii", "iii", "iv"]
 now = datetime.datetime.now()
 now = now.strftime("%Y-%m-%d %H:%M:%S")
 today = (now.split(" "))[0]
@@ -133,8 +132,6 @@ for file in files:
     else:
         repeated = True
         
-    
-
     # part2: solution path
     if file_original.endswith(".java"):
         q_path = "./algorithms/java/" + str(file_original)
@@ -145,31 +142,24 @@ for file in files:
     
     if repeated:
         if full_num[part0] == "java":
-            part2 +=" " + "[Java]" + "(" + "./algorithms/java/" + str(part0) + "." + file[1] + ".java" + ")"
+            part2 += " " + "[Java]" + "(" + "./algorithms/java/" + str(part0) + "." + file[1] + ".java" + ")"
         elif full_num[part0] == "py":
             part2 += " " + "[Python]" + "(" + "./algorithms/python/" + str(part0) + "." + file[1] + ".py" + ")"
-
-    # part3: difficulty
-    part3 = getLevel(q_table, file[1])
 
     # part4: modify time
     part4 = get_FileModifyTime(file_original)
 
     # part5: tags
-    tag, q_name = get_tags(part0, tags_table)
+    tag, q_name, q_level = get_tags(part0, tags_table)
     part5 = tagging(tag)
 
     # part1: problem name
-    # q_name = file[1]
-    # q_name = q_name.split("-")
-    # for i in range(len(q_name)):
-    #     if q_name[i] in small_list:
-    #         continue
-    #     else:
-    #         q_name[i] = q_name[i].capitalize()
-    # q_name = str(' '.join(q_name))
     url = "https://leetcode.com/problems/" + str(file[1]) + "/"
     part1 = "[" + q_name + "]" + "(" + url + ")"
+
+    # part3: difficulty
+    # part3 = getLevel(q_table, file[1])
+    part3 = q_level
 
     one_line = str(part0) + "$" + " | " + str(part0) + " | " + part1 + " | " + part2 + " | " + part3 + " | " + part4 + " | " + part5 + " |" + '\n'
 
