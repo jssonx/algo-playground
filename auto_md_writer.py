@@ -159,12 +159,12 @@ for file in files:
                 break
 
 # save the list to the local file
-with open('prob_table.json', 'w') as f_table:
+with open('output_table.json', 'w') as f_table:
     json.dump(full_prob_table, f_table, indent = 4)
 
 # output
 # # 从本地读取 list
-# with open('prob_table.json', 'r') as f_table:
+# with open('output_table.json', 'r') as f_table:
 #     full_prob_table = json.load(f_table)
 
 for i in range(len(full_prob_table)):
