@@ -13,6 +13,7 @@
     "501$ | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Java](./algorithms/java/501.find-mode-in-binary-search-tree.java) | Easy | 2023-01-08 | `tree` |\n",
     "459$ | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Java](./algorithms/java/459.repeated-substring-pattern.java) | Easy | 2023-01-05 | `string` |\n",
     "454$ | 454 | [4sum ii](https://leetcode.com/problems/4sum-ii/) | [Java](./algorithms/java/454.4sum-ii.java) | Medium | 2023-01-04 | `hash-table` `binary-search` |\n",
+    "450$ | 450 | [Delete Node in a Bst](https://leetcode.com/problems/delete-node-in-a-bst/) | [Java](./algorithms/java/450.delete-node-in-a-bst.java) | Medium | 2023-01-09 | `tree` |\n",
     "404$ | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](./algorithms/java/404.sum-of-left-leaves.java) | Easy | 2023-01-06 | `tree` |\n",
     "383$ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./algorithms/java/383.ransom-note.java) | Easy | 2023-01-05 | `string` |\n",
     "349$ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./algorithms/java/349.intersection-of-two-arrays.java) | Easy | 2023-01-04 | `hash-table` `two-pointers` `binary-search` `sort` |\n",

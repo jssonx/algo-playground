@@ -16,6 +16,7 @@
  | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Java](./algorithms/java/501.find-mode-in-binary-search-tree.java) | Easy | 2023-01-08 | `tree` |
  | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Java](./algorithms/java/459.repeated-substring-pattern.java) | Easy | 2023-01-05 | `string` |
  | 454 | [4sum ii](https://leetcode.com/problems/4sum-ii/) | [Java](./algorithms/java/454.4sum-ii.java) | Medium | 2023-01-04 | `hash-table` `binary-search` |
+ | 450 | [Delete Node in a Bst](https://leetcode.com/problems/delete-node-in-a-bst/) | [Java](./algorithms/java/450.delete-node-in-a-bst.java) | Medium | 2023-01-09 | `tree` |
  | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](./algorithms/java/404.sum-of-left-leaves.java) | Easy | 2023-01-06 | `tree` |
  | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./algorithms/java/383.ransom-note.java) | Easy | 2023-01-05 | `string` |
  | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](./algorithms/java/349.intersection-of-two-arrays.java) | Easy | 2023-01-04 | `hash-table` `two-pointers` `binary-search` `sort` |
@@ -62,4 +63,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 | `array` `hash-table` |
 
-##### ∑all = 59&nbsp;&nbsp;∑2023-01-09 = 1
+##### ∑all = 60&nbsp;&nbsp;∑2023-01-09 = 2
