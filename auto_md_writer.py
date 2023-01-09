@@ -46,22 +46,22 @@ def json_data_read(json_file_name):
             json_list.append(item)
     return  json_list
 
-all_problems_path = "/home/jsson/.lc/leetcode/cache/problems.json"
-q_table = json_data_read(all_problems_path)
-q_table = q_table[0]
+# all_problems_path = "/home/jsson/.lc/leetcode/cache/problems.json"
+# q_table = json_data_read(all_problems_path)
+# q_table = q_table[0]
 
-# save the list to the local file
-with open('test.json', 'w') as ff_table:
-    json.dump(q_table, ff_table, indent = 4)
+# # save the list to the local file
+# with open('test.json', 'w') as ff_table:
+#     json.dump(q_table, ff_table, indent = 4)
 
-# get the level of a problem
-def getLevel(q_table, problem):
-    for i in range(len(q_table)):
-        if problem in q_table[i]["link"]:
-            name = str(q_table[i]["name"])
-            level = str(q_table[i]["level"])
-            category = str(q_table[i]["category"])
-            return level
+# # get the level of a problem
+# def getLevel(q_table, problem):
+#     for i in range(len(q_table)):
+#         if problem in q_table[i]["link"]:
+#             name = str(q_table[i]["name"])
+#             level = str(q_table[i]["level"])
+#             category = str(q_table[i]["category"])
+#             return level
 
 # get tags
 with open('tags.json', 'r') as f_table:
@@ -158,7 +158,6 @@ for file in files:
     part1 = "[" + q_name + "]" + "(" + url + ")"
 
     # part3: difficulty
-    # part3 = getLevel(q_table, file[1])
     part3 = q_level
 
     one_line = str(part0) + "$" + " | " + str(part0) + " | " + part1 + " | " + part2 + " | " + part3 + " | " + part4 + " | " + part5 + " |" + '\n'
