@@ -69,7 +69,7 @@ with open('tags.json', 'r') as f_table:
 def get_tags(p_num, tags_table):
     for i in range(len(tags_table)):
         if tags_table[i]['fid'] == p_num:
-            return tags_table[i]['tags']
+            return tags_table[i]['tags'], tags_table[i]['tags']
 def tagging(tags):
     tag_list = []
     for tag in tags:
@@ -166,7 +166,8 @@ for file in files:
     part4 = get_FileModifyTime(file_original)
 
     # part5: tags
-    part5 = tagging(get_tags(part0, tags_table))
+    tag, name = get_tags(part0, tags_table)
+    part5 = tagging(tag)
 
     one_line = str(part0) + "$" + " | " + str(part0) + " | " + part1 + " | " + part2 + " | " + part3 + " | " + part4 + " | " + part5 + " |" + '\n'
 
