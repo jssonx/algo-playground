@@ -22,8 +22,6 @@ for file in tags_files:
 with open('tags.json', 'w') as f:
     json.dump(json_data, f, indent = 4)
 
-#########################################
-
 # get the modify time of a file
 def timeStampToTime(timestamp):
     timeStruct = time.localtime(timestamp)
@@ -46,30 +44,15 @@ def json_data_read(json_file_name):
             json_list.append(item)
     return  json_list
 
-# all_problems_path = "/home/jsson/.lc/leetcode/cache/problems.json"
-# q_table = json_data_read(all_problems_path)
-# q_table = q_table[0]
-
-# # save the list to the local file
-# with open('test.json', 'w') as ff_table:
-#     json.dump(q_table, ff_table, indent = 4)
-
-# # get the level of a problem
-# def getLevel(q_table, problem):
-#     for i in range(len(q_table)):
-#         if problem in q_table[i]["link"]:
-#             name = str(q_table[i]["name"])
-#             level = str(q_table[i]["level"])
-#             category = str(q_table[i]["category"])
-#             return level
-
-# get tags
+# get tags, names and levels
 with open('tags.json', 'r') as f_table:
     tags_table = json.load(f_table)
+
 def get_tags(p_num, tags_table):
     for i in range(len(tags_table)):
         if tags_table[i]['fid'] == p_num:
             return tags_table[i]['tags'], tags_table[i]['name'], tags_table[i]['level']
+
 def tagging(tags):
     tag_list = []
     for tag in tags:
@@ -175,17 +158,14 @@ for file in files:
                 full_prob_table[i] = one_line
                 break
 
-
 # save the list to the local file
 with open('prob_table.json', 'w') as f_table:
     json.dump(full_prob_table, f_table, indent = 4)
-
 
 # output
 # # 从本地读取 list
 # with open('prob_table.json', 'r') as f_table:
 #     full_prob_table = json.load(f_table)
-
 
 for i in range(len(full_prob_table)):
     f.write(full_prob_table[i].split("$")[1])
