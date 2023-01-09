@@ -21,9 +21,39 @@
  * }
  */
 class Solution {
+    int cur_len = 0;
+    int max_len = Integer.MIN_VALUE;
+    TreeNode prev = null;
+    ArrayList<Integer> resList = new ArrayList<>();;
     public int[] findMode(TreeNode root) {
-        
-        
+        traverse(root);
+
+        int[] res = new int[resList.size()];
+        for (int i = 0; i < resList.size(); i++) {
+            res[i] = resList.get(i);
+        }
+        return res;
+
+    }
+    private void traverse(TreeNode node) {
+        if (node == null) {
+            return;
+        }
+        traverse(node.left);
+        if (prev == null || prev.val != node.val) {
+            cur_len = 1;
+        } else {
+            cur_len++;
+        }
+        if (cur_len > max_len) {
+            resList.clear();
+            resList.add(node.val);
+            max_len = cur_len;
+        } else if (cur_len == max_len) {
+            resList.add(node.val); 
+        }
+        prev = node;
+        traverse(node.right);
     }
 }
 // @lc code=end
