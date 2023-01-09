@@ -25,6 +25,7 @@
  | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./algorithms/java/242.valid-anagram.java) | Easy | 2023-01-03 | `hash-table` `sort` |
  | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Java](./algorithms/java/239.sliding-window-maximum.java) | Hard | 2023-01-05 | `heap` `sliding-window` |
  | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Java](./algorithms/java/236.lowest-common-ancestor-of-a-binary-tree.java) | Medium | 2023-01-08 | `tree` |
+ | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Java](./algorithms/java/235.lowest-common-ancestor-of-a-binary-search-tree.java) | Medium | 2023-01-08 | `tree` |
  | 232 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Java](./algorithms/java/232.implement-queue-using-stacks.java) | Easy | 2023-01-05 | `stack` `design` |
  | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](./algorithms/java/226.invert-binary-tree.java) | Easy | 2023-01-06 | `tree` |
  | 225 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Java](./algorithms/java/225.implement-stack-using-queues.java) | Easy | 2023-01-05 | `stack` `design` |
@@ -60,4 +61,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 | `array` `hash-table` |
 
-##### ∑all = 57&nbsp;&nbsp;∑2023-01-08 = 9
+##### ∑all = 58&nbsp;&nbsp;∑2023-01-09 = 0
