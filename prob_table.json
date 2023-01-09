@@ -9,6 +9,7 @@
     "669$ | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Java](./algorithms/java/669.trim-a-binary-search-tree.java) | Medium | 2023-01-09 | `tree` |\n",
     "654$ | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Java](./algorithms/java/654.maximum-binary-tree.java) | Medium | 2023-01-08 | `tree` |\n",
     "617$ | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](./algorithms/java/617.merge-two-binary-trees.java) | Easy | 2023-01-08 | `tree` |\n",
+    "538$ | 538 | [Convert Bst to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Java](./algorithms/java/538.convert-bst-to-greater-tree.java) | Medium | 2023-01-09 | `tree` |\n",
     "530$ | 530 | [Minimum Absolute Difference in Bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](./algorithms/java/530.minimum-absolute-difference-in-bst.java) | Easy | 2023-01-08 | `tree` |\n",
     "513$ | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./algorithms/java/513.find-bottom-left-tree-value.java) | Medium | 2023-01-07 | `tree` `depth-first-search` `breadth-first-search` |\n",
     "501$ | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Java](./algorithms/java/501.find-mode-in-binary-search-tree.java) | Easy | 2023-01-08 | `tree` |\n",

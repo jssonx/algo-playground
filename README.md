@@ -12,6 +12,7 @@
  | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Java](./algorithms/java/669.trim-a-binary-search-tree.java) | Medium | 2023-01-09 | `tree` |
  | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Java](./algorithms/java/654.maximum-binary-tree.java) | Medium | 2023-01-08 | `tree` |
  | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](./algorithms/java/617.merge-two-binary-trees.java) | Easy | 2023-01-08 | `tree` |
+ | 538 | [Convert Bst to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Java](./algorithms/java/538.convert-bst-to-greater-tree.java) | Medium | 2023-01-09 | `tree` |
  | 530 | [Minimum Absolute Difference in Bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](./algorithms/java/530.minimum-absolute-difference-in-bst.java) | Easy | 2023-01-08 | `tree` |
  | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | [Java](./algorithms/java/513.find-bottom-left-tree-value.java) | Medium | 2023-01-07 | `tree` `depth-first-search` `breadth-first-search` |
  | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [Java](./algorithms/java/501.find-mode-in-binary-search-tree.java) | Easy | 2023-01-08 | `tree` |
@@ -64,4 +65,4 @@
  | 15 | [3sum](https://leetcode.com/problems/3sum/) | [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./algorithms/python/1.two-sum.py) [Java](./algorithms/java/1.two-sum.java) | Medium | 2023-01-03 | `array` `hash-table` |
 
-##### ∑all = 61&nbsp;&nbsp;∑2023-01-09 = 3
+##### ∑all = 62&nbsp;&nbsp;∑2023-01-09 = 4
