@@ -6,6 +6,7 @@
     "704$ | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Java](./algorithms/java/704.binary-search.java) | Medium | 2023-01-02 | `binary-search` |\n",
     "701$ | 701 | [Insert Into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Java](./algorithms/java/701.insert-into-a-binary-search-tree.java) | Medium | 2023-01-09 | `tree` |\n",
     "700$ | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Java](./algorithms/java/700.search-in-a-binary-search-tree.java) | Easy | 2023-01-08 | `tree` |\n",
+    "669$ | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Java](./algorithms/java/669.trim-a-binary-search-tree.java) | Medium | 2023-01-09 | `tree` |\n",
     "654$ | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) | [Java](./algorithms/java/654.maximum-binary-tree.java) | Medium | 2023-01-08 | `tree` |\n",
     "617$ | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Java](./algorithms/java/617.merge-two-binary-trees.java) | Easy | 2023-01-08 | `tree` |\n",
     "530$ | 530 | [Minimum Absolute Difference in Bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) | [Java](./algorithms/java/530.minimum-absolute-difference-in-bst.java) | Easy | 2023-01-08 | `tree` |\n",
