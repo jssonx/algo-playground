@@ -1,4 +1,5 @@
 import os
+import copy
 import json
 import jsonlines
 import time
@@ -32,6 +33,8 @@ def get_FileModifyTime(fileName):
         filePath = "./algorithms/java/" + fileName
     elif fileName.endswith(".py"):
         filePath = "./algorithms/python/" + fileName
+    elif fileName.endswith(".rs"):
+        filePath = "./algorithms/rust/" + fileName
     t = os.path.getmtime(filePath)
     res = (timeStampToTime(t)).split(" ")
     return res[0]
@@ -104,31 +107,32 @@ now = now.strftime("%Y-%m-%d %H:%M:%S")
 today = (now.split(" "))[0]
 today_num = 0
 for file in files:
-    repeated = False 
+    repeated = 0 
     file_original = file
     file = str(file).split(".")
 
     # part0: problem number
     part0 = int(file[0])
     if part0 not in full_num:
-        full_num[part0] = file[2]  
+        full_num[part0] = []
+        full_num[part0].append(file[2])
     else:
-        repeated = True
+        full_num[part0].append(file[2])
         
     # part2: solution path
-    if file_original.endswith(".java"):
-        q_path = "./algorithms/java/" + str(file_original)
-        part2 = "[Java]" + "(" + q_path + ")"
-    elif file_original.endswith(".py"):
-        q_path = "./algorithms/python/" + str(file_original)
-        part2 = "[Python]" + "(" + q_path + ")"
-    
-    if repeated:
-        if full_num[part0] == "java":
+    part2 = ""
+    tmp_full_num_part0 = copy.deepcopy(full_num[part0])
+    for i in range(0, len(tmp_full_num_part0)):
+        if "java" in tmp_full_num_part0:
             part2 += " " + "[Java]" + "(" + "./algorithms/java/" + str(part0) + "." + file[1] + ".java" + ")"
-        elif full_num[part0] == "py":
+            tmp_full_num_part0.remove("java")
+        elif "py" in tmp_full_num_part0:
             part2 += " " + "[Python]" + "(" + "./algorithms/python/" + str(part0) + "." + file[1] + ".py" + ")"
-
+            tmp_full_num_part0.remove("py")
+        elif "rs" in tmp_full_num_part0:
+            part2 += " " + "[Rust]" + "(" + "./algorithms/rust/" + str(part0) + "." + file[1] + ".rs" + ")"
+            tmp_full_num_part0.remove("rs")
+    
     # part4: modify time
     part4 = get_FileModifyTime(file_original)
 
