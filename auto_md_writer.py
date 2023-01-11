@@ -5,7 +5,8 @@ import jsonlines
 import time
 import datetime
 
-solution_type = {"rs":"rust", "java":"java", "py":"python"}
+# type:directory
+solution_type = {"cpp":"cpp", "rs":"rust", "java":"java", "py":"python"}
 
 # construct a table of tags
 tags_files = []

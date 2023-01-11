@@ -43,7 +43,7 @@
  | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  [Java](./algorithms/java/151.reverse-words-in-a-string.java) | Medium | 2023-01-05 | `string` |
  | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |  [Java](./algorithms/java/150.evaluate-reverse-polish-notation.java) | Medium | 2023-01-05 | `stack` |
  | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) |  [Java](./algorithms/java/145.binary-tree-postorder-traversal.java) | Easy | 2023-01-06 | `stack` `tree` |
- | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |  [Java](./algorithms/java/144.binary-tree-preorder-traversal.java) | Easy | 2023-01-06 | `stack` `tree` |
+ | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |  [Cpp](./algorithms/cpp/144.binary-tree-preorder-traversal.cpp) [Java](./algorithms/java/144.binary-tree-preorder-traversal.java) | Easy | 2023-01-06 | `stack` `tree` |
  | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |  [Java](./algorithms/java/142.linked-list-cycle-ii.java) | Medium | 2023-01-03 | `linked-list` `two-pointers` |
  | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) |  [Java](./algorithms/java/112.path-sum.java) | Easy | 2023-01-07 | `tree` `depth-first-search` |
  | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |  [Java](./algorithms/java/111.minimum-depth-of-binary-tree.java) | Easy | 2023-01-06 | `tree` `depth-first-search` `breadth-first-search` |
@@ -66,4 +66,4 @@
  | 15 | [3Sum](https://leetcode.com/problems/3sum/) |  [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Java](./algorithms/java/1.two-sum.java) [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) | Easy | 2023-01-11 | `array` `hash-table` |
 
-##### ∑all = 63&nbsp;&nbsp;∑2023-01-11 = 2
+##### ∑all = 63&nbsp;&nbsp;∑2023-01-11 = 3
