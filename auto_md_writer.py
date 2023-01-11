@@ -145,7 +145,7 @@ for file in files:
 
     one_line = str(part0) + "$" + " | " + str(part0) + " | " + part1 + " | " + part2 + " | " + part3 + " | " + part4 + " | " + part5 + " |" + '\n'
 
-    if today in one_line and repeated == False:
+    if today in one_line:
         today_num += 1
 
     if not repeated:
