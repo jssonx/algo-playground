@@ -58,15 +58,12 @@
  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |  [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) | Easy | 2023-01-06 | `hash-table` `stack` `tree` |
  | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |  [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | 2023-01-03 | `array` |
  | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |  [Java](./algorithms/java/28.find-the-index-of-the-first-occurrence-in-a-string.java) | Medium | 2023-01-05 | `two-pointers` `string` |
- | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) |  [Java](./algorithms/java/27.remove-element.java) | Easy | 2023-01-02 | `array` `two-pointers` |
  | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) |  [Java](./algorithms/java/27.remove-element.java) [Python](./algorithms/python/27.remove-element.py) | Easy | 2023-01-11 | `array` `two-pointers` |
  | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |  [Java](./algorithms/java/24.swap-nodes-in-pairs.java) | Medium | 2023-01-03 | `linked-list` |
  | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  [Java](./algorithms/java/20.valid-parentheses.java) | Easy | 2023-01-05 | `string` `stack` |
  | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  [Java](./algorithms/java/19.remove-nth-node-from-end-of-list.java) | Medium | 2023-01-03 | `linked-list` `two-pointers` |
  | 18 | [4Sum](https://leetcode.com/problems/4sum/) |  [Java](./algorithms/java/18.4sum.java) | Medium | 2023-01-05 | `array` `hash-table` `two-pointers` |
  | 15 | [3Sum](https://leetcode.com/problems/3sum/) |  [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 | `array` `two-pointers` |
- | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-01-01 | `array` `hash-table` |
- | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Java](./algorithms/java/1.two-sum.java) [Python](./algorithms/python/1.two-sum.py) | Easy | 2023-01-03 | `array` `hash-table` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Java](./algorithms/java/1.two-sum.java) [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) | Easy | 2023-01-11 | `array` `hash-table` |
 
-##### ∑all = 66&nbsp;&nbsp;∑2023-01-11 = 2
+##### ∑all = 63&nbsp;&nbsp;∑2023-01-11 = 2

@@ -107,7 +107,7 @@ now = now.strftime("%Y-%m-%d %H:%M:%S")
 today = (now.split(" "))[0]
 today_num = 0
 for file in files:
-    repeated = 0 
+    repeated = False
     file_original = file
     file = str(file).split(".")
 
@@ -118,6 +118,7 @@ for file in files:
         full_num[part0].append(file[2])
     else:
         full_num[part0].append(file[2])
+        repeated = True
         
     # part2: solution path
     part2 = ""
