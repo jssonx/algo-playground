@@ -5,6 +5,8 @@ import jsonlines
 import time
 import datetime
 
+solution_type = {"rs":"rust", "java":"java", "py":"python"}
+
 # construct a table of tags
 tags_files = []
 tags_path = "/home/jsson/.lc/leetcode/cache/"
@@ -29,12 +31,9 @@ def timeStampToTime(timestamp):
     return time.strftime('%Y-%m-%d %H:%M:%S',timeStruct)
 
 def get_FileModifyTime(fileName):
-    if fileName.endswith(".java"):
-        filePath = "./algorithms/java/" + fileName
-    elif fileName.endswith(".py"):
-        filePath = "./algorithms/python/" + fileName
-    elif fileName.endswith(".rs"):
-        filePath = "./algorithms/rust/" + fileName
+    _suffix = fileName.split(".")[2]
+    if _suffix in solution_type:
+        filePath = "./algorithms/" + solution_type[_suffix] + "/" + fileName
     t = os.path.getmtime(filePath)
     res = (timeStampToTime(t)).split(" ")
     return res[0]
@@ -123,16 +122,11 @@ for file in files:
     # part2: solution path
     part2 = ""
     tmp_full_num_part0 = copy.deepcopy(full_num[part0])
-    for i in range(0, len(tmp_full_num_part0)):
-        if "java" in tmp_full_num_part0:
-            part2 += " " + "[Java]" + "(" + "./algorithms/java/" + str(part0) + "." + file[1] + ".java" + ")"
-            tmp_full_num_part0.remove("java")
-        elif "py" in tmp_full_num_part0:
-            part2 += " " + "[Python]" + "(" + "./algorithms/python/" + str(part0) + "." + file[1] + ".py" + ")"
-            tmp_full_num_part0.remove("py")
-        elif "rs" in tmp_full_num_part0:
-            part2 += " " + "[Rust]" + "(" + "./algorithms/rust/" + str(part0) + "." + file[1] + ".rs" + ")"
-            tmp_full_num_part0.remove("rs")
+    for _type in tmp_full_num_part0:
+        if _type in solution_type:
+            part2 += " " + "[" + solution_type[_type].capitalize() + "]" + "(" + "./algorithms/" + solution_type[_type] + "/" + str(part0) + "." + file[1] + "." + _type + ")"
+        else:
+            print("Warning: This type of solution has not been added to the dictionary.")
     
     # part4: modify time
     part4 = get_FileModifyTime(file_original)
