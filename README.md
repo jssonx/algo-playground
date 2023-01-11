@@ -66,4 +66,4 @@
  | 15 | [3Sum](https://leetcode.com/problems/3sum/) |  [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Java](./algorithms/java/1.two-sum.java) [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) | Easy | 2023-01-11 | `array` `hash-table` |
 
-##### ∑all = 63&nbsp;&nbsp;∑2023-01-11 = 3
+##### ∑all = 63&nbsp;&nbsp;∑2023-01-11 = 1
