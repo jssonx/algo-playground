@@ -35,6 +35,7 @@
  | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |  [Java](./algorithms/java/226.invert-binary-tree.java) | Easy | 2023-01-06 | `tree` |
  | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |  [Java](./algorithms/java/225.implement-stack-using-queues.java) | Easy | 2023-01-05 | `stack` `design` |
  | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) |  [Java](./algorithms/java/222.count-complete-tree-nodes.java) | Medium | 2023-01-06 | `binary-search` `tree` |
+ | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) |  [Java](./algorithms/java/216.combination-sum-iii.java) | Medium | 2023-01-13 | `array` `backtracking` |
  | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) |  [Java](./algorithms/java/209.minimum-size-subarray-sum.java) | Medium | 2023-01-03 | `array` `two-pointers` `binary-search` |
  | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |  [Java](./algorithms/java/206.reverse-linked-list.java) | Easy | 2023-01-03 | `linked-list` |
  | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |  [Java](./algorithms/java/203.remove-linked-list-elements.java) | Easy | 2023-01-03 | `linked-list` |
@@ -67,4 +68,4 @@
  | 15 | [3Sum](https://leetcode.com/problems/3sum/) |  [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Java](./algorithms/java/1.two-sum.java) [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) | Easy | 2023-01-11 | `array` `hash-table` |
 
-##### ∑all = 64&nbsp;&nbsp;∑2023-01-13 = 1
+##### ∑all = 65&nbsp;&nbsp;∑2023-01-13 = 2
