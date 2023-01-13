@@ -65,7 +65,8 @@
  | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  [Java](./algorithms/java/20.valid-parentheses.java) | Easy | 2023-01-05 | `string` `stack` |
  | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  [Java](./algorithms/java/19.remove-nth-node-from-end-of-list.java) | Medium | 2023-01-03 | `linked-list` `two-pointers` |
  | 18 | [4Sum](https://leetcode.com/problems/4sum/) |  [Java](./algorithms/java/18.4sum.java) | Medium | 2023-01-05 | `array` `hash-table` `two-pointers` |
+ | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |  [Java](./algorithms/java/17.letter-combinations-of-a-phone-number.java) | Medium | 2023-01-13 | `string` `backtracking` |
  | 15 | [3Sum](https://leetcode.com/problems/3sum/) |  [Java](./algorithms/java/15.3sum.java) | Medium | 2023-01-05 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Java](./algorithms/java/1.two-sum.java) [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) | Easy | 2023-01-11 | `array` `hash-table` |
 
-##### ∑all = 65&nbsp;&nbsp;∑2023-01-13 = 2
+##### ∑all = 66&nbsp;&nbsp;∑2023-01-13 = 3
