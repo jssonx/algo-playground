@@ -24,7 +24,6 @@ class Solution {
             }
 			return;
 		}
-
         int right = 9 - (k - path.size()) + 1;
 		for (int i = startIndex; i <= right; i++) {
 			path.add(i);
