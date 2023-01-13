@@ -13,7 +13,6 @@ class Solution {
 		backTracking(n, k, 1, 0);
 		return result;
 	}
-
 	private void backTracking(int targetSum, int k, int startIndex, int sum) {
 		if (sum > targetSum) {
 			return;
