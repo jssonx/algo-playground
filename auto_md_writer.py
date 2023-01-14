@@ -55,7 +55,7 @@ def get_tags(p_num, tags_table):
     for i in range(len(tags_table)):
         if tags_table[i]['fid'] == p_num:
             if 'tags' not in tags_table[i]:
-                tags_table[i]['tags'] = "no tags"
+                tags_table[i]['tags'] = ["no tags"]
             return tags_table[i]['tags'], tags_table[i]['name'], tags_table[i]['level']
 
 def tagging(tags):

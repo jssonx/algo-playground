@@ -5,7 +5,7 @@
  | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |  [Java](./algorithms/java/1047.remove-all-adjacent-duplicates-in-string.java) | Easy | 2023-01-05 | `stack` |
  | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) |  [Java](./algorithms/java/1002.find-common-characters.java) | Easy | 2023-01-04 | `array` `hash-table` |
  | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |  [Java](./algorithms/java/977.squares-of-a-sorted-array.java) | Easy | 2023-01-03 | `array` `two-pointers` |
- | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) |  [Java](./algorithms/java/912.sort-an-array.java) | Medium | 2023-01-14 | `n` `o` ` ` `t` `a` `g` `s` |
+ | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) |  [Java](./algorithms/java/912.sort-an-array.java) | Medium | 2023-01-14 | `no tags` |
  | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) |  [Java](./algorithms/java/707.design-linked-list.java) | Medium | 2023-01-03 | `linked-list` `design` |
  | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) |  [Java](./algorithms/java/704.binary-search.java) | Easy | 2023-01-02 | `binary-search` |
  | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) |  [Java](./algorithms/java/701.insert-into-a-binary-search-tree.java) | Medium | 2023-01-09 | `tree` |
