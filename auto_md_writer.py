@@ -4,13 +4,22 @@ import json
 import jsonlines
 import time
 import datetime
+import shutil
+
+# create leetcode cache
+src_folder = os.path.expanduser("~/.lc/leetcode/cache/")
+dst_folder = './lc_cache/'
+
+if os.path.exists(dst_folder):
+    shutil.rmtree(dst_folder)
+shutil.copytree(src_folder, dst_folder)
 
 # type:directory
 solution_type = {"cpp":"cpp", "rs":"rust", "java":"java", "py":"python"}
 
 # construct a table of tags
 tags_files = []
-tags_path = os.path.expanduser("~/.lc/leetcode/cache/")
+tags_path = os.path.expanduser("./lc_cache/")
 tags_files = os.listdir(tags_path)
 tags_files.remove('problems.json')
 tags_files.remove('translationConfig.json')

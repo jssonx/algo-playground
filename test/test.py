@@ -1,9 +1,9 @@
-a = "a.java"
-b = "b.py"
-a_suffix = a.split(".")[1]
+import shutil
+import os
 
-solution_type = {"rs":"rust", "java":"java", "py":"python"}
-for s_type in solution_type:
-    if s_type == a_suffix:
-        print(solution_type[s_type])
+src_folder = os.path.expanduser("~/.lc/leetcode/cache/")
+dst_folder = './lc_cache/'
 
+if os.path.exists(dst_folder):
+    shutil.rmtree(dst_folder)
+shutil.copytree(src_folder, dst_folder)
