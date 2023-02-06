@@ -7,26 +7,29 @@
 # @lc code=start
 class Solution:
     def calculate(self, s: str) -> int:
-        s = s.replace(" ", "")
-        sign = "+"
+        s = collections.deque(s)
         stack = []
+        sign = '+'
         num = 0
-        for i in range(len(s)):
-            c = s[i]
+        while len(s) > 0:
+            c = s.popleft()
             if c.isdigit():
-                num = num * 10 + int(c)
-            if (not c.isdigit() and c != " ") or i == len(s) - 1:
-                if sign == "+":
+                num = 10 * num + int(c)
+            if (not c.isdigit() and c != ' ') or len(s) == 0:
+                if sign == '+':
                     stack.append(num)
-                elif sign == "-":
+                elif sign == '-':
                     stack.append(-num)
-                elif sign == "*":
-                    stack.append(stack.pop() * num)
-                elif sign == "/":
-                    stack.append(int(stack.pop() / num))
-                sign = c
+                elif sign == '*':
+                    stack[-1] = stack[-1] * num
+                elif sign == '/':
+                    # python 除法向 0 取整的写法
+                    stack[-1] = int(stack[-1] / float(num))       
                 num = 0
+                sign = c
+
         return sum(stack)
+
 
 
         

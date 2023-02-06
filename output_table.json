@@ -34,6 +34,7 @@
     "227$ | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) |  [Python](./algorithms/python/227.basic-calculator-ii.py) | Medium | 2023-02-06 | `string` |\n",
     "226$ | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |  [Java](./algorithms/java/226.invert-binary-tree.java) | Easy | 2023-02-06 | `tree` |\n",
     "225$ | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |  [Java](./algorithms/java/225.implement-stack-using-queues.java) | Easy | 2023-02-06 | `stack` `design` |\n",
+    "224$ | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) |  [Python](./algorithms/python/224.basic-calculator.py) | Hard | 2023-02-06 | `math` `stack` |\n",
     "222$ | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) |  [Java](./algorithms/java/222.count-complete-tree-nodes.java) | Medium | 2023-02-06 | `binary-search` `tree` |\n",
     "216$ | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) |  [Java](./algorithms/java/216.combination-sum-iii.java) | Medium | 2023-02-06 | `array` `backtracking` |\n",
     "209$ | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) |  [Java](./algorithms/java/209.minimum-size-subarray-sum.java) | Medium | 2023-02-06 | `array` `two-pointers` `binary-search` |\n",
