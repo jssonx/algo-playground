@@ -70,8 +70,8 @@
  | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |  [Python](./algorithms/python/20.valid-parentheses.py) [Java](./algorithms/java/20.valid-parentheses.java) | Easy | 2023-02-06 | `string` `stack` |
  | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  [Java](./algorithms/java/19.remove-nth-node-from-end-of-list.java) | Medium | 2023-02-06 | `linked-list` `two-pointers` |
  | 18 | [4Sum](https://leetcode.com/problems/4sum/) |  [Java](./algorithms/java/18.4sum.java) [Java](./algorithms/java/18.4sum.java) | Medium | 2023-02-06 | `array` `hash-table` `two-pointers` |
- | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |  [Java](./algorithms/java/17.letter-combinations-of-a-phone-number.java) | Medium | 2023-02-06 | `string` `backtracking` |
+ | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |  [Python](./algorithms/python/17.letter-combinations-of-a-phone-number.py) [Java](./algorithms/java/17.letter-combinations-of-a-phone-number.java) | Medium | 2023-02-06 | `string` `backtracking` |
  | 15 | [3Sum](https://leetcode.com/problems/3-sum/) |  [Java](./algorithms/java/15.3-sum.java) [Java](./algorithms/java/15.3-sum.java) | Medium | 2023-02-06 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 71&nbsp;&nbsp;∑2023-02-06 = 79
+##### ∑all = 71&nbsp;&nbsp;∑2023-02-06 = 80
