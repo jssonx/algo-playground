@@ -144,6 +144,7 @@ for file in files:
     part4 = get_FileModifyTime(file_original)
 
     # part5: tags
+    print(part0)
     tag, q_name, q_level = get_tags(part0, tags_table)
     part5 = tagging(tag)
 
