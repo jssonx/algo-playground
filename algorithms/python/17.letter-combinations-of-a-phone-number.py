@@ -21,16 +21,16 @@ class Solution:
         }
     def letterCombinations(self, digits):
         if not digits: return []
-        self.backtracking(digits, 0)
+        self.get_string_on_i_of_digits(digits, 0) # (digits, i)
         return self.answers
-    def backtracking(self, digits, index):
-        if index == len(digits):
+    def get_string_on_i_of_digits(self, digits, index):
+        if index > len(digits) - 1:
             self.answers.append(self.answer)
             return 
         letters = self.letter_map[digits[index]]
         for letter in letters:
             self.answer += letter
-            self.backtracking(digits, index + 1)
+            self.get_string_on_i_of_digits(digits, index + 1)
             self.answer = self.answer[:-1]       
 # @lc code=end
 
