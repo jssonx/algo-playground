@@ -183,4 +183,8 @@ for i in range(len(full_prob_table)):
 f.write("\n")
 f.write("##### ∑all = " + str(len(full_prob_table)) +  "&nbsp;&nbsp;" + "∑" + today + " = " + str(today_num))
 
+## insert a draw.io image in md
+f.write("# The Big Picture" + '\n'+ '\n')
+f.write("![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.svg)" + '\n')
+
 f.close()
