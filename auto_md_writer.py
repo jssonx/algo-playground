@@ -182,6 +182,7 @@ for i in range(len(full_prob_table)):
 
 f.write("\n")
 f.write("##### ∑all = " + str(len(full_prob_table)) +  "&nbsp;&nbsp;" + "∑" + today + " = " + str(today_num))
+f.write("\n")
 
 ## insert a draw.io image in md
 f.write("# The Big Picture" + '\n'+ '\n')
