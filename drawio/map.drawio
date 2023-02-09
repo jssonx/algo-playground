@@ -1,13 +1,13 @@
 <mxfile host="65bd71144e">
     <diagram id="2569vQA7NOPKPgQd0dDL" name="Page-1">
-        <mxGraphModel dx="2388" dy="558" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="1">
+        <mxGraphModel dx="2880" dy="613" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="1">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="21" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" parent="1" source="3" target="6" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="前缀和" style="swimlane;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+                <mxCell id="3" value="前缀和数组" style="swimlane;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="-90" y="1019" width="200" height="250" as="geometry"/>
                 </mxCell>
                 <mxCell id="34" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;rounded=0;" parent="3" source="19" target="33" edge="1">
@@ -61,9 +61,15 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="30" value="DP" style="swimlane;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-                    <mxGeometry x="-90" y="379" width="210" height="80" as="geometry">
+                    <mxGeometry x="-402" y="181" width="512" height="344" as="geometry">
                         <mxRectangle x="-90" y="379" width="52" height="26" as="alternateBounds"/>
                     </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="背包DP&lt;br&gt;279&lt;br&gt;322&lt;br&gt;416&lt;br&gt;474&lt;br&gt;494&lt;br&gt;518&lt;br&gt;638&lt;br&gt;1049&lt;br&gt;1155&lt;br&gt;1995&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="30">
+                    <mxGeometry x="188" y="39" width="120" height="184" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="记忆化搜索&lt;br&gt;375&lt;br&gt;464&lt;br&gt;494&lt;br&gt;576&lt;br&gt;1137" style="whiteSpace=wrap;html=1;" vertex="1" parent="30">
+                    <mxGeometry x="339" y="39" width="120" height="115" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" parent="1" source="35" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
@@ -85,6 +91,15 @@
                 </mxCell>
                 <mxCell id="44" value="基础必会&lt;br&gt;&lt;u&gt;17 (电话号码)&lt;/u&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="40" vertex="1">
                     <mxGeometry x="40" y="43" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" value="差分数组" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-90" y="1329" width="200" height="139" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="1094&lt;br&gt;1109&lt;br&gt;370" style="whiteSpace=wrap;html=1;" vertex="1" parent="45">
+                    <mxGeometry x="40" y="48" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="线性DP&lt;br&gt;45&lt;br&gt;91&lt;br&gt;119&lt;br&gt;198&lt;br&gt;213&lt;br&gt;338&lt;br&gt;467&lt;br&gt;576&lt;br&gt;650&lt;br&gt;678&lt;br&gt;688&lt;br&gt;799&lt;br&gt;808&lt;br&gt;978&lt;br&gt;1137" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-365" y="220" width="120" height="277" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
