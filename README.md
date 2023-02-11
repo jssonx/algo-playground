@@ -17,7 +17,7 @@
  | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |  [Java](./algorithms/java/538.convert-bst-to-greater-tree.java) | Medium | 2023-02-06 | `tree` |
  | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) |  [Java](./algorithms/java/530.minimum-absolute-difference-in-bst.java) | Easy | 2023-02-06 | `tree` |
  | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) |  [Java](./algorithms/java/513.find-bottom-left-tree-value.java) | Medium | 2023-02-06 | `tree` `depth-first-search` `breadth-first-search` |
- | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) |  [Java](./algorithms/java/509.fibonacci-number.java) | Easy | 2023-02-06 | `array` |
+ | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) |  [Python](./algorithms/python/509.fibonacci-number.py) [Java](./algorithms/java/509.fibonacci-number.java) | Easy | 2023-02-06 | `array` |
  | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) |  [Java](./algorithms/java/501.find-mode-in-binary-search-tree.java) | Easy | 2023-02-06 | `tree` |
  | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |  [Java](./algorithms/java/459.repeated-substring-pattern.java) | Easy | 2023-02-06 | `string` |
  | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) |  [Java](./algorithms/java/454.4sum-ii.java) [Java](./algorithms/java/454.4sum-ii.java) | Medium | 2023-02-06 | `hash-table` `binary-search` |
@@ -65,6 +65,7 @@
  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |  [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) | Easy | 2023-02-06 | `hash-table` `stack` `tree` |
  | 77 | [Combinations](https://leetcode.com/problems/combinations/) |  [Java](./algorithms/java/77.combinations.java) | Medium | 2023-02-06 | `backtracking` |
  | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |  [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | 2023-02-06 | `array` |
+ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) |  [Python](./algorithms/python/55.jump-game.py) | Medium | 2023-02-11 | `array` `greedy` |
  | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |  [Java](./algorithms/java/28.find-the-index-of-the-first-occurrence-in-a-string.java) | Medium | 2023-02-06 | `two-pointers` `string` |
  | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) |  [Python](./algorithms/python/27.remove-element.py) [Java](./algorithms/java/27.remove-element.java) | Easy | 2023-02-06 | `array` `two-pointers` |
  | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |  [Java](./algorithms/java/24.swap-nodes-in-pairs.java) | Medium | 2023-02-06 | `linked-list` |
@@ -75,7 +76,7 @@
  | 15 | [3Sum](https://leetcode.com/problems/3-sum/) |  [Java](./algorithms/java/15.3-sum.java) [Java](./algorithms/java/15.3-sum.java) | Medium | 2023-02-06 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 72&nbsp;&nbsp;∑2023-02-10 = 1
+##### ∑all = 73&nbsp;&nbsp;∑2023-02-11 = 2
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.svg)
