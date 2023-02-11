@@ -71,7 +71,7 @@
                 <mxCell id="50" value="记忆化搜索&lt;br&gt;375&lt;br&gt;464&lt;br&gt;494&lt;br&gt;576&lt;br&gt;1137" style="whiteSpace=wrap;html=1;" parent="30" vertex="1">
                     <mxGeometry x="463" y="39" width="120" height="115" as="geometry"/>
                 </mxCell>
-                <mxCell id="56" value="基本思想&lt;br&gt;&lt;u&gt;509 Fib&lt;br&gt;1137 Tribonacci&lt;br&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="30">
+                <mxCell id="56" value="基本思想&lt;br&gt;&lt;u&gt;509 Fib&lt;br&gt;1137 Tribonacci&lt;br&gt;70 爬梯子&lt;br&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="30">
                     <mxGeometry x="26" y="39" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="37" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;rounded=0;" parent="1" source="35" target="5" edge="1">

@@ -65,6 +65,7 @@
  | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |  [Java](./algorithms/java/98.validate-binary-search-tree.java) | Medium | 2023-02-06 | `tree` `depth-first-search` |
  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |  [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) | Easy | 2023-02-06 | `hash-table` `stack` `tree` |
  | 77 | [Combinations](https://leetcode.com/problems/combinations/) |  [Java](./algorithms/java/77.combinations.java) | Medium | 2023-02-06 | `backtracking` |
+ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |  [Python](./algorithms/python/70.climbing-stairs.py) | Easy | 2023-02-11 | `dynamic-programming` |
  | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |  [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | 2023-02-06 | `array` |
  | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) |  [Python](./algorithms/python/55.jump-game.py) | Medium | 2023-02-11 | `array` `greedy` |
  | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |  [Java](./algorithms/java/28.find-the-index-of-the-first-occurrence-in-a-string.java) | Medium | 2023-02-06 | `two-pointers` `string` |
@@ -77,7 +78,7 @@
  | 15 | [3Sum](https://leetcode.com/problems/3-sum/) |  [Java](./algorithms/java/15.3-sum.java) [Java](./algorithms/java/15.3-sum.java) | Medium | 2023-02-06 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 74&nbsp;&nbsp;∑2023-02-11 = 3
+##### ∑all = 75&nbsp;&nbsp;∑2023-02-11 = 4
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.svg)
