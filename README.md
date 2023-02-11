@@ -8,6 +8,7 @@
  | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |  [Java](./algorithms/java/977.squares-of-a-sorted-array.java) | Easy | 2023-02-06 | `array` `two-pointers` |
  | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) |  [Java](./algorithms/java/912.sort-an-array.java) | Medium | 2023-02-06 | `no-tags` |
  | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) |  [Python](./algorithms/python/772.basic-calculator-iii.py) | Hard | 2023-02-06 | `string` `stack` |
+ | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |  [Python](./algorithms/python/746.min-cost-climbing-stairs.py) | Easy | 2023-02-11 | `array` `dynamic-programming` |
  | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) |  [Java](./algorithms/java/707.design-linked-list.java) | Medium | 2023-02-06 | `linked-list` `design` |
  | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) |  [Java](./algorithms/java/704.binary-search.java) | Easy | 2023-02-06 | `binary-search` |
  | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) |  [Java](./algorithms/java/701.insert-into-a-binary-search-tree.java) | Medium | 2023-02-06 | `tree` |
@@ -78,7 +79,7 @@
  | 15 | [3Sum](https://leetcode.com/problems/3-sum/) |  [Java](./algorithms/java/15.3-sum.java) [Java](./algorithms/java/15.3-sum.java) | Medium | 2023-02-06 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 75&nbsp;&nbsp;∑2023-02-11 = 4
+##### ∑all = 76&nbsp;&nbsp;∑2023-02-11 = 5
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.svg)
