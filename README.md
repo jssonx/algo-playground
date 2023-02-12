@@ -27,6 +27,7 @@
  | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) |  [Java](./algorithms/java/450.delete-node-in-a-bst.java) | Medium | 2023-02-06 | `tree` |
  | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) |  [Java](./algorithms/java/404.sum-of-left-leaves.java) | Easy | 2023-02-06 | `tree` |
  | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |  [Java](./algorithms/java/383.ransom-note.java) | Easy | 2023-02-06 | `string` |
+ | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) |  [Python](./algorithms/python/376.wiggle-subsequence.py) | Medium | 2023-02-12 | `dynamic-programming` `greedy` |
  | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  [Java](./algorithms/java/349.intersection-of-two-arrays.java) | Easy | 2023-02-06 | `hash-table` `two-pointers` `binary-search` `sort` |
  | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  [Java](./algorithms/java/347.top-k-frequent-elements.java) | Medium | 2023-02-06 | `hash-table` `heap` |
  | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  [Java](./algorithms/java/344.reverse-string.java) | Easy | 2023-02-06 | `two-pointers` `string` |
@@ -86,7 +87,7 @@
  | 15 | [3Sum](https://leetcode.com/problems/3-sum/) |  [Java](./algorithms/java/15.3-sum.java) [Java](./algorithms/java/15.3-sum.java) | Medium | 2023-02-06 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 83&nbsp;&nbsp;∑2023-02-12 = 4
+##### ∑all = 84&nbsp;&nbsp;∑2023-02-12 = 5
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
