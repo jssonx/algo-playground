@@ -186,6 +186,6 @@ f.write("\n")
 
 ## insert a draw.io image in md
 f.write("# The Big Picture" + '\n'+ '\n')
-f.write("![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.svg)" + '\n')
+f.write("![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)" + '\n')
 
 f.close()

@@ -86,4 +86,4 @@
 ##### ∑all = 80&nbsp;&nbsp;∑2023-02-11 = 9
 # The Big Picture
 
-![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.svg)
+![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
