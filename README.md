@@ -57,6 +57,7 @@
  | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) |  [Java](./algorithms/java/145.binary-tree-postorder-traversal.java) | Easy | 2023-02-06 | `stack` `tree` |
  | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |  [Cpp](./algorithms/cpp/144.binary-tree-preorder-traversal.cpp) [Java](./algorithms/java/144.binary-tree-preorder-traversal.java) | Easy | 2023-02-06 | `stack` `tree` |
  | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |  [Java](./algorithms/java/142.linked-list-cycle-ii.java) | Medium | 2023-02-06 | `linked-list` `two-pointers` |
+ | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |  [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py) | Hard | 2023-02-12 | `array` `dynamic-programming` |
  | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) |  [Java](./algorithms/java/112.path-sum.java) | Easy | 2023-02-06 | `tree` `depth-first-search` |
  | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |  [Java](./algorithms/java/111.minimum-depth-of-binary-tree.java) | Easy | 2023-02-06 | `tree` `depth-first-search` `breadth-first-search` |
  | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |  [Java](./algorithms/java/110.balanced-binary-tree.java) | Easy | 2023-02-06 | `tree` `depth-first-search` |
@@ -84,7 +85,7 @@
  | 15 | [3Sum](https://leetcode.com/problems/3-sum/) |  [Java](./algorithms/java/15.3-sum.java) [Java](./algorithms/java/15.3-sum.java) | Medium | 2023-02-06 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 81&nbsp;&nbsp;∑2023-02-12 = 2
+##### ∑all = 82&nbsp;&nbsp;∑2023-02-12 = 3
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
