@@ -3,6 +3,7 @@
 | # | Title | Solution | Difficulty | Time | Tags |
 | --- | ----- | -------- | -------- | -------- | -------- |
  | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) |  [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py) | Hard | 2023-02-12 | `no-tags` |
+ | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |  [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py) | Medium | 2023-02-12 | `no-tags` |
  | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) |  [Python](./algorithms/python/1137.n-th-tribonacci-number.py) | Easy | 2023-02-11 | `no-tags` |
  | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |  [Java](./algorithms/java/1047.remove-all-adjacent-duplicates-in-string.java) | Easy | 2023-02-06 | `stack` |
  | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) |  [Java](./algorithms/java/1002.find-common-characters.java) | Easy | 2023-02-06 | `array` `hash-table` |
@@ -92,7 +93,7 @@
  | 15 | [3Sum](https://leetcode.com/problems/3-sum/) |  [Java](./algorithms/java/15.3-sum.java) [Java](./algorithms/java/15.3-sum.java) | Medium | 2023-02-06 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 89&nbsp;&nbsp;∑2023-02-12 = 10
+##### ∑all = 90&nbsp;&nbsp;∑2023-02-12 = 11
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
