@@ -9,7 +9,6 @@ class Solution:
     def minCostII(self, costs: List[List[int]]) -> int:
         n = len(costs)
         n_color = len(costs[0])
-        print(n_color)
         dp = [[0]*n_color for _ in range(n+1)]
         for j in range(0, n_color):
             dp[1][j] = costs[0][j]
