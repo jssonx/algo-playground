@@ -32,6 +32,7 @@
     "303$ | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |  [Python](./algorithms/python/303.range-sum-query-immutable.py) | Easy | 2023-02-10 | `dynamic-programming` |\n",
     "276$ | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) |  [Python](./algorithms/python/276.paint-fence.py) | Medium | 2023-02-12 | `dynamic-programming` |\n",
     "266$ | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) |  [Java](./algorithms/java/266.palindrome-permutation.java) | Easy | 2023-02-06 | `hash-table` |\n",
+    "265$ | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) |  [Python](./algorithms/python/265.paint-house-ii.py) | Hard | 2023-02-12 | `dynamic-programming` |\n",
     "257$ | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |  [Java](./algorithms/java/257.binary-tree-paths.java) | Easy | 2023-02-06 | `tree` `depth-first-search` |\n",
     "256$ | 256 | [Paint House](https://leetcode.com/problems/paint-house/) |  [Python](./algorithms/python/256.paint-house.py) | Medium | 2023-02-12 | `dynamic-programming` |\n",
     "253$ | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) |  [Java](./algorithms/java/253.meeting-rooms-ii.java) | Medium | 2023-02-06 | `heap` `greedy` `sort` |\n",
