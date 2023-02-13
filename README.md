@@ -23,6 +23,7 @@
  | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) |  [Java](./algorithms/java/513.find-bottom-left-tree-value.java) | Medium | 2023-02-06 | `tree` `depth-first-search` `breadth-first-search` |
  | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) |  [Python](./algorithms/python/509.fibonacci-number.py) [Java](./algorithms/java/509.fibonacci-number.java) | Easy | 2023-02-06 | `array` |
  | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) |  [Java](./algorithms/java/501.find-mode-in-binary-search-tree.java) | Easy | 2023-02-06 | `tree` |
+ | 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) |  [Python](./algorithms/python/487.max-consecutive-ones-ii.py) | Medium | 2023-02-12 | `two-pointers` |
  | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |  [Java](./algorithms/java/459.repeated-substring-pattern.java) | Easy | 2023-02-06 | `string` |
  | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) |  [Java](./algorithms/java/454.4sum-ii.java) [Java](./algorithms/java/454.4sum-ii.java) | Medium | 2023-02-06 | `hash-table` `binary-search` |
  | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) |  [Java](./algorithms/java/450.delete-node-in-a-bst.java) | Medium | 2023-02-06 | `tree` |
@@ -91,7 +92,7 @@
  | 15 | [3Sum](https://leetcode.com/problems/3-sum/) |  [Java](./algorithms/java/15.3-sum.java) [Java](./algorithms/java/15.3-sum.java) | Medium | 2023-02-06 | `array` `two-pointers` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 88&nbsp;&nbsp;∑2023-02-12 = 9
+##### ∑all = 89&nbsp;&nbsp;∑2023-02-12 = 10
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
