@@ -6,6 +6,7 @@
 ## 残酷DP勘误
 冷冻期买卖股票
 LC376 wiggle
+276应该是265
 
 ## 198. House Robber
 LC198
