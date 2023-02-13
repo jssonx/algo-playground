@@ -9055,6 +9055,139 @@
         }
     },
     {
+        "id": 187,
+        "fid": 187,
+        "name": "Repeated DNA Sequences",
+        "slug": "repeated-dna-sequences",
+        "link": "https://leetcode.com/problems/repeated-dna-sequences/description/",
+        "percent": 46.65283609269785,
+        "level": "Medium",
+        "category": "algorithms",
+        "companies": [
+            "linkedin"
+        ],
+        "tags": [
+            "hash-table",
+            "bit-manipulation"
+        ],
+        "totalAC": "313.1K",
+        "totalSubmit": "669.9K",
+        "likes": 2698,
+        "dislikes": 466,
+        "desc": "<p>The <strong>DNA sequence</strong> is composed of a series of nucleotides abbreviated as <code>&#39;A&#39;</code>, <code>&#39;C&#39;</code>, <code>&#39;G&#39;</code>, and <code>&#39;T&#39;</code>.</p>\n\n<ul>\n\t<li>For example, <code>&quot;ACGAATTCCG&quot;</code> is a <strong>DNA sequence</strong>.</li>\n</ul>\n\n<p>When studying <strong>DNA</strong>, it is useful to identify repeated sequences within the DNA.</p>\n\n<p>Given a string <code>s</code> that represents a <strong>DNA sequence</strong>, return all the <strong><code>10</code>-letter-long</strong> sequences (substrings) that occur more than once in a DNA molecule. You may return the answer in <strong>any order</strong>.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n<pre><strong>Input:</strong> s = \"AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT\"\n<strong>Output:</strong> [\"AAAAACCCCC\",\"CCCCCAAAAA\"]\n</pre><p><strong class=\"example\">Example 2:</strong></p>\n<pre><strong>Input:</strong> s = \"AAAAAAAAAAAAA\"\n<strong>Output:</strong> [\"AAAAAAAAAA\"]\n</pre>\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>\n\t<li><code>s[i]</code> is either <code>&#39;A&#39;</code>, <code>&#39;C&#39;</code>, <code>&#39;G&#39;</code>, or <code>&#39;T&#39;</code>.</li>\n</ul>\n",
+        "templates": [
+            {
+                "value": "cpp",
+                "text": "C++",
+                "defaultCode": "class Solution {\npublic:\n    vector<string> findRepeatedDnaSequences(string s) {\n        \n    }\n};"
+            },
+            {
+                "value": "java",
+                "text": "Java",
+                "defaultCode": "class Solution {\n    public List<String> findRepeatedDnaSequences(String s) {\n        \n    }\n}"
+            },
+            {
+                "value": "python",
+                "text": "Python",
+                "defaultCode": "class Solution(object):\n    def findRepeatedDnaSequences(self, s):\n        \"\"\"\n        :type s: str\n        :rtype: List[str]\n        \"\"\"\n        "
+            },
+            {
+                "value": "python3",
+                "text": "Python3",
+                "defaultCode": "class Solution:\n    def findRepeatedDnaSequences(self, s: str) -> List[str]:\n        "
+            },
+            {
+                "value": "c",
+                "text": "C",
+                "defaultCode": "/**\n * Note: The returned array must be malloced, assume caller calls free().\n */\nchar ** findRepeatedDnaSequences(char * s, int* returnSize){\n\n}"
+            },
+            {
+                "value": "csharp",
+                "text": "C#",
+                "defaultCode": "public class Solution {\n    public IList<string> FindRepeatedDnaSequences(string s) {\n        \n    }\n}"
+            },
+            {
+                "value": "javascript",
+                "text": "JavaScript",
+                "defaultCode": "/**\n * @param {string} s\n * @return {string[]}\n */\nvar findRepeatedDnaSequences = function(s) {\n    \n};"
+            },
+            {
+                "value": "ruby",
+                "text": "Ruby",
+                "defaultCode": "# @param {String} s\n# @return {String[]}\ndef find_repeated_dna_sequences(s)\n    \nend"
+            },
+            {
+                "value": "swift",
+                "text": "Swift",
+                "defaultCode": "class Solution {\n    func findRepeatedDnaSequences(_ s: String) -> [String] {\n        \n    }\n}"
+            },
+            {
+                "value": "golang",
+                "text": "Go",
+                "defaultCode": "func findRepeatedDnaSequences(s string) []string {\n    \n}"
+            },
+            {
+                "value": "scala",
+                "text": "Scala",
+                "defaultCode": "object Solution {\n    def findRepeatedDnaSequences(s: String): List[String] = {\n        \n    }\n}"
+            },
+            {
+                "value": "kotlin",
+                "text": "Kotlin",
+                "defaultCode": "class Solution {\n    fun findRepeatedDnaSequences(s: String): List<String> {\n        \n    }\n}"
+            },
+            {
+                "value": "rust",
+                "text": "Rust",
+                "defaultCode": "impl Solution {\n    pub fn find_repeated_dna_sequences(s: String) -> Vec<String> {\n        \n    }\n}"
+            },
+            {
+                "value": "php",
+                "text": "PHP",
+                "defaultCode": "class Solution {\n\n    /**\n     * @param String $s\n     * @return String[]\n     */\n    function findRepeatedDnaSequences($s) {\n        \n    }\n}"
+            },
+            {
+                "value": "typescript",
+                "text": "TypeScript",
+                "defaultCode": "function findRepeatedDnaSequences(s: string): string[] {\n\n};"
+            },
+            {
+                "value": "racket",
+                "text": "Racket",
+                "defaultCode": "(define/contract (find-repeated-dna-sequences s)\n  (-> string? (listof string?))\n\n  )"
+            },
+            {
+                "value": "erlang",
+                "text": "Erlang",
+                "defaultCode": "-spec find_repeated_dna_sequences(S :: unicode:unicode_binary()) -> [unicode:unicode_binary()].\nfind_repeated_dna_sequences(S) ->\n  ."
+            },
+            {
+                "value": "elixir",
+                "text": "Elixir",
+                "defaultCode": "defmodule Solution do\n  @spec find_repeated_dna_sequences(s :: String.t) :: [String.t]\n  def find_repeated_dna_sequences(s) do\n\n  end\nend"
+            },
+            {
+                "value": "dart",
+                "text": "Dart",
+                "defaultCode": "class Solution {\n  List<String> findRepeatedDnaSequences(String s) {\n\n  }\n}"
+            }
+        ],
+        "testcase": "\"AAAAACCCCCAAAAACCCCCCAAAAAGGGTTT\"",
+        "testable": true,
+        "templateMeta": {
+            "name": "findRepeatedDnaSequences",
+            "params": [
+                {
+                    "name": "s",
+                    "type": "string"
+                }
+            ],
+            "return": {
+                "type": "list<string>"
+            }
+        }
+    },
+    {
         "id": 669,
         "fid": 669,
         "name": "Trim a Binary Search Tree",

@@ -59,6 +59,7 @@
  | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |  [Java](./algorithms/java/203.remove-linked-list-elements.java) | Easy | 2023-02-06 | `linked-list` |
  | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) |  [Java](./algorithms/java/202.happy-number.java) | Easy | 2023-02-06 | `hash-table` `math` |
  | 198 | [House Robber](https://leetcode.com/problems/house-robber/) |  [Python](./algorithms/python/198.house-robber.py) | Medium | 2023-02-12 | `dynamic-programming` |
+ | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) |  [Python](./algorithms/python/187.repeated-dna-sequences.py) | Medium | 2023-02-13 | `hash-table` `bit-manipulation` |
  | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |  [Java](./algorithms/java/160.intersection-of-two-linked-lists.java) | Easy | 2023-02-06 | `linked-list` |
  | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  [Java](./algorithms/java/151.reverse-words-in-a-string.java) | Medium | 2023-02-06 | `string` |
  | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |  [Java](./algorithms/java/150.evaluate-reverse-polish-notation.java) | Medium | 2023-02-06 | `stack` |
@@ -94,7 +95,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | 2023-02-13 | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 91&nbsp;&nbsp;∑2023-02-13 = 1
+##### ∑all = 92&nbsp;&nbsp;∑2023-02-13 = 2
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
