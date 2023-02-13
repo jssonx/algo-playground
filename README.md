@@ -91,9 +91,10 @@
  | 18 | [4Sum](https://leetcode.com/problems/4sum/) |  [Java](./algorithms/java/18.4sum.java) [Java](./algorithms/java/18.4sum.java) | Medium | 2023-02-06 | `array` `hash-table` `two-pointers` |
  | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |  [Python](./algorithms/python/17.letter-combinations-of-a-phone-number.py) [Java](./algorithms/java/17.letter-combinations-of-a-phone-number.java) | Medium | 2023-02-06 | `string` `backtracking` |
  | 15 | [3Sum](https://leetcode.com/problems/3-sum/) |  [Java](./algorithms/java/15.3-sum.java) [Java](./algorithms/java/15.3-sum.java) | Medium | 2023-02-06 | `array` `two-pointers` |
+ | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | 2023-02-13 | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 90&nbsp;&nbsp;∑2023-02-12 = 11
+##### ∑all = 91&nbsp;&nbsp;∑2023-02-13 = 1
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
