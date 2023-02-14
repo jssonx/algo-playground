@@ -117,15 +117,12 @@
                     <mxGeometry x="-523" y="220" width="191" height="245" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" value="双指针" style="swimlane;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-                    <mxGeometry x="-596" y="1019" width="266" height="431" as="geometry"/>
+                    <mxGeometry x="-596" y="1019" width="266" height="283" as="geometry"/>
                 </mxCell>
                 <mxCell id="58" value="&lt;u&gt;2563 范围内的数对&lt;br&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;container=0;" parent="57" vertex="1">
                     <mxGeometry x="35" y="43" width="198" height="92" as="geometry"/>
                 </mxCell>
-                <mxCell id="70" value="&lt;u&gt;滑动窗口&lt;br&gt;&lt;br&gt;3 无重复字符的最长子集&lt;br&gt;187 DNA重复序列&lt;br&gt;219&lt;/u&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#F0F0F0;" vertex="1" parent="57">
-                    <mxGeometry x="33" y="292" width="207" height="97" as="geometry"/>
-                </mxCell>
-                <mxCell id="71" value="&lt;u&gt;2563 范围内的数对&lt;br&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="57">
+                <mxCell id="71" value="滑动窗口&lt;br&gt;&lt;br&gt;&lt;u&gt;3 无重复字符的最长子集&lt;br&gt;187 DNA重复序列&lt;br&gt;219&lt;/u&gt;" style="whiteSpace=wrap;html=1;container=0;" vertex="1" parent="57">
                     <mxGeometry x="35" y="163" width="198" height="92" as="geometry"/>
                 </mxCell>
             </root>
