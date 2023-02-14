@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="2569vQA7NOPKPgQd0dDL" name="Page-1">
-        <mxGraphModel dx="2126" dy="368" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="1">
+        <mxGraphModel dx="2443" dy="767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="1">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -117,13 +117,13 @@
                     <mxGeometry x="-523" y="220" width="191" height="245" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" value="双指针" style="swimlane;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-                    <mxGeometry x="-596" y="1019" width="266" height="466" as="geometry"/>
+                    <mxGeometry x="-596" y="1019" width="266" height="278" as="geometry"/>
                 </mxCell>
                 <mxCell id="58" value="&lt;u&gt;2563 范围内的数对&lt;br&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;container=0;" parent="57" vertex="1">
                     <mxGeometry x="35" y="43" width="198" height="92" as="geometry"/>
                 </mxCell>
-                <mxCell id="69" value="滑动窗口&lt;br&gt;&lt;br&gt;&lt;u style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;3. 无重复字符的最长子串&lt;br&gt;187 DNA重复序列&lt;br&gt;219&lt;br&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#F0F0F0;container=0;" vertex="1" parent="57">
-                    <mxGeometry x="33.5" y="159" width="193" height="91" as="geometry"/>
+                <mxCell id="70" value="滑动窗口&lt;br&gt;&lt;br&gt;3 无重复字符的最长子集&lt;br&gt;187 DNA重复序列&lt;br&gt;219" style="whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#F0F0F0;" vertex="1" parent="57">
+                    <mxGeometry x="31" y="155" width="207" height="97" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
