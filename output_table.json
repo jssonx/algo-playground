@@ -1,5 +1,6 @@
 [
     "1289$ | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) |  [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py) | Hard | 2023-02-12 | `no-tags` |\n",
+    "1195$ | 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) |  [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py) | Medium | 2023-02-14 | `no-tags` |\n",
     "1186$ | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |  [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py) | Medium | 2023-02-12 | `no-tags` |\n",
     "1137$ | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) |  [Python](./algorithms/python/1137.n-th-tribonacci-number.py) | Easy | 2023-02-11 | `no-tags` |\n",
     "1047$ | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |  [Java](./algorithms/java/1047.remove-all-adjacent-duplicates-in-string.java) | Easy | 2023-02-06 | `stack` |\n",
