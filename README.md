@@ -52,6 +52,7 @@
  | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |  [Java](./algorithms/java/225.implement-stack-using-queues.java) | Easy | 2023-02-06 | `stack` `design` |
  | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) |  [Python](./algorithms/python/224.basic-calculator.py) | Hard | 2023-02-06 | `math` `stack` |
  | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) |  [Java](./algorithms/java/222.count-complete-tree-nodes.java) | Medium | 2023-02-06 | `binary-search` `tree` |
+ | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) |  [Python](./algorithms/python/220.contains-duplicate-iii.py) | Hard | 2023-02-13 | `sort` `ordered-map` |
  | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) |  [Python](./algorithms/python/219.contains-duplicate-ii.py) | Easy | 2023-02-13 | `array` `hash-table` |
  | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) |  [Java](./algorithms/java/216.combination-sum-iii.java) | Medium | 2023-02-06 | `array` `backtracking` |
  | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) |  [Python](./algorithms/python/213.house-robber-ii.py) | Medium | 2023-02-12 | `dynamic-programming` |
@@ -96,7 +97,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | 2023-02-13 | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 93&nbsp;&nbsp;∑2023-02-13 = 3
+##### ∑all = 94&nbsp;&nbsp;∑2023-02-13 = 4
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
