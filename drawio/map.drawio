@@ -1,10 +1,13 @@
 <mxfile host="65bd71144e">
     <diagram id="2569vQA7NOPKPgQd0dDL" name="Page-1">
-        <mxGraphModel dx="4984" dy="1840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="1">
+        <mxGraphModel dx="3847" dy="1131" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" background="none" math="0" shadow="1">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
                 <mxCell id="21" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" parent="1" source="3" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="94" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="90">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="前缀和数组" style="swimlane;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -87,7 +90,7 @@
                     <mxGeometry x="40" y="43" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="45" value="差分数组" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-                    <mxGeometry x="-90" y="1314" width="200" height="139" as="geometry"/>
+                    <mxGeometry x="-91.5" y="1594" width="200" height="139" as="geometry"/>
                 </mxCell>
                 <mxCell id="46" value="1094&lt;br&gt;1109&lt;br&gt;370" style="whiteSpace=wrap;html=1;" parent="45" vertex="1">
                     <mxGeometry x="40" y="48" width="120" height="60" as="geometry"/>
@@ -117,19 +120,61 @@
                     <mxGeometry x="-523" y="220" width="191" height="245" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" value="双指针" style="swimlane;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-                    <mxGeometry x="-596" y="1019" width="266" height="283" as="geometry"/>
+                    <mxGeometry x="-883" y="1019" width="553" height="283" as="geometry"/>
                 </mxCell>
                 <mxCell id="58" value="&lt;u&gt;2563 范围内的数对&lt;br&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;container=0;" parent="57" vertex="1">
                     <mxGeometry x="35" y="43" width="198" height="92" as="geometry"/>
                 </mxCell>
                 <mxCell id="71" value="滑动窗口&lt;br&gt;&lt;br&gt;&lt;u&gt;3 无重复字符的最长子集&lt;br&gt;187 DNA重复序列&lt;br&gt;219&lt;br&gt;220&lt;br&gt;&lt;/u&gt;" style="whiteSpace=wrap;html=1;container=0;" parent="57" vertex="1">
-                    <mxGeometry x="35" y="163" width="198" height="92" as="geometry"/>
+                    <mxGeometry x="250" y="43" width="198" height="92" as="geometry"/>
                 </mxCell>
-                <mxCell id="73" value="并发" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="-563" y="1389" width="200" height="116" as="geometry"/>
+                <mxCell id="75" value="滑动窗口：Distinct Characters&lt;br&gt;&lt;br&gt;76&lt;br&gt;3&lt;br&gt;159&lt;br&gt;340" style="whiteSpace=wrap;html=1;" vertex="1" parent="57">
+                    <mxGeometry x="35" y="152" width="197" height="105" as="geometry"/>
                 </mxCell>
-                <mxCell id="74" value="&lt;u&gt;1195 fizzbuzz&lt;/u&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="73">
+                <mxCell id="76" value="Two Pointers for two sequences&lt;br&gt;&lt;br&gt;986&lt;br&gt;1229&lt;br&gt;1775&lt;br&gt;2098" style="whiteSpace=wrap;html=1;" vertex="1" parent="57">
+                    <mxGeometry x="250" y="152" width="198" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="并发" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="370" y="1232" width="200" height="116" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" value="&lt;u&gt;1195 fizzbuzz&lt;/u&gt;" style="whiteSpace=wrap;html=1;" parent="73" vertex="1">
                     <mxGeometry x="41" y="37" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" value="二分搜索 Binary Search" style="swimlane;whiteSpace=wrap;html=1;container=0;startSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="-885" y="1374" width="553" height="194" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="常规&lt;br&gt;&lt;br&gt;4&lt;br&gt;153" style="whiteSpace=wrap;html=1;" vertex="1" parent="77">
+                    <mxGeometry x="25" y="53" width="140" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="84" value="Binary Search by Value&lt;br&gt;&lt;br&gt;1011&lt;br&gt;1231&lt;br&gt;1283" style="whiteSpace=wrap;html=1;" vertex="1" parent="77">
+                    <mxGeometry x="199" y="53" width="178" height="104" as="geometry"/>
+                </mxCell>
+                <mxCell id="85" value="Find k-th element&lt;br&gt;&lt;br&gt;215" style="whiteSpace=wrap;html=1;" vertex="1" parent="77">
+                    <mxGeometry x="401" y="53" width="120" height="104" as="geometry"/>
+                </mxCell>
+                <mxCell id="95" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="86" target="90">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="86" value="Hash Map" style="swimlane;whiteSpace=wrap;html=1;container=0;startSize=23;" vertex="1" parent="1">
+                    <mxGeometry x="-78.5" y="1345" width="187" height="194" as="geometry"/>
+                </mxCell>
+                <mxCell id="87" value="常规&lt;br&gt;&lt;br&gt;49&lt;br&gt;166" style="whiteSpace=wrap;html=1;" vertex="1" parent="86">
+                    <mxGeometry x="25" y="53" width="140" height="105" as="geometry"/>
+                </mxCell>
+                <mxCell id="90" value="Hash Map + 前缀和" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="373" y="1428" width="200" height="116" as="geometry"/>
+                </mxCell>
+                <mxCell id="91" value="525&lt;br&gt;930&lt;br&gt;1983" style="whiteSpace=wrap;html=1;" vertex="1" parent="90">
+                    <mxGeometry x="41" y="37" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="96" value="Hash Map" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-1123" y="32" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="98" value="Two &lt;br&gt;Pointers" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-1006" y="32" width="80" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="100" value="Binary&lt;br&gt;Search" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="-889" y="32" width="80" height="80" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
