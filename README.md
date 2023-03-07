@@ -40,6 +40,7 @@
  | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) |  [Python](./algorithms/python/276.paint-fence.py) | Medium | 2023-02-12 | `dynamic-programming` |
  | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) |  [Java](./algorithms/java/266.palindrome-permutation.java) | Easy | 2023-02-06 | `hash-table` |
  | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) |  [Python](./algorithms/python/265.paint-house-ii.py) | Hard | 2023-02-12 | `dynamic-programming` |
+ | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) |  [Python](./algorithms/python/258.add-digits.py) | Easy | 2023-03-06 | `math` |
  | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |  [Java](./algorithms/java/257.binary-tree-paths.java) | Easy | 2023-02-06 | `tree` `depth-first-search` |
  | 256 | [Paint House](https://leetcode.com/problems/paint-house/) |  [Python](./algorithms/python/256.paint-house.py) | Medium | 2023-02-12 | `dynamic-programming` |
  | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) |  [Java](./algorithms/java/253.meeting-rooms-ii.java) | Medium | 2023-02-06 | `heap` `greedy` `sort` |
@@ -106,7 +107,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | 2023-02-13 | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 103&nbsp;&nbsp;∑2023-03-06 = 8
+##### ∑all = 104&nbsp;&nbsp;∑2023-03-06 = 9
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
