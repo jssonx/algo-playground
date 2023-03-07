@@ -76,6 +76,7 @@
  | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  [Python](./algorithms/python/191.number-of-1-bits.py) | Easy | 2023-03-06 | `bit-manipulation` |
  | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) |  [Python](./algorithms/python/190.reverse-bits.py) | Easy | 2023-03-06 | `bit-manipulation` |
  | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) |  [Python](./algorithms/python/187.repeated-dna-sequences.py) | Medium | 2023-02-13 | `hash-table` `bit-manipulation` |
+ | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |  [Python](./algorithms/python/168.excel-sheet-column-title.py) | Easy | 2023-03-07 | `math` |
  | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |  [Java](./algorithms/java/160.intersection-of-two-linked-lists.java) | Easy | 2023-02-06 | `linked-list` |
  | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  [Java](./algorithms/java/151.reverse-words-in-a-string.java) | Medium | 2023-02-06 | `string` |
  | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |  [Java](./algorithms/java/150.evaluate-reverse-polish-notation.java) | Medium | 2023-02-06 | `stack` |
@@ -113,7 +114,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | 2023-02-13 | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 110&nbsp;&nbsp;∑2023-03-06 = 15
+##### ∑all = 111&nbsp;&nbsp;∑2023-03-07 = 1
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
