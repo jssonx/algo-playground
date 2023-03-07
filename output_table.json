@@ -10,6 +10,7 @@
     "772$ | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) |  [Python](./algorithms/python/772.basic-calculator-iii.py) | Hard | `string` `stack` |\n",
     "746$ | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |  [Python](./algorithms/python/746.min-cost-climbing-stairs.py) | Easy | `array` `dynamic-programming` |\n",
     "740$ | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) |  [Python](./algorithms/python/740.delete-and-earn.py) | Medium | `dynamic-programming` |\n",
+    "734$ | 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) |  [Python](./algorithms/python/734.sentence-similarity.py) | Easy | `hash-table` |\n",
     "717$ | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) |  [Python](./algorithms/python/717.1-bit-and-2-bit-characters.py) | Easy | `array` |\n",
     "707$ | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) |  [Java](./algorithms/java/707.design-linked-list.java) | Medium | `linked-list` `design` |\n",
     "704$ | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) |  [Java](./algorithms/java/704.binary-search.java) | Easy | `binary-search` |\n",
