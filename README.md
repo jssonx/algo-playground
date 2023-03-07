@@ -48,6 +48,7 @@
  | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |  [Java](./algorithms/java/236.lowest-common-ancestor-of-a-binary-tree.java) | Medium | 2023-02-06 | `tree` |
  | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |  [Java](./algorithms/java/235.lowest-common-ancestor-of-a-binary-search-tree.java) | Medium | 2023-02-06 | `tree` |
  | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |  [Java](./algorithms/java/232.implement-queue-using-stacks.java) | Easy | 2023-02-06 | `stack` `design` |
+ | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |  [Python](./algorithms/python/228.summary-ranges.py) | Easy | 2023-03-06 | `array` |
  | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) |  [Python](./algorithms/python/227.basic-calculator-ii.py) | Medium | 2023-02-06 | `string` |
  | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |  [Java](./algorithms/java/226.invert-binary-tree.java) | Easy | 2023-02-06 | `tree` |
  | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |  [Java](./algorithms/java/225.implement-stack-using-queues.java) | Easy | 2023-02-06 | `stack` `design` |
@@ -102,7 +103,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | 2023-02-13 | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 99&nbsp;&nbsp;∑2023-03-06 = 4
+##### ∑all = 100&nbsp;&nbsp;∑2023-03-06 = 5
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
