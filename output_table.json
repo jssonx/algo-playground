@@ -40,6 +40,7 @@
     "257$ | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |  [Java](./algorithms/java/257.binary-tree-paths.java) | Easy | 2023-02-06 | `tree` `depth-first-search` |\n",
     "256$ | 256 | [Paint House](https://leetcode.com/problems/paint-house/) |  [Python](./algorithms/python/256.paint-house.py) | Medium | 2023-02-12 | `dynamic-programming` |\n",
     "253$ | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) |  [Java](./algorithms/java/253.meeting-rooms-ii.java) | Medium | 2023-02-06 | `heap` `greedy` `sort` |\n",
+    "246$ | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) |  [Python](./algorithms/python/246.strobogrammatic-number.py) | Easy | 2023-03-06 | `hash-table` `math` |\n",
     "243$ | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) |  [Python](./algorithms/python/243.shortest-word-distance.py) | Easy | 2023-03-06 | `array` |\n",
     "242$ | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |  [Java](./algorithms/java/242.valid-anagram.java) | Easy | 2023-02-06 | `hash-table` `sort` |\n",
     "239$ | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) |  [Java](./algorithms/java/239.sliding-window-maximum.java) | Hard | 2023-02-06 | `heap` `sliding-window` |\n",

@@ -4319,6 +4319,139 @@
         }
     },
     {
+        "id": 246,
+        "fid": 246,
+        "name": "Strobogrammatic Number",
+        "slug": "strobogrammatic-number",
+        "link": "https://leetcode.com/problems/strobogrammatic-number/description/",
+        "percent": 47.77198485405172,
+        "level": "Easy",
+        "category": "algorithms",
+        "companies": [
+            "google"
+        ],
+        "tags": [
+            "hash-table",
+            "math"
+        ],
+        "totalAC": "158.2K",
+        "totalSubmit": "331.2K",
+        "likes": 534,
+        "dislikes": 943,
+        "desc": "<p>Given a string <code>num</code> which represents an integer, return <code>true</code> <em>if</em> <code>num</code> <em>is a <strong>strobogrammatic number</strong></em>.</p>\n\n<p>A <strong>strobogrammatic number</strong> is a number that looks the same when rotated <code>180</code> degrees (looked at upside down).</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> num = &quot;69&quot;\n<strong>Output:</strong> true\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> num = &quot;88&quot;\n<strong>Output:</strong> true\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre>\n<strong>Input:</strong> num = &quot;962&quot;\n<strong>Output:</strong> false\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= num.length &lt;= 50</code></li>\n\t<li><code>num</code> consists of only digits.</li>\n\t<li><code>num</code> does not contain any leading zeros except for zero itself.</li>\n</ul>\n",
+        "templates": [
+            {
+                "value": "cpp",
+                "text": "C++",
+                "defaultCode": "class Solution {\npublic:\n    bool isStrobogrammatic(string num) {\n        \n    }\n};"
+            },
+            {
+                "value": "java",
+                "text": "Java",
+                "defaultCode": "class Solution {\n    public boolean isStrobogrammatic(String num) {\n        \n    }\n}"
+            },
+            {
+                "value": "python",
+                "text": "Python",
+                "defaultCode": "class Solution(object):\n    def isStrobogrammatic(self, num):\n        \"\"\"\n        :type num: str\n        :rtype: bool\n        \"\"\"\n        "
+            },
+            {
+                "value": "python3",
+                "text": "Python3",
+                "defaultCode": "class Solution:\n    def isStrobogrammatic(self, num: str) -> bool:\n        "
+            },
+            {
+                "value": "c",
+                "text": "C",
+                "defaultCode": "bool isStrobogrammatic(char * num){\n\n}"
+            },
+            {
+                "value": "csharp",
+                "text": "C#",
+                "defaultCode": "public class Solution {\n    public bool IsStrobogrammatic(string num) {\n        \n    }\n}"
+            },
+            {
+                "value": "javascript",
+                "text": "JavaScript",
+                "defaultCode": "/**\n * @param {string} num\n * @return {boolean}\n */\nvar isStrobogrammatic = function(num) {\n    \n};"
+            },
+            {
+                "value": "ruby",
+                "text": "Ruby",
+                "defaultCode": "# @param {String} num\n# @return {Boolean}\ndef is_strobogrammatic(num)\n    \nend"
+            },
+            {
+                "value": "swift",
+                "text": "Swift",
+                "defaultCode": "class Solution {\n    func isStrobogrammatic(_ num: String) -> Bool {\n        \n    }\n}"
+            },
+            {
+                "value": "golang",
+                "text": "Go",
+                "defaultCode": "func isStrobogrammatic(num string) bool {\n    \n}"
+            },
+            {
+                "value": "scala",
+                "text": "Scala",
+                "defaultCode": "object Solution {\n    def isStrobogrammatic(num: String): Boolean = {\n        \n    }\n}"
+            },
+            {
+                "value": "kotlin",
+                "text": "Kotlin",
+                "defaultCode": "class Solution {\n    fun isStrobogrammatic(num: String): Boolean {\n        \n    }\n}"
+            },
+            {
+                "value": "rust",
+                "text": "Rust",
+                "defaultCode": "impl Solution {\n    pub fn is_strobogrammatic(num: String) -> bool {\n        \n    }\n}"
+            },
+            {
+                "value": "php",
+                "text": "PHP",
+                "defaultCode": "class Solution {\n\n    /**\n     * @param String $num\n     * @return Boolean\n     */\n    function isStrobogrammatic($num) {\n        \n    }\n}"
+            },
+            {
+                "value": "typescript",
+                "text": "TypeScript",
+                "defaultCode": "function isStrobogrammatic(num: string): boolean {\n\n};"
+            },
+            {
+                "value": "racket",
+                "text": "Racket",
+                "defaultCode": "(define/contract (is-strobogrammatic num)\n  (-> string? boolean?)\n\n  )"
+            },
+            {
+                "value": "erlang",
+                "text": "Erlang",
+                "defaultCode": "-spec is_strobogrammatic(Num :: unicode:unicode_binary()) -> boolean().\nis_strobogrammatic(Num) ->\n  ."
+            },
+            {
+                "value": "elixir",
+                "text": "Elixir",
+                "defaultCode": "defmodule Solution do\n  @spec is_strobogrammatic(num :: String.t) :: boolean\n  def is_strobogrammatic(num) do\n\n  end\nend"
+            },
+            {
+                "value": "dart",
+                "text": "Dart",
+                "defaultCode": "class Solution {\n  bool isStrobogrammatic(String num) {\n\n  }\n}"
+            }
+        ],
+        "testcase": "\"69\"",
+        "testable": true,
+        "templateMeta": {
+            "name": "isStrobogrammatic",
+            "params": [
+                {
+                    "name": "num",
+                    "type": "string"
+                }
+            ],
+            "return": {
+                "type": "boolean"
+            }
+        }
+    },
+    {
         "id": 1044,
         "fid": 1002,
         "name": "Find Common Characters",
