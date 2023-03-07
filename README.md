@@ -35,6 +35,7 @@
  | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  [Java](./algorithms/java/349.intersection-of-two-arrays.java) | Easy | 2023-02-06 | `hash-table` `two-pointers` `binary-search` `sort` |
  | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  [Java](./algorithms/java/347.top-k-frequent-elements.java) | Medium | 2023-02-06 | `hash-table` `heap` |
  | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  [Java](./algorithms/java/344.reverse-string.java) | Easy | 2023-02-06 | `two-pointers` `string` |
+ | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) |  [Python](./algorithms/python/338.counting-bits.py) | Easy | 2023-03-06 | `dynamic-programming` `bit-manipulation` |
  | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) |  [Python](./algorithms/python/326.power-of-three.py) | Easy | 2023-03-06 | `math` |
  | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |  [Python](./algorithms/python/309.best-time-to-buy-and-sell-stock-with-cooldown.py) | Medium | 2023-02-12 | `dynamic-programming` |
  | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |  [Python](./algorithms/python/303.range-sum-query-immutable.py) | Easy | 2023-02-10 | `dynamic-programming` |
@@ -109,7 +110,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | 2023-02-13 | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 106&nbsp;&nbsp;∑2023-03-06 = 11
+##### ∑all = 107&nbsp;&nbsp;∑2023-03-06 = 12
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
