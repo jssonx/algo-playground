@@ -43,6 +43,7 @@
  | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |  [Java](./algorithms/java/257.binary-tree-paths.java) | Easy | 2023-02-06 | `tree` `depth-first-search` |
  | 256 | [Paint House](https://leetcode.com/problems/paint-house/) |  [Python](./algorithms/python/256.paint-house.py) | Medium | 2023-02-12 | `dynamic-programming` |
  | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) |  [Java](./algorithms/java/253.meeting-rooms-ii.java) | Medium | 2023-02-06 | `heap` `greedy` `sort` |
+ | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) |  [Python](./algorithms/python/243.shortest-word-distance.py) | Easy | 2023-03-06 | `array` |
  | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |  [Java](./algorithms/java/242.valid-anagram.java) | Easy | 2023-02-06 | `hash-table` `sort` |
  | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) |  [Java](./algorithms/java/239.sliding-window-maximum.java) | Hard | 2023-02-06 | `heap` `sliding-window` |
  | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |  [Java](./algorithms/java/236.lowest-common-ancestor-of-a-binary-tree.java) | Medium | 2023-02-06 | `tree` |
@@ -104,7 +105,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | 2023-02-13 | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 101&nbsp;&nbsp;∑2023-03-06 = 6
+##### ∑all = 102&nbsp;&nbsp;∑2023-03-06 = 7
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
