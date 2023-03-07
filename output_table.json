@@ -45,6 +45,7 @@
     "236$ | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |  [Java](./algorithms/java/236.lowest-common-ancestor-of-a-binary-tree.java) | Medium | 2023-02-06 | `tree` |\n",
     "235$ | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |  [Java](./algorithms/java/235.lowest-common-ancestor-of-a-binary-search-tree.java) | Medium | 2023-02-06 | `tree` |\n",
     "232$ | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) |  [Java](./algorithms/java/232.implement-queue-using-stacks.java) | Easy | 2023-02-06 | `stack` `design` |\n",
+    "231$ | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) |  [Python](./algorithms/python/231.power-of-two.py) | Easy | 2023-03-06 | `math` `bit-manipulation` |\n",
     "228$ | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) |  [Python](./algorithms/python/228.summary-ranges.py) | Easy | 2023-03-06 | `array` |\n",
     "227$ | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) |  [Python](./algorithms/python/227.basic-calculator-ii.py) | Medium | 2023-02-06 | `string` |\n",
     "226$ | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |  [Java](./algorithms/java/226.invert-binary-tree.java) | Easy | 2023-02-06 | `tree` |\n",
