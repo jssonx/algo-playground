@@ -59,6 +59,7 @@
     "203$ | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |  [Java](./algorithms/java/203.remove-linked-list-elements.java) | Easy | 2023-02-06 | `linked-list` |\n",
     "202$ | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) |  [Java](./algorithms/java/202.happy-number.java) | Easy | 2023-02-06 | `hash-table` `math` |\n",
     "198$ | 198 | [House Robber](https://leetcode.com/problems/house-robber/) |  [Python](./algorithms/python/198.house-robber.py) | Medium | 2023-02-12 | `dynamic-programming` |\n",
+    "191$ | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  [Python](./algorithms/python/191.number-of-1-bits.py) | Easy | 2023-03-06 | `bit-manipulation` |\n",
     "190$ | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) |  [Python](./algorithms/python/190.reverse-bits.py) | Easy | 2023-03-06 | `bit-manipulation` |\n",
     "187$ | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) |  [Python](./algorithms/python/187.repeated-dna-sequences.py) | Medium | 2023-02-13 | `hash-table` `bit-manipulation` |\n",
     "160$ | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |  [Java](./algorithms/java/160.intersection-of-two-linked-lists.java) | Easy | 2023-02-06 | `linked-list` |\n",

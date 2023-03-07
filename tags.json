@@ -12531,6 +12531,120 @@
         }
     },
     {
+        "id": 191,
+        "fid": 191,
+        "name": "Number of 1 Bits",
+        "slug": "number-of-1-bits",
+        "link": "https://leetcode.com/problems/number-of-1-bits/description/",
+        "percent": 65.88417817517245,
+        "level": "Easy",
+        "category": "algorithms",
+        "companies": [
+            "apple",
+            "microsoft"
+        ],
+        "tags": [
+            "bit-manipulation"
+        ],
+        "totalAC": "1.1M",
+        "totalSubmit": "1.6M",
+        "likes": 5074,
+        "dislikes": 1088,
+        "desc": "<p>Write a function that takes&nbsp;the binary representation of an unsigned integer and returns the number of &#39;1&#39; bits it has (also known as the <a href=\"http://en.wikipedia.org/wiki/Hamming_weight\" target=\"_blank\">Hamming weight</a>).</p>\n\n<p><strong>Note:</strong></p>\n\n<ul>\n\t<li>Note that in some languages, such as Java, there is no unsigned integer type. In this case, the input will be given as a signed integer type. It should not affect your implementation, as the integer&#39;s internal binary representation is the same, whether it is signed or unsigned.</li>\n\t<li>In Java, the compiler represents the signed integers using <a href=\"https://en.wikipedia.org/wiki/Two%27s_complement\" target=\"_blank\">2&#39;s complement notation</a>. Therefore, in <strong class=\"example\">Example 3</strong>, the input represents the signed integer. <code>-3</code>.</li>\n</ul>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> n = 00000000000000000000000000001011\n<strong>Output:</strong> 3\n<strong>Explanation:</strong> The input binary string <strong>00000000000000000000000000001011</strong> has a total of three &#39;1&#39; bits.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> n = 00000000000000000000000010000000\n<strong>Output:</strong> 1\n<strong>Explanation:</strong> The input binary string <strong>00000000000000000000000010000000</strong> has a total of one &#39;1&#39; bit.\n</pre>\n\n<p><strong class=\"example\">Example 3:</strong></p>\n\n<pre>\n<strong>Input:</strong> n = 11111111111111111111111111111101\n<strong>Output:</strong> 31\n<strong>Explanation:</strong> The input binary string <strong>11111111111111111111111111111101</strong> has a total of thirty one &#39;1&#39; bits.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li>The input must be a <strong>binary string</strong> of length <code>32</code>.</li>\n</ul>\n\n<p>&nbsp;</p>\n<strong>Follow up:</strong> If this function is called many times, how would you optimize it?",
+        "templates": [
+            {
+                "value": "cpp",
+                "text": "C++",
+                "defaultCode": "class Solution {\npublic:\n    int hammingWeight(uint32_t n) {\n        \n    }\n};"
+            },
+            {
+                "value": "java",
+                "text": "Java",
+                "defaultCode": "public class Solution {\n    // you need to treat n as an unsigned value\n    public int hammingWeight(int n) {\n        \n    }\n}"
+            },
+            {
+                "value": "python",
+                "text": "Python",
+                "defaultCode": "class Solution(object):\n    def hammingWeight(self, n):\n        \"\"\"\n        :type n: int\n        :rtype: int\n        \"\"\"\n        "
+            },
+            {
+                "value": "python3",
+                "text": "Python3",
+                "defaultCode": "class Solution:\n    def hammingWeight(self, n: int) -> int:\n        "
+            },
+            {
+                "value": "c",
+                "text": "C",
+                "defaultCode": "int hammingWeight(uint32_t n) {\n    \n}"
+            },
+            {
+                "value": "csharp",
+                "text": "C#",
+                "defaultCode": "public class Solution {\n    public int HammingWeight(uint n) {\n        \n    }\n}"
+            },
+            {
+                "value": "javascript",
+                "text": "JavaScript",
+                "defaultCode": "/**\n * @param {number} n - a positive integer\n * @return {number}\n */\nvar hammingWeight = function(n) {\n    \n};"
+            },
+            {
+                "value": "ruby",
+                "text": "Ruby",
+                "defaultCode": "# @param {Integer} n, a positive integer\n# @return {Integer}\ndef hamming_weight(n)\n    \nend"
+            },
+            {
+                "value": "swift",
+                "text": "Swift",
+                "defaultCode": "class Solution {\n    func hammingWeight(_ n: Int) -> Int {\n        \n    }\n}"
+            },
+            {
+                "value": "golang",
+                "text": "Go",
+                "defaultCode": "func hammingWeight(num uint32) int {\n    \n}"
+            },
+            {
+                "value": "scala",
+                "text": "Scala",
+                "defaultCode": "object Solution {\n    // you need treat n as an unsigned value\n    def hammingWeight(n: Int): Int = {\n        \n    }\n}\n"
+            },
+            {
+                "value": "kotlin",
+                "text": "Kotlin",
+                "defaultCode": "class Solution {\n    // you need treat n as an unsigned value\n    fun hammingWeight(n:Int):Int {\n        \n    }\n}"
+            },
+            {
+                "value": "rust",
+                "text": "Rust",
+                "defaultCode": "impl Solution {\n    pub fn hammingWeight (n: u32) -> i32 {\n        \n    }\n}"
+            },
+            {
+                "value": "php",
+                "text": "PHP",
+                "defaultCode": "class Solution {\n    /**\n     * @param Integer $n\n     * @return Integer\n     */\n    function hammingWeight($n) {\n        \n    }\n}"
+            },
+            {
+                "value": "typescript",
+                "text": "TypeScript",
+                "defaultCode": "function hammingWeight(n: number): number {\n\n};"
+            }
+        ],
+        "testcase": "00000000000000000000000000001011",
+        "testable": true,
+        "templateMeta": {
+            "name": "hammingWeight",
+            "params": [
+                {
+                    "name": "n",
+                    "type": "integer"
+                }
+            ],
+            "return": {
+                "type": "integer"
+            },
+            "manual": true
+        }
+    },
+    {
         "id": 823,
         "fid": 805,
         "name": "Split Array With Same Average",
