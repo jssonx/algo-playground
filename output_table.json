@@ -34,6 +34,7 @@
     "344$ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  [Java](./algorithms/java/344.reverse-string.java) | Easy | 2023-02-06 | `two-pointers` `string` |\n",
     "309$ | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |  [Python](./algorithms/python/309.best-time-to-buy-and-sell-stock-with-cooldown.py) | Medium | 2023-02-12 | `dynamic-programming` |\n",
     "303$ | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |  [Python](./algorithms/python/303.range-sum-query-immutable.py) | Easy | 2023-02-10 | `dynamic-programming` |\n",
+    "290$ | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) |  [Python](./algorithms/python/290.word-pattern.py) | Easy | 2023-03-06 | `hash-table` |\n",
     "276$ | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) |  [Python](./algorithms/python/276.paint-fence.py) | Medium | 2023-02-12 | `dynamic-programming` |\n",
     "266$ | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) |  [Java](./algorithms/java/266.palindrome-permutation.java) | Easy | 2023-02-06 | `hash-table` |\n",
     "265$ | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) |  [Python](./algorithms/python/265.paint-house-ii.py) | Hard | 2023-02-12 | `dynamic-programming` |\n",

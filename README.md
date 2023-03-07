@@ -37,6 +37,7 @@
  | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  [Java](./algorithms/java/344.reverse-string.java) | Easy | 2023-02-06 | `two-pointers` `string` |
  | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |  [Python](./algorithms/python/309.best-time-to-buy-and-sell-stock-with-cooldown.py) | Medium | 2023-02-12 | `dynamic-programming` |
  | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |  [Python](./algorithms/python/303.range-sum-query-immutable.py) | Easy | 2023-02-10 | `dynamic-programming` |
+ | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) |  [Python](./algorithms/python/290.word-pattern.py) | Easy | 2023-03-06 | `hash-table` |
  | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) |  [Python](./algorithms/python/276.paint-fence.py) | Medium | 2023-02-12 | `dynamic-programming` |
  | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) |  [Java](./algorithms/java/266.palindrome-permutation.java) | Easy | 2023-02-06 | `hash-table` |
  | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) |  [Python](./algorithms/python/265.paint-house-ii.py) | Hard | 2023-02-12 | `dynamic-programming` |
@@ -107,7 +108,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | 2023-02-13 | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | 2023-02-06 | `array` `hash-table` |
 
-##### ∑all = 104&nbsp;&nbsp;∑2023-03-06 = 9
+##### ∑all = 105&nbsp;&nbsp;∑2023-03-06 = 10
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
