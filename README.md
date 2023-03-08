@@ -80,6 +80,7 @@
  | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |  [Python](./algorithms/python/191.number-of-1-bits.py) | Easy | `bit-manipulation` |
  | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) |  [Python](./algorithms/python/190.reverse-bits.py) | Easy | `bit-manipulation` |
  | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) |  [Python](./algorithms/python/187.repeated-dna-sequences.py) | Medium | `hash-table` `bit-manipulation` |
+ | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) |  [Python](./algorithms/python/186.reverse-words-in-a-string-ii.py) | Medium | `string` |
  | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |  [Python](./algorithms/python/168.excel-sheet-column-title.py) | Easy | `math` |
  | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |  [Java](./algorithms/java/160.intersection-of-two-linked-lists.java) | Easy | `linked-list` |
  | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  [Java](./algorithms/java/151.reverse-words-in-a-string.java) | Medium | `string` |
@@ -118,7 +119,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 115
+##### ∑all = 116
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
