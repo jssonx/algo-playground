@@ -5,6 +5,7 @@
  | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) |  [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py) | Hard | `no-tags` |
  | 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) |  [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py) | Medium | `no-tags` |
  | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |  [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py) | Medium | `no-tags` |
+ | 1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1-s-together/) |  [Python](./algorithms/python/1151.minimum-swaps-to-group-all-1-s-together.py) | Medium | `no-tags` |
  | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) |  [Python](./algorithms/python/1137.n-th-tribonacci-number.py) | Easy | `no-tags` |
  | 1086 | [High Five](https://leetcode.com/problems/high-five/) |  [Python](./algorithms/python/1086.high-five.py) | Easy | `no-tags` |
  | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |  [Java](./algorithms/java/1047.remove-all-adjacent-duplicates-in-string.java) | Easy | `stack` |
@@ -120,7 +121,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 117
+##### ∑all = 118
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
