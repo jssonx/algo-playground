@@ -34,6 +34,7 @@
     "459$ | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |  [Java](./algorithms/java/459.repeated-substring-pattern.java) | Easy | `string` |\n",
     "454$ | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) |  [Java](./algorithms/java/454.4sum-ii.java) [Java](./algorithms/java/454.4sum-ii.java) | Medium | `hash-table` `binary-search` |\n",
     "450$ | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) |  [Java](./algorithms/java/450.delete-node-in-a-bst.java) | Medium | `tree` |\n",
+    "422$ | 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) |  [Python](./algorithms/python/422.valid-word-square.py) | Easy | `no-tags` |\n",
     "415$ | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) |  [Python](./algorithms/python/415.add-strings.py) | Easy | `string` |\n",
     "404$ | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) |  [Java](./algorithms/java/404.sum-of-left-leaves.java) | Easy | `tree` |\n",
     "383$ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |  [Java](./algorithms/java/383.ransom-note.java) | Easy | `string` |\n",
