@@ -109,6 +109,7 @@
     "59$ | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |  [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | `array` |\n",
     "55$ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) |  [Python](./algorithms/python/55.jump-game.py) | Medium | `array` `greedy` |\n",
     "53$ | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  [Python](./algorithms/python/53.maximum-subarray.py) | Medium | `array` `divide-and-conquer` `dynamic-programming` |\n",
+    "49$ | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |  [Python](./algorithms/python/49.group-anagrams.py) | Medium | `hash-table` `string` |\n",
     "45$ | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) |  [Python](./algorithms/python/45.jump-game-ii.py) | Medium | `array` `greedy` |\n",
     "43$ | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |  [Python](./algorithms/python/43.multiply-strings.py) | Medium | `math` `string` |\n",
     "28$ | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |  [Java](./algorithms/java/28.find-the-index-of-the-first-occurrence-in-a-string.java) | Medium | `two-pointers` `string` |\n",

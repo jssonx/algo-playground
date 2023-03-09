@@ -112,6 +112,7 @@
  | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |  [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | `array` |
  | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) |  [Python](./algorithms/python/55.jump-game.py) | Medium | `array` `greedy` |
  | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  [Python](./algorithms/python/53.maximum-subarray.py) | Medium | `array` `divide-and-conquer` `dynamic-programming` |
+ | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |  [Python](./algorithms/python/49.group-anagrams.py) | Medium | `hash-table` `string` |
  | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) |  [Python](./algorithms/python/45.jump-game-ii.py) | Medium | `array` `greedy` |
  | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |  [Python](./algorithms/python/43.multiply-strings.py) | Medium | `math` `string` |
  | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |  [Java](./algorithms/java/28.find-the-index-of-the-first-occurrence-in-a-string.java) | Medium | `two-pointers` `string` |
@@ -125,7 +126,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 122
+##### ∑all = 123
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
