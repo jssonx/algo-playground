@@ -11,6 +11,7 @@
     "1047$ | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |  [Java](./algorithms/java/1047.remove-all-adjacent-duplicates-in-string.java) | Easy | `stack` |\n",
     "1002$ | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) |  [Java](./algorithms/java/1002.find-common-characters.java) | Easy | `array` `hash-table` |\n",
     "977$ | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |  [Java](./algorithms/java/977.squares-of-a-sorted-array.java) | Easy | `array` `two-pointers` |\n",
+    "940$ | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) |  [Python](./algorithms/python/940.distinct-subsequences-ii.py) | Hard | `dynamic-programming` |\n",
     "912$ | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) |  [Java](./algorithms/java/912.sort-an-array.java) | Medium | `no-tags` |\n",
     "772$ | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) |  [Python](./algorithms/python/772.basic-calculator-iii.py) | Hard | `string` `stack` |\n",
     "746$ | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |  [Python](./algorithms/python/746.min-cost-climbing-stairs.py) | Easy | `array` `dynamic-programming` |\n",
