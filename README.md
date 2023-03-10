@@ -2,6 +2,7 @@
 
 | # | Title | Solution | Difficulty | Tags |
 | --- | ----- | -------- | -------- | -------- |
+ | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) |  [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py) | Easy | `no-tags` |
  | 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) |  [Python](./algorithms/python/1427.perform-string-shifts.py) | Easy | `no-tags` |
  | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) |  [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py) | Hard | `no-tags` |
  | 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) |  [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py) | Medium | `no-tags` |
@@ -127,7 +128,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 124
+##### ∑all = 125
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
