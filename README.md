@@ -111,7 +111,7 @@
  | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  [Java](./algorithms/java/104.maximum-depth-of-binary-tree.java) | Easy | `tree` `depth-first-search` |
  | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |  [Java](./algorithms/java/102.binary-tree-level-order-traversal.java) | Medium | `tree` `breadth-first-search` |
  | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |  [Java](./algorithms/java/101.symmetric-tree.java) | Easy | `tree` `depth-first-search` `breadth-first-search` |
- | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) |  [Java](./algorithms/java/100.same-tree.java) | Easy | `tree` `depth-first-search` |
+ | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) |  [Python](./algorithms/python/100.same-tree.py) [Java](./algorithms/java/100.same-tree.java) | Easy | `tree` `depth-first-search` |
  | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |  [Java](./algorithms/java/98.validate-binary-search-tree.java) | Medium | `tree` `depth-first-search` |
  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |  [Python](./algorithms/python/94.binary-tree-inorder-traversal.py) [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) | Easy | `hash-table` `stack` `tree` |
  | 77 | [Combinations](https://leetcode.com/problems/combinations/) |  [Java](./algorithms/java/77.combinations.java) | Medium | `backtracking` |
