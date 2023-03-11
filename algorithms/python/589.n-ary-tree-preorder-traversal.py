@@ -71,7 +71,8 @@ class Solution:
         while stk:
             node = stk.pop()
             res.append(node.val)
-            stk.extend(reversed(node.children))
+            stk.extend(child for child in reversed(node.children))
+            # stk.extend(reversed(node.children))
         return res
         
 # @lc code=end

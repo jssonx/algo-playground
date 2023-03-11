@@ -66,6 +66,7 @@ class Solution:
         while queue:
             res.append([node.val for node in queue])
             queue = [child for node in queue for child in node.children]
+
         return res
         
 # @lc code=end
