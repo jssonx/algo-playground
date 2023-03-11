@@ -94,7 +94,7 @@
  | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  [Java](./algorithms/java/151.reverse-words-in-a-string.java) | Medium | `string` |
  | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |  [Java](./algorithms/java/150.evaluate-reverse-polish-notation.java) | Medium | `stack` |
  | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) |  [Java](./algorithms/java/145.binary-tree-postorder-traversal.java) | Easy | `stack` `tree` |
- | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |  [Cpp](./algorithms/cpp/144.binary-tree-preorder-traversal.cpp) [Java](./algorithms/java/144.binary-tree-preorder-traversal.java) | Easy | `stack` `tree` |
+ | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |  [Python](./algorithms/python/144.binary-tree-preorder-traversal.py) [Cpp](./algorithms/cpp/144.binary-tree-preorder-traversal.cpp) [Java](./algorithms/java/144.binary-tree-preorder-traversal.java) | Easy | `stack` `tree` |
  | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |  [Java](./algorithms/java/142.linked-list-cycle-ii.java) | Medium | `linked-list` `two-pointers` |
  | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |  [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py) | Hard | `array` `dynamic-programming` |
  | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |  [Python](./algorithms/python/119.pascals-triangle-ii.py) | Easy | `array` |
