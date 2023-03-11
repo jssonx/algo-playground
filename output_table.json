@@ -105,7 +105,7 @@
     "101$ | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |  [Java](./algorithms/java/101.symmetric-tree.java) | Easy | `tree` `depth-first-search` `breadth-first-search` |\n",
     "100$ | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) |  [Java](./algorithms/java/100.same-tree.java) | Easy | `tree` `depth-first-search` |\n",
     "98$ | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |  [Java](./algorithms/java/98.validate-binary-search-tree.java) | Medium | `tree` `depth-first-search` |\n",
-    "94$ | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |  [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) | Easy | `hash-table` `stack` `tree` |\n",
+    "94$ | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |  [Python](./algorithms/python/94.binary-tree-inorder-traversal.py) [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) | Easy | `hash-table` `stack` `tree` |\n",
     "77$ | 77 | [Combinations](https://leetcode.com/problems/combinations/) |  [Java](./algorithms/java/77.combinations.java) | Medium | `backtracking` |\n",
     "70$ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |  [Python](./algorithms/python/70.climbing-stairs.py) | Easy | `dynamic-programming` |\n",
     "59$ | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |  [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | `array` |\n",
