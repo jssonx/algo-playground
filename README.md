@@ -14,6 +14,7 @@
  | 1056 | [Confusing Number](https://leetcode.com/problems/confusing-number/) |  [Python](./algorithms/python/1056.confusing-number.py) | Easy | `math` |
  | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) |  [Java](./algorithms/java/1047.remove-all-adjacent-duplicates-in-string.java) | Easy | `stack` |
  | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) |  [Java](./algorithms/java/1002.find-common-characters.java) | Easy | `array` `hash-table` |
+ | 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) |  [Python](./algorithms/python/987.vertical-order-traversal-of-a-binary-tree.py) | Hard | `hash-table` `tree` |
  | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) |  [Java](./algorithms/java/977.squares-of-a-sorted-array.java) | Easy | `array` `two-pointers` |
  | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) |  [Python](./algorithms/python/940.distinct-subsequences-ii.py) | Hard | `dynamic-programming` |
  | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) |  [Java](./algorithms/java/912.sort-an-array.java) | Medium | `no-tags` |
@@ -131,7 +132,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 128
+##### ∑all = 129
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
