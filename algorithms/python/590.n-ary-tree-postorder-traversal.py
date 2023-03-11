@@ -67,8 +67,9 @@ class Solution:
         while stk:
             node = stk.pop()
             res.append(node.val)
-            for child in node.children:
-                stk.append(child)
+            # for child in node.children:
+            #     stk.append(child)
+            stk.extend(node.children)
         return res[::-1]
         
 # @lc code=end
