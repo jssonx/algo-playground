@@ -1,6 +1,7 @@
 [
     "2357$ | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) |  [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py) | Easy | `no-tags` |\n",
     "1427$ | 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) |  [Python](./algorithms/python/1427.perform-string-shifts.py) | Easy | `no-tags` |\n",
+    "1302$ | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) |  [Python](./algorithms/python/1302.deepest-leaves-sum.py) | Medium | `no-tags` |\n",
     "1289$ | 1289 | [Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/) |  [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py) | Hard | `no-tags` |\n",
     "1195$ | 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) |  [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py) | Medium | `no-tags` |\n",
     "1186$ | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |  [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py) | Medium | `no-tags` |\n",
