@@ -101,6 +101,7 @@
  | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) |  [Python](./algorithms/python/145.binary-tree-postorder-traversal.py) [Java](./algorithms/java/145.binary-tree-postorder-traversal.java) | Easy | `stack` `tree` |
  | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |  [Python](./algorithms/python/144.binary-tree-preorder-traversal.py) [Cpp](./algorithms/cpp/144.binary-tree-preorder-traversal.cpp) [Java](./algorithms/java/144.binary-tree-preorder-traversal.java) | Easy | `stack` `tree` |
  | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |  [Java](./algorithms/java/142.linked-list-cycle-ii.java) | Medium | `linked-list` `two-pointers` |
+ | 136 | [Single Number](https://leetcode.com/problems/single-number/) |  [Python](./algorithms/python/136.single-number.py) | Easy | `hash-table` `bit-manipulation` |
  | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |  [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py) | Hard | `array` `dynamic-programming` |
  | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |  [Python](./algorithms/python/119.pascals-triangle-ii.py) | Easy | `array` |
  | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) |  [Java](./algorithms/java/112.path-sum.java) | Easy | `tree` `depth-first-search` |
@@ -110,7 +111,7 @@
  | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |  [Java](./algorithms/java/106.construct-binary-tree-from-inorder-and-postorder-traversal.java) | Medium | `array` `tree` `depth-first-search` |
  | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  [Java](./algorithms/java/104.maximum-depth-of-binary-tree.java) | Easy | `tree` `depth-first-search` |
  | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |  [Java](./algorithms/java/102.binary-tree-level-order-traversal.java) | Medium | `tree` `breadth-first-search` |
- | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |  [Java](./algorithms/java/101.symmetric-tree.java) | Easy | `tree` `depth-first-search` `breadth-first-search` |
+ | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |  [Python](./algorithms/python/101.symmetric-tree.py) [Java](./algorithms/java/101.symmetric-tree.java) | Easy | `tree` `depth-first-search` `breadth-first-search` |
  | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) |  [Python](./algorithms/python/100.same-tree.py) [Java](./algorithms/java/100.same-tree.java) | Easy | `tree` `depth-first-search` |
  | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |  [Java](./algorithms/java/98.validate-binary-search-tree.java) | Medium | `tree` `depth-first-search` |
  | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |  [Python](./algorithms/python/94.binary-tree-inorder-traversal.py) [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) | Easy | `hash-table` `stack` `tree` |
@@ -133,7 +134,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 130
+##### ∑all = 131
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
