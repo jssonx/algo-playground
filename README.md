@@ -33,6 +33,7 @@
  | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) |  [Java](./algorithms/java/617.merge-two-binary-trees.java) | Easy | `tree` |
  | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |  [Python](./algorithms/python/590.n-ary-tree-postorder-traversal.py) | Easy | `tree` |
  | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |  [Python](./algorithms/python/589.n-ary-tree-preorder-traversal.py) | Easy | `tree` |
+ | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |  [Python](./algorithms/python/572.subtree-of-another-tree.py) | Easy | `tree` |
  | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |  [Java](./algorithms/java/538.convert-bst-to-greater-tree.java) | Medium | `tree` |
  | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) |  [Java](./algorithms/java/530.minimum-absolute-difference-in-bst.java) | Easy | `tree` |
  | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) |  [Java](./algorithms/java/513.find-bottom-left-tree-value.java) | Medium | `tree` `depth-first-search` `breadth-first-search` |
@@ -134,7 +135,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 131
+##### ∑all = 132
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
