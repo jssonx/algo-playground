@@ -110,7 +110,7 @@
  | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |  [Python](./algorithms/python/129.sum-root-to-leaf-numbers.py) | Medium | `tree` `depth-first-search` |
  | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |  [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py) | Hard | `array` `dynamic-programming` |
  | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |  [Python](./algorithms/python/119.pascals-triangle-ii.py) | Easy | `array` |
- | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) |  [Java](./algorithms/java/112.path-sum.java) | Easy | `tree` `depth-first-search` |
+ | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) |  [Python](./algorithms/python/112.path-sum.py) [Java](./algorithms/java/112.path-sum.java) | Easy | `tree` `depth-first-search` |
  | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |  [Python](./algorithms/python/111.minimum-depth-of-binary-tree.py) [Java](./algorithms/java/111.minimum-depth-of-binary-tree.java) | Easy | `tree` `depth-first-search` `breadth-first-search` |
  | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |  [Python](./algorithms/python/110.balanced-binary-tree.py) [Java](./algorithms/java/110.balanced-binary-tree.java) | Easy | `tree` `depth-first-search` |
  | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |  [Java](./algorithms/java/108.convert-sorted-array-to-binary-search-tree.java) | Easy | `tree` `depth-first-search` |
