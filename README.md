@@ -107,6 +107,7 @@
  | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |  [Python](./algorithms/python/144.binary-tree-preorder-traversal.py) [Cpp](./algorithms/cpp/144.binary-tree-preorder-traversal.cpp) [Java](./algorithms/java/144.binary-tree-preorder-traversal.java) | Easy | `stack` `tree` |
  | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |  [Java](./algorithms/java/142.linked-list-cycle-ii.java) | Medium | `linked-list` `two-pointers` |
  | 136 | [Single Number](https://leetcode.com/problems/single-number/) |  [Python](./algorithms/python/136.single-number.py) | Easy | `hash-table` `bit-manipulation` |
+ | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |  [Python](./algorithms/python/129.sum-root-to-leaf-numbers.py) | Medium | `tree` `depth-first-search` |
  | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |  [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py) | Hard | `array` `dynamic-programming` |
  | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |  [Python](./algorithms/python/119.pascals-triangle-ii.py) | Easy | `array` |
  | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) |  [Java](./algorithms/java/112.path-sum.java) | Easy | `tree` `depth-first-search` |
@@ -139,7 +140,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 136
+##### ∑all = 137
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
