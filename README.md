@@ -50,6 +50,7 @@
  | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |  [Java](./algorithms/java/459.repeated-substring-pattern.java) | Easy | `string` |
  | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) |  [Java](./algorithms/java/454.4sum-ii.java) [Java](./algorithms/java/454.4sum-ii.java) | Medium | `hash-table` `binary-search` |
  | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) |  [Java](./algorithms/java/450.delete-node-in-a-bst.java) | Medium | `tree` |
+ | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) |  [Python](./algorithms/python/437.path-sum-iii.py) | Medium | `tree` |
  | 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |  [Python](./algorithms/python/429.n-ary-tree-level-order-traversal.py) | Medium | `tree` `breadth-first-search` |
  | 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) |  [Python](./algorithms/python/422.valid-word-square.py) | Easy | `no-tags` |
  | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) |  [Python](./algorithms/python/415.add-strings.py) | Easy | `string` |
@@ -143,7 +144,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 140
+##### ∑all = 141
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
