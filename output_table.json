@@ -28,6 +28,7 @@
     "704$ | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) |  [Java](./algorithms/java/704.binary-search.java) | Easy | `binary-search` |\n",
     "701$ | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) |  [Java](./algorithms/java/701.insert-into-a-binary-search-tree.java) | Medium | `tree` |\n",
     "700$ | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |  [Java](./algorithms/java/700.search-in-a-binary-search-tree.java) | Easy | `tree` |\n",
+    "687$ | 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) |  [Python](./algorithms/python/687.longest-univalue-path.py) | Medium | `tree` `recursion` |\n",
     "670$ | 670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap/) |  [Python](./algorithms/python/670.maximum-swap.py) | Medium | `array` `math` |\n",
     "669$ | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) |  [Java](./algorithms/java/669.trim-a-binary-search-tree.java) | Medium | `tree` |\n",
     "666$ | 666 | [Path Sum IV](https://leetcode.com/problems/path-sum-iv/) |  [Python](./algorithms/python/666.path-sum-iv.py) | Medium | `tree` |\n",
