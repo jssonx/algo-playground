@@ -111,6 +111,7 @@
  | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |  [Python](./algorithms/python/129.sum-root-to-leaf-numbers.py) | Medium | `tree` `depth-first-search` |
  | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |  [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py) | Hard | `array` `dynamic-programming` |
  | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |  [Python](./algorithms/python/119.pascals-triangle-ii.py) | Easy | `array` |
+ | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) |  [Python](./algorithms/python/113.path-sum-ii.py) | Medium | `tree` `depth-first-search` |
  | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) |  [Python](./algorithms/python/112.path-sum.py) [Java](./algorithms/java/112.path-sum.java) | Easy | `tree` `depth-first-search` |
  | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |  [Python](./algorithms/python/111.minimum-depth-of-binary-tree.py) [Java](./algorithms/java/111.minimum-depth-of-binary-tree.java) | Easy | `tree` `depth-first-search` `breadth-first-search` |
  | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |  [Python](./algorithms/python/110.balanced-binary-tree.py) [Java](./algorithms/java/110.balanced-binary-tree.java) | Easy | `tree` `depth-first-search` |
@@ -141,7 +142,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 138
+##### ∑all = 139
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
