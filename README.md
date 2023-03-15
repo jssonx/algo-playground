@@ -33,6 +33,7 @@
  | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |  [Java](./algorithms/java/700.search-in-a-binary-search-tree.java) | Easy | `tree` |
  | 670 | [Maximum Swap](https://leetcode.com/problems/maximum-swap/) |  [Python](./algorithms/python/670.maximum-swap.py) | Medium | `array` `math` |
  | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) |  [Java](./algorithms/java/669.trim-a-binary-search-tree.java) | Medium | `tree` |
+ | 666 | [Path Sum IV](https://leetcode.com/problems/path-sum-iv/) |  [Python](./algorithms/python/666.path-sum-iv.py) | Medium | `tree` |
  | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) |  [Java](./algorithms/java/654.maximum-binary-tree.java) | Medium | `tree` |
  | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) |  [Java](./algorithms/java/617.merge-two-binary-trees.java) | Easy | `tree` |
  | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |  [Python](./algorithms/python/606.construct-string-from-binary-tree.py) | Easy | `string` `tree` |
@@ -144,7 +145,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 141
+##### ∑all = 142
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
