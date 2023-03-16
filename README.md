@@ -22,6 +22,7 @@
  | 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |  [Python](./algorithms/python/958.check-completeness-of-a-binary-tree.py) | Medium | `tree` |
  | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) |  [Python](./algorithms/python/940.distinct-subsequences-ii.py) | Hard | `dynamic-programming` |
  | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) |  [Java](./algorithms/java/912.sort-an-array.java) | Medium | `no-tags` |
+ | 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) |  [Python](./algorithms/python/889.construct-binary-tree-from-preorder-and-postorder-traversal.py) | Medium | `tree` |
  | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) |  [Python](./algorithms/python/772.basic-calculator-iii.py) | Hard | `string` `stack` |
  | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |  [Python](./algorithms/python/746.min-cost-climbing-stairs.py) | Easy | `array` `dynamic-programming` |
  | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) |  [Python](./algorithms/python/740.delete-and-earn.py) | Medium | `dynamic-programming` |
@@ -148,7 +149,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 145
+##### ∑all = 146
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
