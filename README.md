@@ -122,6 +122,7 @@
  | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |  [Python](./algorithms/python/110.balanced-binary-tree.py) [Java](./algorithms/java/110.balanced-binary-tree.java) | Easy | `tree` `depth-first-search` |
  | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |  [Java](./algorithms/java/108.convert-sorted-array-to-binary-search-tree.java) | Easy | `tree` `depth-first-search` |
  | 106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |  [Python](./algorithms/python/106.construct-binary-tree-from-inorder-and-postorder-traversal.py) [Java](./algorithms/java/106.construct-binary-tree-from-inorder-and-postorder-traversal.java) | Medium | `array` `tree` `depth-first-search` |
+ | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |  [Python](./algorithms/python/105.construct-binary-tree-from-preorder-and-inorder-traversal.py) | Medium | `array` `tree` `depth-first-search` |
  | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  [Python](./algorithms/python/104.maximum-depth-of-binary-tree.py) [Java](./algorithms/java/104.maximum-depth-of-binary-tree.java) | Easy | `tree` `depth-first-search` |
  | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |  [Java](./algorithms/java/102.binary-tree-level-order-traversal.java) | Medium | `tree` `breadth-first-search` |
  | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |  [Python](./algorithms/python/101.symmetric-tree.py) [Java](./algorithms/java/101.symmetric-tree.java) | Easy | `tree` `depth-first-search` `breadth-first-search` |
@@ -147,7 +148,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 144
+##### ∑all = 145
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
