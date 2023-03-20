@@ -143,6 +143,7 @@
  | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |  [Python](./algorithms/python/49.group-anagrams.py) | Medium | `hash-table` `string` |
  | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) |  [Python](./algorithms/python/45.jump-game-ii.py) | Medium | `array` `greedy` |
  | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |  [Python](./algorithms/python/43.multiply-strings.py) | Medium | `math` `string` |
+ | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) |  [Python](./algorithms/python/29.divide-two-integers.py) | Medium | `math` `binary-search` |
  | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |  [Java](./algorithms/java/28.find-the-index-of-the-first-occurrence-in-a-string.java) | Medium | `two-pointers` `string` |
  | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) |  [Python](./algorithms/python/27.remove-element.py) [Java](./algorithms/java/27.remove-element.java) | Easy | `array` `two-pointers` |
  | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |  [Java](./algorithms/java/24.swap-nodes-in-pairs.java) | Medium | `linked-list` |
@@ -154,7 +155,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 151
+##### ∑all = 152
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
