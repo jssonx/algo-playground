@@ -62,7 +62,7 @@ class Solution:
             return 0
         if dividend == -2**31 and divisor == -1:
             return 2**31 - 1
-        positive = (dividend >= 0) is (divisor >= 0)
+        positive = (dividend >= 0) is (divisor >= 0) # 是否同号
         dividend, divisor = abs(dividend), abs(divisor)
         res = 0
         while dividend >= divisor:
