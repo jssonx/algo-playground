@@ -3,6 +3,7 @@
 | # | Title | Solution | Difficulty | Tags |
 | --- | ----- | -------- | -------- | -------- |
  | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) |  [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py) | Easy | `no-tags` |
+ | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1-d-array/) |  [Python](./algorithms/python/1480.running-sum-of-1-d-array.py) | Easy | `no-tags` |
  | 1469 | [Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) |  [Python](./algorithms/python/1469.find-all-the-lonely-nodes.py) | Easy | `no-tags` |
  | 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) |  [Python](./algorithms/python/1427.perform-string-shifts.py) | Easy | `no-tags` |
  | 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) |  [Python](./algorithms/python/1302.deepest-leaves-sum.py) | Medium | `no-tags` |
@@ -152,7 +153,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 149
+##### ∑all = 150
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
