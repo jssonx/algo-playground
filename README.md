@@ -29,6 +29,7 @@
  | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |  [Python](./algorithms/python/746.min-cost-climbing-stairs.py) | Easy | `array` `dynamic-programming` |
  | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) |  [Python](./algorithms/python/740.delete-and-earn.py) | Medium | `dynamic-programming` |
  | 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) |  [Python](./algorithms/python/734.sentence-similarity.py) | Easy | `hash-table` |
+ | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |  [Python](./algorithms/python/724.find-pivot-index.py) | Easy | `array` |
  | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) |  [Python](./algorithms/python/717.1-bit-and-2-bit-characters.py) | Easy | `array` |
  | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) |  [Java](./algorithms/java/707.design-linked-list.java) | Medium | `linked-list` `design` |
  | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) |  [Java](./algorithms/java/704.binary-search.java) | Easy | `binary-search` |
@@ -153,7 +154,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 150
+##### ∑all = 151
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
