@@ -152,11 +152,12 @@
  | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |  [Java](./algorithms/java/19.remove-nth-node-from-end-of-list.java) | Medium | `linked-list` `two-pointers` |
  | 18 | [4Sum](https://leetcode.com/problems/4-sum/) |  [Java](./algorithms/java/18.4-sum.java) | Medium | `array` `hash-table` `two-pointers` |
  | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |  [Python](./algorithms/python/17.letter-combinations-of-a-phone-number.py) [Java](./algorithms/java/17.letter-combinations-of-a-phone-number.java) | Medium | `string` `backtracking` |
+ | 16 | [3Sum Closest](https://leetcode.com/problems/3-sum-closest/) |  [Python](./algorithms/python/16.3-sum-closest.py) | Medium | `array` `two-pointers` |
  | 15 | [3Sum](https://leetcode.com/problems/3-sum/) |  [Java](./algorithms/java/15.3-sum.java) | Medium | `array` `two-pointers` |
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 153
+##### ∑all = 154
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
