@@ -69,6 +69,7 @@
  | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  [Java](./algorithms/java/347.top-k-frequent-elements.java) | Medium | `hash-table` `heap` |
  | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  [Java](./algorithms/java/344.reverse-string.java) | Easy | `two-pointers` `string` |
  | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) |  [Python](./algorithms/python/342.power-of-four.py) | Easy | `bit-manipulation` |
+ | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) |  [Python](./algorithms/python/339.nested-list-weight-sum.py) | Medium | `depth-first-search` |
  | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) |  [Python](./algorithms/python/338.counting-bits.py) | Easy | `dynamic-programming` `bit-manipulation` |
  | 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) |  [Python](./algorithms/python/326.power-of-three.py) | Easy | `math` |
  | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |  [Python](./algorithms/python/309.best-time-to-buy-and-sell-stock-with-cooldown.py) | Medium | `dynamic-programming` |
@@ -158,7 +159,7 @@
  | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |  [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |
  | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) |  [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs) [Java](./algorithms/java/1.two-sum.java) | Easy | `array` `hash-table` |
 
-##### ∑all = 155
+##### ∑all = 156
 # The Big Picture
 
 ![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)
