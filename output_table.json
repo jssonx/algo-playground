@@ -140,6 +140,7 @@
     "49$ | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |  [Python](./algorithms/python/49.group-anagrams.py) | Medium | `hash-table` `string` |\n",
     "45$ | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) |  [Python](./algorithms/python/45.jump-game-ii.py) | Medium | `array` `greedy` |\n",
     "43$ | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |  [Python](./algorithms/python/43.multiply-strings.py) | Medium | `math` `string` |\n",
+    "33$ | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) |  [Python](./algorithms/python/33.search-in-rotated-sorted-array.py) | Medium | `array` `binary-search` |\n",
     "31$ | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) |  [Python](./algorithms/python/31.next-permutation.py) | Medium | `array` |\n",
     "29$ | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) |  [Python](./algorithms/python/29.divide-two-integers.py) | Medium | `math` `binary-search` |\n",
     "28$ | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |  [Java](./algorithms/java/28.find-the-index-of-the-first-occurrence-in-a-string.java) | Medium | `two-pointers` `string` |\n",
