@@ -1,6 +1,12 @@
-# e.g. make update n=19
-# NUMBER = $(filter-out $@,$(MAKECMDGOALS))
+# Define default target
+.PHONY: all
+all: update
 
+# Define variables
+n ?= 0
+
+# Define targets
+.PHONY: update
 update:
 	python auto_md_writer.py
 	git add .
