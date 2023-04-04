@@ -76,10 +76,10 @@ class Solution:
             curr = stack.pop()
             if curr == destination:
                 return True
-            for v in adj_list[curr]:
-                if v not in visited:
-                    stack.append(v)
-                    visited.add(v)
+            for node in adj_list[curr]:
+                if node not in visited:
+                    stack.append(node)
+                    visited.add(node)
         return False
         
 # @lc code=end
