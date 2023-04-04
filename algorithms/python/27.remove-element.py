@@ -7,12 +7,16 @@
 # @lc code=start
 class Solution(object):
     def removeElement(self, nums, val):
-        i = 0
-        for x in nums:
-            if x != val:
-                nums[i] = x
-                i += 1
-        return i
-        
+        n = len(nums)
+        left = 0
+        right = n - 1
+        while left <= right:
+            if nums[left] == val:
+                nums[left], nums[right] = nums[right], nums[left]
+                right -= 1
+            else:
+                left += 1
+        return left
+
 # @lc code=end
 
