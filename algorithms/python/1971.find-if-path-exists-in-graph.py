@@ -71,6 +71,29 @@ class Solution:
             adj_list[u].append(v)
             adj_list[v].append(u)
         visited = set()
+        stack = [source]
+        while stack:
+            curr = stack.pop()
+            if curr == destination:
+                return True
+            for v in adj_list[curr]:
+                if v not in visited:
+                    stack.append(v)
+                    visited.add(v)
+        return False
+        
+# @lc code=end
+
+'''
+class Solution:
+    def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool:
+        if source == destination:
+            return True
+        adj_list = [[] for _ in range(n)] 
+        for u, v in edges:
+            adj_list[u].append(v)
+            adj_list[v].append(u)
+        visited = set()
         queue = [source]
         while queue:
             curr = queue.pop(0)
@@ -81,6 +104,4 @@ class Solution:
                     queue.append(v)
                     visited.add(v)
         return False
-        
-# @lc code=end
-
+'''
