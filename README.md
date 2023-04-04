@@ -28,6 +28,7 @@
  | 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) |  [Python](./algorithms/python/889.construct-binary-tree-from-preorder-and-postorder-traversal.py) | Medium | `tree` |
  | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/) |  [Python](./algorithms/python/772.basic-calculator-iii.py) | Hard | `string` `stack` |
  | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) |  [Python](./algorithms/python/746.min-cost-climbing-stairs.py) | Easy | `array` `dynamic-programming` |
+ | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) |  [Python](./algorithms/python/743.network-delay-time.py) | Medium | `heap` `depth-first-search` `breadth-first-search` `graph` |
  | 740 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) |  [Python](./algorithms/python/740.delete-and-earn.py) | Medium | `dynamic-programming` |
  | 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) |  [Python](./algorithms/python/734.sentence-similarity.py) | Easy | `hash-table` |
  | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |  [Python](./algorithms/python/724.find-pivot-index.py) | Easy | `array` |
