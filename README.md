@@ -3,6 +3,7 @@
 | # | Title | Solution | Difficulty | Tags |
 | --- | ----- | -------- | -------- | -------- |
  | 2357 | [Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/) |  [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py) | Easy | `no-tags` |
+ | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) |  [Python](./algorithms/python/1971.find-if-path-exists-in-graph.py) | Easy | `no-tags` |
  | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1-d-array/) |  [Python](./algorithms/python/1480.running-sum-of-1-d-array.py) | Easy | `no-tags` |
  | 1469 | [Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/) |  [Python](./algorithms/python/1469.find-all-the-lonely-nodes.py) | Easy | `no-tags` |
  | 1427 | [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/) |  [Python](./algorithms/python/1427.perform-string-shifts.py) | Easy | `no-tags` |
