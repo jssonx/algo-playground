@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import os
 import copy
 import json
@@ -7,7 +9,9 @@ import datetime
 import shutil
 
 # create leetcode cache
-src_folder = os.path.expanduser("~/.lc/leetcode/cache/")
+# src_folder = os.path.expanduser("~/.lc/leetcode/cache/")
+src_folder = os.path.expanduser("C:/Users/jsn/.lc/leetcode/cache")
+
 dst_folder = './lc_cache/'
 
 if os.path.exists(dst_folder):
@@ -180,12 +184,12 @@ with open('output_table.json', 'w') as f_table:
 for i in range(len(full_prob_table)):
     f.write(full_prob_table[i].split("$")[1])
 
-f.write("\n")
-f.write("##### ∑all = " + str(len(full_prob_table)))
-f.write("\n")
+# f.write("\n")
+# f.write("##### ∑all = " + str(len(full_prob_table)))
+# f.write("\n")
 
 ## insert a draw.io image in md
-f.write("# The Big Picture" + '\n'+ '\n')
-f.write("![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)" + '\n')
+# f.write("# The Big Picture" + '\n'+ '\n')
+# f.write("![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)" + '\n')
 
 f.close()
