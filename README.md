@@ -47,6 +47,7 @@
  | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |  [Python](./algorithms/python/589.n-ary-tree-preorder-traversal.py) | Easy | `tree` |
  | 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |  [Python](./algorithms/python/572.subtree-of-another-tree.py) | Easy | `tree` |
  | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) |  [Python](./algorithms/python/563.binary-tree-tilt.py) | Easy | `tree` |
+ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) |  [Python](./algorithms/python/551.student-attendance-record-i.py) | Easy | `string` |
  | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |  [Java](./algorithms/java/538.convert-bst-to-greater-tree.java) | Medium | `tree` |
  | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) |  [Java](./algorithms/java/530.minimum-absolute-difference-in-bst.java) | Easy | `tree` |
  | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) |  [Java](./algorithms/java/513.find-bottom-left-tree-value.java) | Medium | `tree` `depth-first-search` `breadth-first-search` |
