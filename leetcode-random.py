@@ -1,10 +1,8 @@
-import sys
 import json
 import random
-import os
 # python .\leetcode-random.py
 # 要查询的标签名，指定数量的题目级别
-tag_name, easy_count, medium_count, hard_count = "hash-table", 1, 2, 1
+tag_name, easy_count, medium_count, hard_count = "two-pointers", 1, 3, 0
 
 # 从本地 JSON 文件加载数据
 with open("tags.json", "r") as f:
