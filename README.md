@@ -12,7 +12,7 @@
 - <small>[228.[Summary Ranges](https://leetcode.com/problems/summary-ranges/)](Easy) - [Python](./algorithms/python/228.summary-ranges.py)</small>
 - <small>[219.[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)](Easy) - [Python](./algorithms/python/219.contains-duplicate-ii.py)</small>
 - <small>[216.[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)](Medium) - [Java](./algorithms/java/216.combination-sum-iii.java)</small>
-- <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java)</small>
+- <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
 - <small>[123.[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)](Hard) - [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py)</small>
 - <small>[119.[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)](Easy) - [Python](./algorithms/python/119.pascals-triangle-ii.py)</small>
 - <small>[106.[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)](Medium) - [Java](./algorithms/java/106.construct-binary-tree-from-inorder-and-postorder-traversal.java) [Python](./algorithms/python/106.construct-binary-tree-from-inorder-and-postorder-traversal.py)</small>
@@ -40,7 +40,7 @@
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java)</small>
 - <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java)</small>
-- <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java)</small>
+- <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
 - <small>[33.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)](Medium) - [Python](./algorithms/python/33.search-in-rotated-sorted-array.py)</small>
 - <small>[29.[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)](Medium) - [Python](./algorithms/python/29.divide-two-integers.py)</small>
 
@@ -292,7 +292,7 @@
 - <small>[487.[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)](Medium) - [Python](./algorithms/python/487.max-consecutive-ones-ii.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java)</small>
 - <small>[344.[Reverse String](https://leetcode.com/problems/reverse-string/)](Easy) - [Java](./algorithms/java/344.reverse-string.java) [Python](./algorithms/python/344.reverse-string.py)</small>
-- <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java)</small>
+- <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
 - <small>[159.[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)](Medium) - [Python](./algorithms/python/159.longest-substring-with-at-most-two-distinct-characters.py)</small>
 - <small>[142.[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)](Medium) - [Java](./algorithms/java/142.linked-list-cycle-ii.java)</small>
 - <small>[28.[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)](Medium) - [Java](./algorithms/java/28.find-the-index-of-the-first-occurrence-in-a-string.java)</small>
@@ -408,7 +408,7 @@
  | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) |  [Python](./algorithms/python/219.contains-duplicate-ii.py) | Easy | `array` `hash-table` |
  | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) |  [Java](./algorithms/java/216.combination-sum-iii.java) | Medium | `array` `backtracking` |
  | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) |  [Python](./algorithms/python/213.house-robber-ii.py) | Medium | `dynamic-programming` |
- | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) |  [Java](./algorithms/java/209.minimum-size-subarray-sum.java) | Medium | `array` `two-pointers` `binary-search` |
+ | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) |  [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py) | Medium | `array` `two-pointers` `binary-search` |
  | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |  [Java](./algorithms/java/206.reverse-linked-list.java) | Easy | `linked-list` |
  | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |  [Java](./algorithms/java/203.remove-linked-list-elements.java) | Easy | `linked-list` |
  | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) |  [Java](./algorithms/java/202.happy-number.java) | Easy | `hash-table` `math` |
