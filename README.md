@@ -303,7 +303,7 @@
 - <small>[15.[3Sum](https://leetcode.com/problems/3-sum/)](Medium) - [Java](./algorithms/java/15.3-sum.java)</small>
 - <small>[3.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)](Medium) - [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py)</small>
 
-# The Full List
+## The Full List
 
 | # | Title | Solution | Difficulty | Tags |
 | --- | ----- | -------- | -------- | -------- |
