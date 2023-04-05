@@ -169,7 +169,7 @@ with open('output_table.json', 'w') as f_table:
     json.dump(full_prob_table, f_table, indent = 4)
 
 ## Part 1
-f.write("# LeetCode Algorithms: By tags" + '\n'+ '\n')
+f.write("## LeetCode Algorithms: By tags" + '\n'+ '\n')
 
 # 创建一个空字典来存储题目及其标签
 tag_dict = {}

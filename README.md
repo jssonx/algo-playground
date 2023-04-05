@@ -1,4 +1,4 @@
-# LeetCode Algorithms: By tags
+## LeetCode Algorithms: By tags
 
 #### Array
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
