@@ -70,7 +70,7 @@
  | 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) |  [Python](./algorithms/python/366.find-leaves-of-binary-tree.py) | Medium | `tree` `depth-first-search` |
  | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  [Java](./algorithms/java/349.intersection-of-two-arrays.java) | Easy | `hash-table` `two-pointers` `binary-search` `sort` |
  | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  [Java](./algorithms/java/347.top-k-frequent-elements.java) | Medium | `hash-table` `heap` |
- | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  [Java](./algorithms/java/344.reverse-string.java) | Easy | `two-pointers` `string` |
+ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  [Java](./algorithms/java/344.reverse-string.java) [Python](./algorithms/python/344.reverse-string.py) | Easy | `two-pointers` `string` |
  | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) |  [Python](./algorithms/python/342.power-of-four.py) | Easy | `bit-manipulation` |
  | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) |  [Python](./algorithms/python/339.nested-list-weight-sum.py) | Medium | `depth-first-search` |
  | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) |  [Python](./algorithms/python/338.counting-bits.py) | Easy | `dynamic-programming` `bit-manipulation` |
