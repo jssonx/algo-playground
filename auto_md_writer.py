@@ -34,7 +34,7 @@ for file in tags_files:
         json_data.append(data)
 
 # store the contents of all json files side-by-side in a new json file
-with open('tags.json', 'w') as f:
+with open('./json/tags.json', 'w') as f:
     json.dump(json_data, f, indent = 4)
 
 # get the modify time of a file
@@ -51,7 +51,7 @@ def json_data_read(json_file_name):
     return  json_list
 
 # get tags, names and levels
-with open('tags.json', 'r') as f_table:
+with open('./json/tags.json', 'r') as f_table:
     tags_table = json.load(f_table)
 
 def get_tags(p_num, tags_table):
@@ -163,7 +163,7 @@ for file in files:
                 break
 
 # save the list to the local file
-with open('output_table.json', 'w') as f_table:
+with open('./json/output_table.json', 'w') as f_table:
     json.dump(full_prob_table, f_table, indent = 4)
 
 ## Part 1
