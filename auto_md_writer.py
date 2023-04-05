@@ -44,14 +44,6 @@ def timeStampToTime(timestamp):
     timeStruct = time.localtime(timestamp)
     return time.strftime('%Y-%m-%d %H:%M:%S',timeStruct)
 
-# def get_FileModifyTime(fileName):
-#     _suffix = fileName.split(".")[2]
-#     if _suffix in solution_type:
-#         filePath = "./algorithms/" + solution_type[_suffix] + "/" + fileName
-#     t = os.path.getmtime(filePath)
-#     res = (timeStampToTime(t)).split(" ")
-#     return res[0]
-
 # construct a full problem table
 def json_data_read(json_file_name):
     json_list = []
@@ -110,9 +102,6 @@ for t in sorted_tuple_list:
 files = files_sorted
 
 f = open(readme, 'a+')
-f.write("# LeetCode Algorithms" + '\n'+ '\n')
-f.write("| # | Title | Solution | Difficulty | Tags |" + '\n')
-f.write("| --- | ----- | -------- | -------- | -------- |" + '\n')
 
 # main loop
 full_prob_table = []
@@ -121,6 +110,7 @@ now = datetime.datetime.now()
 now = now.strftime("%Y-%m-%d %H:%M:%S")
 today = (now.split(" "))[0]
 today_num = 0
+full_tags = set()
 for file in files:
     repeated = False
     file_original = file
@@ -150,6 +140,7 @@ for file in files:
     # part5: tags
     tag, q_name, q_level = get_tags(part0, tags_table)
     part5 = tagging(tag)
+    full_tags = full_tags.union(set(tag))
 
     # part1: problem name
     url = "https://leetcode.com/problems/" + str(file[1]) + "/"
@@ -177,19 +168,38 @@ for file in files:
 with open('output_table.json', 'w') as f_table:
     json.dump(full_prob_table, f_table, indent = 4)
 
-# output
-# with open('output_table.json', 'r') as f_table:
-#     full_prob_table = json.load(f_table)
+## Part 1
+f.write("# LeetCode Algorithms: By tags" + '\n'+ '\n')
 
+# 创建一个空字典来存储题目及其标签
+tag_dict = {}
+
+# 遍历问题列表，并将每个问题及其标签添加到字典中
+for problem in full_prob_table:
+    parts = problem.split("|")
+    tags = [tag.strip() for tag in parts[5].split("`")[1:-1]]
+    # print(tags)
+    for tag in tags:
+        if tag == "":
+            continue
+        if tag not in tag_dict:
+            tag_dict[tag] = []
+        # print((parts[1], parts[2].strip(), parts[4].strip(), parts[3].strip()))
+        tag_dict[tag].append((parts[1].strip(), parts[2].strip(), parts[4].strip(), parts[3].strip()))
+
+# 创建 Markdown 文件，并将每个标签及其相关问题写入该文件中
+for tag in sorted(tag_dict.keys()):
+    f.write("#### " + tag.capitalize() + "\n")
+    for problem in tag_dict[tag]:
+        # file.write("- [" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "\n")
+        f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
+    f.write("\n")
+
+# Part 2
+f.write("# The Full List" + '\n'+ '\n')
+f.write("| # | Title | Solution | Difficulty | Tags |" + '\n')
+f.write("| --- | ----- | -------- | -------- | -------- |" + '\n')
 for i in range(len(full_prob_table)):
     f.write(full_prob_table[i].split("$")[1])
-
-# f.write("\n")
-# f.write("##### ∑all = " + str(len(full_prob_table)))
-# f.write("\n")
-
-## insert a draw.io image in md
-# f.write("# The Big Picture" + '\n'+ '\n')
-# f.write("![map](https://github.com/jssonx/leetcode_pg/blob/main/drawio/map.drawio.png)" + '\n')
 
 f.close()
