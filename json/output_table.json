@@ -31,7 +31,7 @@
     "724$ | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |  [Python](./algorithms/python/724.find-pivot-index.py) | Easy | `array` |\n",
     "717$ | 717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) |  [Python](./algorithms/python/717.1-bit-and-2-bit-characters.py) | Easy | `array` |\n",
     "707$ | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) |  [Java](./algorithms/java/707.design-linked-list.java) | Medium | `linked-list` `design` |\n",
-    "704$ | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) |  [Java](./algorithms/java/704.binary-search.java) | Easy | `binary-search` |\n",
+    "704$ | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) |  [Java](./algorithms/java/704.binary-search.java) [Python](./algorithms/python/704.binary-search.py) | Easy | `binary-search` |\n",
     "701$ | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) |  [Java](./algorithms/java/701.insert-into-a-binary-search-tree.java) | Medium | `tree` |\n",
     "700$ | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) |  [Java](./algorithms/java/700.search-in-a-binary-search-tree.java) | Easy | `tree` |\n",
     "687$ | 687 | [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) |  [Python](./algorithms/python/687.longest-univalue-path.py) | Medium | `tree` `recursion` |\n",

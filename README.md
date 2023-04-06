@@ -41,7 +41,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Binary-search
-- <small>[704.[Binary Search](https://leetcode.com/problems/binary-search/)](Easy) - [Java](./algorithms/java/704.binary-search.java)</small>
+- <small>[704.[Binary Search](https://leetcode.com/problems/binary-search/)](Easy) - [Java](./algorithms/java/704.binary-search.java) [Python](./algorithms/python/704.binary-search.py)</small>
 - <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java)</small>
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java)</small>
