@@ -23,7 +23,7 @@
 - <small>[106.[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)](Medium) - [Java](./algorithms/java/106.construct-binary-tree-from-inorder-and-postorder-traversal.java) [Python](./algorithms/python/106.construct-binary-tree-from-inorder-and-postorder-traversal.py)</small>
 - <small>[105.[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)](Medium) - [Python](./algorithms/python/105.construct-binary-tree-from-preorder-and-inorder-traversal.py)</small>
 - <small>[81.[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)](Medium) - [Python](./algorithms/python/81.search-in-rotated-sorted-array-ii.py)</small>
-- <small>[74.[Search a 2D Matrix](https://leetcode.com/problems/search-a-2-d-matrix/)](Medium) - [Python](./algorithms/python/74.search-a-2-d-matrix.py)</small>
+- <small>[74.[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)](Medium) - [Python](./algorithms/python/74.search-a-2-d-matrix.py)</small>
 - <small>[59.[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)](Medium) - [Java](./algorithms/java/59.spiral-matrix-ii.java)</small>
 - <small>[55.[Jump Game](https://leetcode.com/problems/jump-game/)](Medium) - [Python](./algorithms/python/55.jump-game.py)</small>
 - <small>[53.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)](Medium) - [Python](./algorithms/python/53.maximum-subarray.py)</small>
@@ -33,9 +33,9 @@
 - <small>[33.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)](Medium) - [Python](./algorithms/python/33.search-in-rotated-sorted-array.py)</small>
 - <small>[31.[Next Permutation](https://leetcode.com/problems/next-permutation/)](Medium) - [Python](./algorithms/python/31.next-permutation.py)</small>
 - <small>[27.[Remove Element](https://leetcode.com/problems/remove-element/)](Easy) - [Java](./algorithms/java/27.remove-element.java) [Python](./algorithms/python/27.remove-element.py)</small>
-- <small>[18.[4Sum](https://leetcode.com/problems/4-sum/)](Medium) - [Java](./algorithms/java/18.4-sum.java)</small>
-- <small>[16.[3Sum Closest](https://leetcode.com/problems/3-sum-closest/)](Medium) - [Python](./algorithms/python/16.3-sum-closest.py)</small>
-- <small>[15.[3Sum](https://leetcode.com/problems/3-sum/)](Medium) - [Java](./algorithms/java/15.3-sum.java)</small>
+- <small>[18.[4Sum](https://leetcode.com/problems/4sum/)](Medium) - [Java](./algorithms/java/18.4-sum.java)</small>
+- <small>[16.[3Sum Closest](https://leetcode.com/problems/3sum-closest/)](Medium) - [Python](./algorithms/python/16.3-sum-closest.py)</small>
+- <small>[15.[3Sum](https://leetcode.com/problems/3sum/)](Medium) - [Java](./algorithms/java/15.3-sum.java)</small>
 - <small>[1.[Two Sum](https://leetcode.com/problems/two-sum/)](Easy) - [Java](./algorithms/java/1.two-sum.java) [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs)</small>
 
 <small>[Back to Top](#navigation)</small>
@@ -50,13 +50,13 @@
 - <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java)</small>
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
-- <small>[240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2-d-matrix-ii/)](Medium) - [Python](./algorithms/python/240.search-a-2-d-matrix-ii.py)</small>
+- <small>[240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)](Medium) - [Python](./algorithms/python/240.search-a-2-d-matrix-ii.py)</small>
 - <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java) [Python](./algorithms/python/222.count-complete-tree-nodes.py)</small>
 - <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
 - <small>[162.[Find Peak Element](https://leetcode.com/problems/find-peak-element/)](Medium) - [Python](./algorithms/python/162.find-peak-element.py)</small>
 - <small>[81.[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)](Medium) - [Python](./algorithms/python/81.search-in-rotated-sorted-array-ii.py)</small>
-- <small>[74.[Search a 2D Matrix](https://leetcode.com/problems/search-a-2-d-matrix/)](Medium) - [Python](./algorithms/python/74.search-a-2-d-matrix.py)</small>
-- <small>[69.[Sqrt(x)](https://leetcode.com/problems/sqrt-x/)](Easy) - [Python](./algorithms/python/69.sqrt-x.py)</small>
+- <small>[74.[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)](Medium) - [Python](./algorithms/python/74.search-a-2-d-matrix.py)</small>
+- <small>[69.[Sqrt(x)](https://leetcode.com/problems/sqrtx/)](Easy) - [Python](./algorithms/python/69.sqrt-x.py)</small>
 - <small>[35.[Search Insert Position](https://leetcode.com/problems/search-insert-position/)](Easy) - [Python](./algorithms/python/35.search-insert-position.py)</small>
 - <small>[34.[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)](Medium) - [Python](./algorithms/python/34.find-first-and-last-position-of-element-in-sorted-array.py)</small>
 - <small>[33.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)](Medium) - [Python](./algorithms/python/33.search-in-rotated-sorted-array.py)</small>
@@ -110,7 +110,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Divide-and-conquer
-- <small>[240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2-d-matrix-ii/)](Medium) - [Python](./algorithms/python/240.search-a-2-d-matrix-ii.py)</small>
+- <small>[240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)](Medium) - [Python](./algorithms/python/240.search-a-2-d-matrix-ii.py)</small>
 - <small>[53.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)](Medium) - [Python](./algorithms/python/53.maximum-subarray.py)</small>
 
 <small>[Back to Top](#navigation)</small>
@@ -163,7 +163,7 @@
 - <small>[136.[Single Number](https://leetcode.com/problems/single-number/)](Easy) - [Python](./algorithms/python/136.single-number.py)</small>
 - <small>[94.[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)](Easy) - [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) [Python](./algorithms/python/94.binary-tree-inorder-traversal.py)</small>
 - <small>[49.[Group Anagrams](https://leetcode.com/problems/group-anagrams/)](Medium) - [Python](./algorithms/python/49.group-anagrams.py)</small>
-- <small>[18.[4Sum](https://leetcode.com/problems/4-sum/)](Medium) - [Java](./algorithms/java/18.4-sum.java)</small>
+- <small>[18.[4Sum](https://leetcode.com/problems/4sum/)](Medium) - [Java](./algorithms/java/18.4-sum.java)</small>
 - <small>[3.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)](Medium) - [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py)</small>
 - <small>[1.[Two Sum](https://leetcode.com/problems/two-sum/)](Easy) - [Java](./algorithms/java/1.two-sum.java) [Python](./algorithms/python/1.two-sum.py) [Rust](./algorithms/rust/1.two-sum.rs)</small>
 
@@ -196,7 +196,7 @@
 - <small>[224.[Basic Calculator](https://leetcode.com/problems/basic-calculator/)](Hard) - [Python](./algorithms/python/224.basic-calculator.py)</small>
 - <small>[202.[Happy Number](https://leetcode.com/problems/happy-number/)](Easy) - [Java](./algorithms/java/202.happy-number.java)</small>
 - <small>[168.[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)](Easy) - [Python](./algorithms/python/168.excel-sheet-column-title.py)</small>
-- <small>[69.[Sqrt(x)](https://leetcode.com/problems/sqrt-x/)](Easy) - [Python](./algorithms/python/69.sqrt-x.py)</small>
+- <small>[69.[Sqrt(x)](https://leetcode.com/problems/sqrtx/)](Easy) - [Python](./algorithms/python/69.sqrt-x.py)</small>
 - <small>[43.[Multiply Strings](https://leetcode.com/problems/multiply-strings/)](Medium) - [Python](./algorithms/python/43.multiply-strings.py)</small>
 - <small>[29.[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)](Medium) - [Python](./algorithms/python/29.divide-two-integers.py)</small>
 
@@ -204,14 +204,14 @@
 #### No-tags
 - <small>[2357.[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)](Easy) - [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py)</small>
 - <small>[1971.[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)](Easy) - [Python](./algorithms/python/1971.find-if-path-exists-in-graph.py)</small>
-- <small>[1480.[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1-d-array/)](Easy) - [Python](./algorithms/python/1480.running-sum-of-1-d-array.py)</small>
+- <small>[1480.[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)](Easy) - [Python](./algorithms/python/1480.running-sum-of-1-d-array.py)</small>
 - <small>[1469.[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)](Easy) - [Python](./algorithms/python/1469.find-all-the-lonely-nodes.py)</small>
 - <small>[1427.[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)](Easy) - [Python](./algorithms/python/1427.perform-string-shifts.py)</small>
 - <small>[1302.[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)](Medium) - [Python](./algorithms/python/1302.deepest-leaves-sum.py)</small>
 - <small>[1289.[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)](Hard) - [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py)</small>
 - <small>[1195.[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/)](Medium) - [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py)</small>
 - <small>[1186.[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)](Medium) - [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py)</small>
-- <small>[1151.[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1-s-together/)](Medium) - [Python](./algorithms/python/1151.minimum-swaps-to-group-all-1-s-together.py)</small>
+- <small>[1151.[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)](Medium) - [Python](./algorithms/python/1151.minimum-swaps-to-group-all-1-s-together.py)</small>
 - <small>[1137.[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)](Easy) - [Python](./algorithms/python/1137.n-th-tribonacci-number.py)</small>
 - <small>[1086.[High Five](https://leetcode.com/problems/high-five/)](Easy) - [Python](./algorithms/python/1086.high-five.py)</small>
 - <small>[912.[Sort an Array](https://leetcode.com/problems/sort-an-array/)](Medium) - [Java](./algorithms/java/912.sort-an-array.java)</small>
@@ -340,9 +340,9 @@
 - <small>[28.[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)](Medium) - [Java](./algorithms/java/28.find-the-index-of-the-first-occurrence-in-a-string.java)</small>
 - <small>[27.[Remove Element](https://leetcode.com/problems/remove-element/)](Easy) - [Java](./algorithms/java/27.remove-element.java) [Python](./algorithms/python/27.remove-element.py)</small>
 - <small>[19.[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)](Medium) - [Java](./algorithms/java/19.remove-nth-node-from-end-of-list.java) [Python](./algorithms/python/19.remove-nth-node-from-end-of-list.py)</small>
-- <small>[18.[4Sum](https://leetcode.com/problems/4-sum/)](Medium) - [Java](./algorithms/java/18.4-sum.java)</small>
-- <small>[16.[3Sum Closest](https://leetcode.com/problems/3-sum-closest/)](Medium) - [Python](./algorithms/python/16.3-sum-closest.py)</small>
-- <small>[15.[3Sum](https://leetcode.com/problems/3-sum/)](Medium) - [Java](./algorithms/java/15.3-sum.java)</small>
+- <small>[18.[4Sum](https://leetcode.com/problems/4sum/)](Medium) - [Java](./algorithms/java/18.4-sum.java)</small>
+- <small>[16.[3Sum Closest](https://leetcode.com/problems/3sum-closest/)](Medium) - [Python](./algorithms/python/16.3-sum-closest.py)</small>
+- <small>[15.[3Sum](https://leetcode.com/problems/3sum/)](Medium) - [Java](./algorithms/java/15.3-sum.java)</small>
 - <small>[3.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)](Medium) - [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py)</small>
 
 <small>[Back to Top](#navigation)</small>

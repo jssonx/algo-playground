@@ -59,7 +59,7 @@ def get_tags(p_num, tags_table):
         if tags_table[i]['fid'] == p_num:
             if 'tags' not in tags_table[i]:
                 tags_table[i]['tags'] = ["no-tags"]
-            return tags_table[i]['tags'], tags_table[i]['name'], tags_table[i]['level']
+            return tags_table[i]['tags'], tags_table[i]['name'], tags_table[i]['level'], tags_table[i]['link']
 
 def tagging(tags):
     tag_list = []
@@ -136,13 +136,16 @@ for file in files:
     # part4 = get_FileModifyTime(file_original)
 
     # part5: tags
-    tag, q_name, q_level = get_tags(part0, tags_table)
+    tag, q_name, q_level, q_link = get_tags(part0, tags_table)
     part5 = tagging(tag)
     full_tags = full_tags.union(set(tag))
 
     # part1: problem name
-    url = "https://leetcode.com/problems/" + str(file[1]) + "/"
+    url = q_link.split("description/")[0]
     part1 = "[" + q_name + "]" + "(" + url + ")"
+
+    if part0 == 240 or part0 == 74:
+        print(part0, ". ", part1, q_link)
 
     # part3: difficulty
     part3 = q_level
