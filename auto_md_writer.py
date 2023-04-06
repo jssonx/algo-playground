@@ -144,9 +144,6 @@ for file in files:
     url = q_link.split("description/")[0]
     part1 = "[" + q_name + "]" + "(" + url + ")"
 
-    if part0 == 240 or part0 == 74:
-        print(part0, ". ", part1, q_link)
-
     # part3: difficulty
     part3 = q_level
 
