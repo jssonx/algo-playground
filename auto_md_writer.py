@@ -186,8 +186,11 @@ for problem in full_prob_table:
         tag_dict[tag].append((parts[1].strip(), parts[2].strip(), parts[4].strip(), parts[3].strip()))
 
 # 设置快捷跳转：[跳转到我的文章](#my-article)
+# Navigation
+f.write("#### Navigation" + '\n'+ '\n')
+f.write("| " + '\n')
 for tag in sorted(tag_dict.keys()):
-    f.write("[" + str(tag.capitalize()) + "](#" + str(tag) + ")" + " ")
+    f.write("[" + str(tag.capitalize()) + "](#" + str(tag) + ")" + " | ")
 
 f.write("\n")
 

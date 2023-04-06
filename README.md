@@ -1,6 +1,9 @@
 ## LeetCode Algorithms: By tags
 
-[Array](#array) [Backtracking](#backtracking) [Binary-search](#binary-search) [Bit-manipulation](#bit-manipulation) [Breadth-first-search](#breadth-first-search) [Depth-first-search](#depth-first-search) [Design](#design) [Divide-and-conquer](#divide-and-conquer) [Dynamic-programming](#dynamic-programming) [Graph](#graph) [Greedy](#greedy) [Hash-table](#hash-table) [Heap](#heap) [Linked-list](#linked-list) [Math](#math) [No-tags](#no-tags) [Ordered-map](#ordered-map) [Recursion](#recursion) [Sliding-window](#sliding-window) [Sort](#sort) [Stack](#stack) [String](#string) [Tree](#tree) [Trie](#trie) [Two-pointers](#two-pointers) 
+#### Navigation
+
+| 
+[Array](#array) | [Backtracking](#backtracking) | [Binary-search](#binary-search) | [Bit-manipulation](#bit-manipulation) | [Breadth-first-search](#breadth-first-search) | [Depth-first-search](#depth-first-search) | [Design](#design) | [Divide-and-conquer](#divide-and-conquer) | [Dynamic-programming](#dynamic-programming) | [Graph](#graph) | [Greedy](#greedy) | [Hash-table](#hash-table) | [Heap](#heap) | [Linked-list](#linked-list) | [Math](#math) | [No-tags](#no-tags) | [Ordered-map](#ordered-map) | [Recursion](#recursion) | [Sliding-window](#sliding-window) | [Sort](#sort) | [Stack](#stack) | [String](#string) | [Tree](#tree) | [Trie](#trie) | [Two-pointers](#two-pointers) | 
 #### Array
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>
