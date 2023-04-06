@@ -110,6 +110,7 @@
     "187$ | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) |  [Python](./algorithms/python/187.repeated-dna-sequences.py) | Medium | `hash-table` `bit-manipulation` |\n",
     "186$ | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) |  [Python](./algorithms/python/186.reverse-words-in-a-string-ii.py) | Medium | `string` |\n",
     "168$ | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |  [Python](./algorithms/python/168.excel-sheet-column-title.py) | Easy | `math` |\n",
+    "162$ | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) |  [Python](./algorithms/python/162.find-peak-element.py) | Medium | `array` `binary-search` |\n",
     "160$ | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |  [Java](./algorithms/java/160.intersection-of-two-linked-lists.java) | Easy | `linked-list` |\n",
     "159$ | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) |  [Python](./algorithms/python/159.longest-substring-with-at-most-two-distinct-characters.py) | Medium | `hash-table` `two-pointers` `string` `sliding-window` |\n",
     "151$ | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  [Java](./algorithms/java/151.reverse-words-in-a-string.java) | Medium | `string` |\n",

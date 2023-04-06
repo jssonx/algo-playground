@@ -17,6 +17,7 @@
 - <small>[219.[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)](Easy) - [Python](./algorithms/python/219.contains-duplicate-ii.py)</small>
 - <small>[216.[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)](Medium) - [Java](./algorithms/java/216.combination-sum-iii.java)</small>
 - <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
+- <small>[162.[Find Peak Element](https://leetcode.com/problems/find-peak-element/)](Medium) - [Python](./algorithms/python/162.find-peak-element.py)</small>
 - <small>[123.[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)](Hard) - [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py)</small>
 - <small>[119.[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)](Easy) - [Python](./algorithms/python/119.pascals-triangle-ii.py)</small>
 - <small>[106.[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)](Medium) - [Java](./algorithms/java/106.construct-binary-tree-from-inorder-and-postorder-traversal.java) [Python](./algorithms/python/106.construct-binary-tree-from-inorder-and-postorder-traversal.py)</small>
@@ -51,6 +52,7 @@
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java) [Python](./algorithms/python/222.count-complete-tree-nodes.py)</small>
 - <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
+- <small>[162.[Find Peak Element](https://leetcode.com/problems/find-peak-element/)](Medium) - [Python](./algorithms/python/162.find-peak-element.py)</small>
 - <small>[81.[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)](Medium) - [Python](./algorithms/python/81.search-in-rotated-sorted-array-ii.py)</small>
 - <small>[74.[Search a 2D Matrix](https://leetcode.com/problems/search-a-2-d-matrix/)](Medium) - [Python](./algorithms/python/74.search-a-2-d-matrix.py)</small>
 - <small>[69.[Sqrt(x)](https://leetcode.com/problems/sqrt-x/)](Easy) - [Python](./algorithms/python/69.sqrt-x.py)</small>

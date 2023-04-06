@@ -5195,6 +5195,140 @@
         }
     },
     {
+        "id": 162,
+        "fid": 162,
+        "name": "Find Peak Element",
+        "slug": "find-peak-element",
+        "link": "https://leetcode.com/problems/find-peak-element/description/",
+        "percent": 46.03747335268823,
+        "level": "Medium",
+        "category": "algorithms",
+        "companies": [
+            "google",
+            "microsoft"
+        ],
+        "tags": [
+            "array",
+            "binary-search"
+        ],
+        "totalAC": "995.4K",
+        "totalSubmit": "2.2M",
+        "likes": 8906,
+        "dislikes": 4252,
+        "desc": "<p>A peak element is an element that is strictly greater than its neighbors.</p>\n\n<p>Given a <strong>0-indexed</strong> integer array <code>nums</code>, find a peak element, and return its index. If the array contains multiple peaks, return the index to <strong>any of the peaks</strong>.</p>\n\n<p>You may imagine that <code>nums[-1] = nums[n] = -&infin;</code>. In other words, an element is always considered to be strictly greater than a neighbor that is outside the array.</p>\n\n<p>You must write an algorithm that runs in <code>O(log n)</code> time.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [1,2,3,1]\n<strong>Output:</strong> 2\n<strong>Explanation:</strong> 3 is a peak element and your function should return the index number 2.</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [1,2,1,3,5,6,4]\n<strong>Output:</strong> 5\n<strong>Explanation:</strong> Your function can return either index number 1 where the peak element is 2, or index number 5 where the peak element is 6.</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 1000</code></li>\n\t<li><code>-2<sup>31</sup> &lt;= nums[i] &lt;= 2<sup>31</sup> - 1</code></li>\n\t<li><code>nums[i] != nums[i + 1]</code> for all valid <code>i</code>.</li>\n</ul>\n",
+        "templates": [
+            {
+                "value": "cpp",
+                "text": "C++",
+                "defaultCode": "class Solution {\npublic:\n    int findPeakElement(vector<int>& nums) {\n        \n    }\n};"
+            },
+            {
+                "value": "java",
+                "text": "Java",
+                "defaultCode": "class Solution {\n    public int findPeakElement(int[] nums) {\n        \n    }\n}"
+            },
+            {
+                "value": "python",
+                "text": "Python",
+                "defaultCode": "class Solution(object):\n    def findPeakElement(self, nums):\n        \"\"\"\n        :type nums: List[int]\n        :rtype: int\n        \"\"\"\n        "
+            },
+            {
+                "value": "python3",
+                "text": "Python3",
+                "defaultCode": "class Solution:\n    def findPeakElement(self, nums: List[int]) -> int:\n        "
+            },
+            {
+                "value": "c",
+                "text": "C",
+                "defaultCode": "int findPeakElement(int* nums, int numsSize){\n\n}"
+            },
+            {
+                "value": "csharp",
+                "text": "C#",
+                "defaultCode": "public class Solution {\n    public int FindPeakElement(int[] nums) {\n        \n    }\n}"
+            },
+            {
+                "value": "javascript",
+                "text": "JavaScript",
+                "defaultCode": "/**\n * @param {number[]} nums\n * @return {number}\n */\nvar findPeakElement = function(nums) {\n    \n};"
+            },
+            {
+                "value": "ruby",
+                "text": "Ruby",
+                "defaultCode": "# @param {Integer[]} nums\n# @return {Integer}\ndef find_peak_element(nums)\n    \nend"
+            },
+            {
+                "value": "swift",
+                "text": "Swift",
+                "defaultCode": "class Solution {\n    func findPeakElement(_ nums: [Int]) -> Int {\n        \n    }\n}"
+            },
+            {
+                "value": "golang",
+                "text": "Go",
+                "defaultCode": "func findPeakElement(nums []int) int {\n    \n}"
+            },
+            {
+                "value": "scala",
+                "text": "Scala",
+                "defaultCode": "object Solution {\n    def findPeakElement(nums: Array[Int]): Int = {\n        \n    }\n}"
+            },
+            {
+                "value": "kotlin",
+                "text": "Kotlin",
+                "defaultCode": "class Solution {\n    fun findPeakElement(nums: IntArray): Int {\n        \n    }\n}"
+            },
+            {
+                "value": "rust",
+                "text": "Rust",
+                "defaultCode": "impl Solution {\n    pub fn find_peak_element(nums: Vec<i32>) -> i32 {\n        \n    }\n}"
+            },
+            {
+                "value": "php",
+                "text": "PHP",
+                "defaultCode": "class Solution {\n\n    /**\n     * @param Integer[] $nums\n     * @return Integer\n     */\n    function findPeakElement($nums) {\n        \n    }\n}"
+            },
+            {
+                "value": "typescript",
+                "text": "TypeScript",
+                "defaultCode": "function findPeakElement(nums: number[]): number {\n\n};"
+            },
+            {
+                "value": "racket",
+                "text": "Racket",
+                "defaultCode": "(define/contract (find-peak-element nums)\n  (-> (listof exact-integer?) exact-integer?)\n\n  )"
+            },
+            {
+                "value": "erlang",
+                "text": "Erlang",
+                "defaultCode": "-spec find_peak_element(Nums :: [integer()]) -> integer().\nfind_peak_element(Nums) ->\n  ."
+            },
+            {
+                "value": "elixir",
+                "text": "Elixir",
+                "defaultCode": "defmodule Solution do\n  @spec find_peak_element(nums :: [integer]) :: integer\n  def find_peak_element(nums) do\n\n  end\nend"
+            },
+            {
+                "value": "dart",
+                "text": "Dart",
+                "defaultCode": "class Solution {\n  int findPeakElement(List<int> nums) {\n\n  }\n}"
+            }
+        ],
+        "testcase": "[1,2,3,1]",
+        "testable": true,
+        "templateMeta": {
+            "name": "findPeakElement",
+            "params": [
+                {
+                    "name": "nums",
+                    "type": "integer[]"
+                }
+            ],
+            "return": {
+                "type": "integer"
+            }
+        }
+    },
+    {
         "id": 168,
         "fid": 168,
         "name": "Excel Sheet Column Title",
