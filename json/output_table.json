@@ -77,6 +77,7 @@
     "303$ | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |  [Python](./algorithms/python/303.range-sum-query-immutable.py) | Easy | `dynamic-programming` |\n",
     "290$ | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) |  [Python](./algorithms/python/290.word-pattern.py) | Easy | `hash-table` |\n",
     "276$ | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) |  [Python](./algorithms/python/276.paint-fence.py) | Medium | `dynamic-programming` |\n",
+    "270$ | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) |  [Python](./algorithms/python/270.closest-binary-search-tree-value.py) | Easy | `binary-search` `tree` |\n",
     "266$ | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) |  [Java](./algorithms/java/266.palindrome-permutation.java) | Easy | `hash-table` |\n",
     "265$ | 265 | [Paint House II](https://leetcode.com/problems/paint-house-ii/) |  [Python](./algorithms/python/265.paint-house-ii.py) | Hard | `dynamic-programming` |\n",
     "258$ | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) |  [Python](./algorithms/python/258.add-digits.py) | Easy | `math` |\n",
