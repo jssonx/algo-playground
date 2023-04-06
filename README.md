@@ -215,6 +215,7 @@
 - <small>[1137.[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)](Easy) - [Python](./algorithms/python/1137.n-th-tribonacci-number.py)</small>
 - <small>[1086.[High Five](https://leetcode.com/problems/high-five/)](Easy) - [Python](./algorithms/python/1086.high-five.py)</small>
 - <small>[912.[Sort an Array](https://leetcode.com/problems/sort-an-array/)](Medium) - [Java](./algorithms/java/912.sort-an-array.java)</small>
+- <small>[540.[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)](Medium) - [Python](./algorithms/python/540.single-element-in-a-sorted-array.py)</small>
 - <small>[422.[Valid Word Square](https://leetcode.com/problems/valid-word-square/)](Easy) - [Python](./algorithms/python/422.valid-word-square.py)</small>
 
 <small>[Back to Top](#navigation)</small>
