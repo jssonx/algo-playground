@@ -187,8 +187,9 @@ for problem in full_prob_table:
 
 # 设置快捷跳转：[跳转到我的文章](#my-article)
 for tag in sorted(tag_dict.keys()):
-    i = tag.capitalize()
-    f.write("[" + str(i) + "](####" + str(i) + ")" + " ")
+    # i = tag.capitalize()
+    i = tag
+    f.write("[" + str(i) + "](#" + str(i) + ")" + " ")
 
 f.write("\n")
 
