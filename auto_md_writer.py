@@ -194,10 +194,10 @@ for tag in sorted(tag_dict.keys()):
     f.write("\n")
 
 # Part 2
-f.write("## The Full List" + '\n'+ '\n')
-f.write("| # | Title | Solution | Difficulty | Tags |" + '\n')
-f.write("| --- | ----- | -------- | -------- | -------- |" + '\n')
-for i in range(len(full_prob_table)):
-    f.write(full_prob_table[i].split("$")[1])
+# f.write("## The Full List" + '\n'+ '\n')
+# f.write("| # | Title | Solution | Difficulty | Tags |" + '\n')
+# f.write("| --- | ----- | -------- | -------- | -------- |" + '\n')
+# for i in range(len(full_prob_table)):
+#     f.write(full_prob_table[i].split("$")[1])
 
 f.close()
