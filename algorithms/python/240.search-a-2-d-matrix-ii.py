@@ -68,15 +68,15 @@ class Solution:
                 return True
 
     def binary_search(self, row, target):
-        low, high = 0, len(row) - 1
-        while low <= high:
+        low, high = -1, len(row)
+        while low + 1 != high:
             mid = (low + high) // 2
             if row[mid] == target:
                 return True
             elif row[mid] < target:
-                low = mid + 1
+                low = mid
             else:
-                high = mid - 1
+                high = mid
         return False
 
         
