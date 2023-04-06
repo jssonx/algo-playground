@@ -1,5 +1,6 @@
 ## LeetCode Algorithms: By tags
 
+[Array](####Array) [Backtracking](####Backtracking) [Binary-search](####Binary-search) [Bit-manipulation](####Bit-manipulation) [Breadth-first-search](####Breadth-first-search) [Depth-first-search](####Depth-first-search) [Design](####Design) [Divide-and-conquer](####Divide-and-conquer) [Dynamic-programming](####Dynamic-programming) [Graph](####Graph) [Greedy](####Greedy) [Hash-table](####Hash-table) [Heap](####Heap) [Linked-list](####Linked-list) [Math](####Math) [No-tags](####No-tags) [Ordered-map](####Ordered-map) [Recursion](####Recursion) [Sliding-window](####Sliding-window) [Sort](####Sort) [Stack](####Stack) [String](####String) [Tree](####Tree) [Trie](####Trie) [Two-pointers](####Two-pointers) 
 #### Array
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>

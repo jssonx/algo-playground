@@ -185,6 +185,13 @@ for problem in full_prob_table:
         # print((parts[1], parts[2].strip(), parts[4].strip(), parts[3].strip()))
         tag_dict[tag].append((parts[1].strip(), parts[2].strip(), parts[4].strip(), parts[3].strip()))
 
+# 设置快捷跳转：[跳转到我的文章](#my-article)
+for tag in sorted(tag_dict.keys()):
+    i = tag.capitalize()
+    f.write("[" + str(i) + "](####" + str(i) + ")" + " ")
+
+f.write("\n")
+
 # 创建 Markdown 文件，并将每个标签及其相关问题写入该文件中
 for tag in sorted(tag_dict.keys()):
     f.write("#### " + tag.capitalize() + "\n")
