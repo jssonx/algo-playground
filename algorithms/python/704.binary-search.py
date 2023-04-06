@@ -55,14 +55,12 @@ class Solution:
         right = len(nums)
         while left + 1 != right:
             mid = left + (right - left) // 2
+            if nums[mid] == target:
+                return mid
             if nums[mid] < target:
                 left = mid
             else:
                 right = mid
-        if right > -1 and right < len(nums) and nums[right] == target:
-            return right
-        else:
-            return -1
-        
+        return -1
 # @lc code=end
 
