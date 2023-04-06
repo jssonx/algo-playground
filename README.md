@@ -49,6 +49,7 @@
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java) [Python](./algorithms/python/222.count-complete-tree-nodes.py)</small>
 - <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
+- <small>[69.[Sqrt(x)](https://leetcode.com/problems/sqrt-x/)](Easy) - [Python](./algorithms/python/69.sqrt-x.py)</small>
 - <small>[35.[Search Insert Position](https://leetcode.com/problems/search-insert-position/)](Easy) - [Python](./algorithms/python/35.search-insert-position.py)</small>
 - <small>[34.[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)](Medium) - [Python](./algorithms/python/34.find-first-and-last-position-of-element-in-sorted-array.py)</small>
 - <small>[33.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)](Medium) - [Python](./algorithms/python/33.search-in-rotated-sorted-array.py)</small>
@@ -187,6 +188,7 @@
 - <small>[224.[Basic Calculator](https://leetcode.com/problems/basic-calculator/)](Hard) - [Python](./algorithms/python/224.basic-calculator.py)</small>
 - <small>[202.[Happy Number](https://leetcode.com/problems/happy-number/)](Easy) - [Java](./algorithms/java/202.happy-number.java)</small>
 - <small>[168.[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)](Easy) - [Python](./algorithms/python/168.excel-sheet-column-title.py)</small>
+- <small>[69.[Sqrt(x)](https://leetcode.com/problems/sqrt-x/)](Easy) - [Python](./algorithms/python/69.sqrt-x.py)</small>
 - <small>[43.[Multiply Strings](https://leetcode.com/problems/multiply-strings/)](Medium) - [Python](./algorithms/python/43.multiply-strings.py)</small>
 - <small>[29.[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)](Medium) - [Python](./algorithms/python/29.divide-two-integers.py)</small>
 

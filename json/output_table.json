@@ -138,6 +138,7 @@
     "94$ | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |  [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) [Python](./algorithms/python/94.binary-tree-inorder-traversal.py) | Easy | `hash-table` `stack` `tree` |\n",
     "77$ | 77 | [Combinations](https://leetcode.com/problems/combinations/) |  [Java](./algorithms/java/77.combinations.java) | Medium | `backtracking` |\n",
     "70$ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |  [Python](./algorithms/python/70.climbing-stairs.py) | Easy | `dynamic-programming` |\n",
+    "69$ | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrt-x/) |  [Python](./algorithms/python/69.sqrt-x.py) | Easy | `math` `binary-search` |\n",
     "59$ | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |  [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | `array` |\n",
     "55$ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) |  [Python](./algorithms/python/55.jump-game.py) | Medium | `array` `greedy` |\n",
     "53$ | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  [Python](./algorithms/python/53.maximum-subarray.py) | Medium | `array` `divide-and-conquer` `dynamic-programming` |\n",
