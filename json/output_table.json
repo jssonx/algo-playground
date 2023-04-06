@@ -65,7 +65,7 @@
     "376$ | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) |  [Python](./algorithms/python/376.wiggle-subsequence.py) | Medium | `dynamic-programming` `greedy` |\n",
     "367$ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) |  [Python](./algorithms/python/367.valid-perfect-square.py) | Easy | `math` `binary-search` |\n",
     "366$ | 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) |  [Python](./algorithms/python/366.find-leaves-of-binary-tree.py) | Medium | `tree` `depth-first-search` |\n",
-    "349$ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  [Java](./algorithms/java/349.intersection-of-two-arrays.java) | Easy | `hash-table` `two-pointers` `binary-search` `sort` |\n",
+    "349$ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py) | Easy | `hash-table` `two-pointers` `binary-search` `sort` |\n",
     "347$ | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  [Java](./algorithms/java/347.top-k-frequent-elements.java) | Medium | `hash-table` `heap` |\n",
     "344$ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) |  [Java](./algorithms/java/344.reverse-string.java) [Python](./algorithms/python/344.reverse-string.py) | Easy | `two-pointers` `string` |\n",
     "342$ | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) |  [Python](./algorithms/python/342.power-of-four.py) | Easy | `bit-manipulation` |\n",

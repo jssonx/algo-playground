@@ -44,7 +44,7 @@
 - <small>[704.[Binary Search](https://leetcode.com/problems/binary-search/)](Easy) - [Java](./algorithms/java/704.binary-search.java) [Python](./algorithms/python/704.binary-search.py)</small>
 - <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java)</small>
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
-- <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java)</small>
+- <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java)</small>
 - <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
 - <small>[33.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)](Medium) - [Python](./algorithms/python/33.search-in-rotated-sorted-array.py)</small>
@@ -137,7 +137,7 @@
 - <small>[987.[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)](Hard) - [Python](./algorithms/python/987.vertical-order-traversal-of-a-binary-tree.py)</small>
 - <small>[734.[Sentence Similarity](https://leetcode.com/problems/sentence-similarity/)](Easy) - [Python](./algorithms/python/734.sentence-similarity.py)</small>
 - <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java)</small>
-- <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java)</small>
+- <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[347.[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)](Medium) - [Java](./algorithms/java/347.top-k-frequent-elements.java)</small>
 - <small>[290.[Word Pattern](https://leetcode.com/problems/word-pattern/)](Easy) - [Python](./algorithms/python/290.word-pattern.py)</small>
 - <small>[266.[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)](Easy) - [Java](./algorithms/java/266.palindrome-permutation.java)</small>
@@ -219,7 +219,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Sort
-- <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java)</small>
+- <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[253.[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)](Medium) - [Java](./algorithms/java/253.meeting-rooms-ii.java)</small>
 - <small>[242.[Valid Anagram](https://leetcode.com/problems/valid-anagram/)](Easy) - [Java](./algorithms/java/242.valid-anagram.java)</small>
 - <small>[220.[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)](Hard) - [Python](./algorithms/python/220.contains-duplicate-iii.py)</small>
@@ -318,7 +318,7 @@
 #### Two-pointers
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>
 - <small>[487.[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)](Medium) - [Python](./algorithms/python/487.max-consecutive-ones-ii.py)</small>
-- <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java)</small>
+- <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[344.[Reverse String](https://leetcode.com/problems/reverse-string/)](Easy) - [Java](./algorithms/java/344.reverse-string.java) [Python](./algorithms/python/344.reverse-string.py)</small>
 - <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
 - <small>[159.[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)](Medium) - [Python](./algorithms/python/159.longest-substring-with-at-most-two-distinct-characters.py)</small>
