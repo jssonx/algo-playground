@@ -50,6 +50,7 @@
 - <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java)</small>
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
+- <small>[240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2-d-matrix-ii/)](Medium) - [Python](./algorithms/python/240.search-a-2-d-matrix-ii.py)</small>
 - <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java) [Python](./algorithms/python/222.count-complete-tree-nodes.py)</small>
 - <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
 - <small>[162.[Find Peak Element](https://leetcode.com/problems/find-peak-element/)](Medium) - [Python](./algorithms/python/162.find-peak-element.py)</small>
@@ -109,6 +110,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Divide-and-conquer
+- <small>[240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2-d-matrix-ii/)](Medium) - [Python](./algorithms/python/240.search-a-2-d-matrix-ii.py)</small>
 - <small>[53.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)](Medium) - [Python](./algorithms/python/53.maximum-subarray.py)</small>
 
 <small>[Back to Top](#navigation)</small>

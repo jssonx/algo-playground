@@ -85,6 +85,7 @@
     "246$ | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) |  [Python](./algorithms/python/246.strobogrammatic-number.py) | Easy | `hash-table` `math` |\n",
     "243$ | 243 | [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) |  [Python](./algorithms/python/243.shortest-word-distance.py) | Easy | `array` |\n",
     "242$ | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) |  [Java](./algorithms/java/242.valid-anagram.java) | Easy | `hash-table` `sort` |\n",
+    "240$ | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2-d-matrix-ii/) |  [Python](./algorithms/python/240.search-a-2-d-matrix-ii.py) | Medium | `binary-search` `divide-and-conquer` |\n",
     "239$ | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) |  [Java](./algorithms/java/239.sliding-window-maximum.java) | Hard | `heap` `sliding-window` |\n",
     "236$ | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |  [Java](./algorithms/java/236.lowest-common-ancestor-of-a-binary-tree.java) | Medium | `tree` |\n",
     "235$ | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |  [Java](./algorithms/java/235.lowest-common-ancestor-of-a-binary-search-tree.java) | Medium | `tree` |\n",
