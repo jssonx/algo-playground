@@ -42,7 +42,7 @@
 <small>[Back to Top](#navigation)</small>
 #### Binary-search
 - <small>[704.[Binary Search](https://leetcode.com/problems/binary-search/)](Easy) - [Java](./algorithms/java/704.binary-search.java)</small>
-- <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java) [Java](./algorithms/java/454.4sum-ii.java)</small>
+- <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java)</small>
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java)</small>
 - <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java)</small>
@@ -136,7 +136,7 @@
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[987.[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)](Hard) - [Python](./algorithms/python/987.vertical-order-traversal-of-a-binary-tree.py)</small>
 - <small>[734.[Sentence Similarity](https://leetcode.com/problems/sentence-similarity/)](Easy) - [Python](./algorithms/python/734.sentence-similarity.py)</small>
-- <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java) [Java](./algorithms/java/454.4sum-ii.java)</small>
+- <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java)</small>
 - <small>[347.[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)](Medium) - [Java](./algorithms/java/347.top-k-frequent-elements.java)</small>
 - <small>[290.[Word Pattern](https://leetcode.com/problems/word-pattern/)](Easy) - [Python](./algorithms/python/290.word-pattern.py)</small>
