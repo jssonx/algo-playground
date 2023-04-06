@@ -137,6 +137,7 @@
     "95$ | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |  [Python](./algorithms/python/95.unique-binary-search-trees-ii.py) | Medium | `dynamic-programming` `tree` |\n",
     "94$ | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |  [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) [Python](./algorithms/python/94.binary-tree-inorder-traversal.py) | Easy | `hash-table` `stack` `tree` |\n",
     "77$ | 77 | [Combinations](https://leetcode.com/problems/combinations/) |  [Java](./algorithms/java/77.combinations.java) | Medium | `backtracking` |\n",
+    "74$ | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2-d-matrix/) |  [Python](./algorithms/python/74.search-a-2-d-matrix.py) | Medium | `array` `binary-search` |\n",
     "70$ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |  [Python](./algorithms/python/70.climbing-stairs.py) | Easy | `dynamic-programming` |\n",
     "69$ | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrt-x/) |  [Python](./algorithms/python/69.sqrt-x.py) | Easy | `math` `binary-search` |\n",
     "59$ | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |  [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | `array` |\n",
