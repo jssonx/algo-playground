@@ -201,6 +201,8 @@ for tag in sorted(tag_dict.keys()):
         # file.write("- [" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "\n")
         f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
     f.write("\n")
+    f.write("<small>[Back to Top](#navigation)</small>" + '\n'+ '\n')
+    
 
 # Part 2
 # f.write("## The Full List" + '\n'+ '\n')
