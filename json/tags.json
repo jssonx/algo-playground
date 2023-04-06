@@ -6367,6 +6367,9 @@
         "id": 2121,
         "fid": 1971,
         "name": "Find if Path Exists in Graph",
+        "tags": [
+            "graph"
+        ],
         "slug": "find-if-path-exists-in-graph",
         "link": "https://leetcode.com/problems/find-if-path-exists-in-graph/description/",
         "percent": 52.11765312387228,

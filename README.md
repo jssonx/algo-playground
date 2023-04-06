@@ -137,6 +137,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Graph
+- <small>[1971.[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)](Easy) - [Python](./algorithms/python/1971.find-if-path-exists-in-graph.py)</small>
 - <small>[743.[Network Delay Time](https://leetcode.com/problems/network-delay-time/)](Medium) - [Python](./algorithms/python/743.network-delay-time.py)</small>
 
 <small>[Back to Top](#navigation)</small>
@@ -205,7 +206,6 @@
 <small>[Back to Top](#navigation)</small>
 #### No-tags
 - <small>[2357.[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)](Easy) - [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py)</small>
-- <small>[1971.[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)](Easy) - [Python](./algorithms/python/1971.find-if-path-exists-in-graph.py)</small>
 - <small>[1480.[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)](Easy) - [Python](./algorithms/python/1480.running-sum-of-1-d-array.py)</small>
 - <small>[1469.[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)](Easy) - [Python](./algorithms/python/1469.find-all-the-lonely-nodes.py)</small>
 - <small>[1427.[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)](Easy) - [Python](./algorithms/python/1427.perform-string-shifts.py)</small>
