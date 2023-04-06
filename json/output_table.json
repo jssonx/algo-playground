@@ -95,7 +95,7 @@
     "226$ | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |  [Java](./algorithms/java/226.invert-binary-tree.java) | Easy | `tree` |\n",
     "225$ | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |  [Java](./algorithms/java/225.implement-stack-using-queues.java) | Easy | `stack` `design` |\n",
     "224$ | 224 | [Basic Calculator](https://leetcode.com/problems/basic-calculator/) |  [Python](./algorithms/python/224.basic-calculator.py) | Hard | `math` `stack` |\n",
-    "222$ | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) |  [Java](./algorithms/java/222.count-complete-tree-nodes.java) | Medium | `binary-search` `tree` |\n",
+    "222$ | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) |  [Java](./algorithms/java/222.count-complete-tree-nodes.java) [Python](./algorithms/python/222.count-complete-tree-nodes.py) | Medium | `binary-search` `tree` |\n",
     "220$ | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) |  [Python](./algorithms/python/220.contains-duplicate-iii.py) | Hard | `sort` `ordered-map` |\n",
     "219$ | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) |  [Python](./algorithms/python/219.contains-duplicate-ii.py) | Easy | `array` `hash-table` |\n",
     "216$ | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) |  [Java](./algorithms/java/216.combination-sum-iii.java) | Medium | `array` `backtracking` |\n",

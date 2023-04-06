@@ -46,7 +46,7 @@
 - <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java)</small>
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
-- <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java)</small>
+- <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java) [Python](./algorithms/python/222.count-complete-tree-nodes.py)</small>
 - <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
 - <small>[35.[Search Insert Position](https://leetcode.com/problems/search-insert-position/)](Easy) - [Python](./algorithms/python/35.search-insert-position.py)</small>
 - <small>[33.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)](Medium) - [Python](./algorithms/python/33.search-in-rotated-sorted-array.py)</small>
@@ -292,7 +292,7 @@
 - <small>[236.[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)](Medium) - [Java](./algorithms/java/236.lowest-common-ancestor-of-a-binary-tree.java)</small>
 - <small>[235.[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)](Medium) - [Java](./algorithms/java/235.lowest-common-ancestor-of-a-binary-search-tree.java)</small>
 - <small>[226.[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)](Easy) - [Java](./algorithms/java/226.invert-binary-tree.java)</small>
-- <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java)</small>
+- <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java) [Python](./algorithms/python/222.count-complete-tree-nodes.py)</small>
 - <small>[145.[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)](Easy) - [Java](./algorithms/java/145.binary-tree-postorder-traversal.java) [Python](./algorithms/python/145.binary-tree-postorder-traversal.py)</small>
 - <small>[144.[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)](Easy) - [Cpp](./algorithms/cpp/144.binary-tree-preorder-traversal.cpp) [Java](./algorithms/java/144.binary-tree-preorder-traversal.java) [Python](./algorithms/python/144.binary-tree-preorder-traversal.py)</small>
 - <small>[129.[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)](Medium) - [Python](./algorithms/python/129.sum-root-to-leaf-numbers.py)</small>
