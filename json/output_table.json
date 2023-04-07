@@ -148,6 +148,7 @@
     "74$ | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) |  [Python](./algorithms/python/74.search-a-2-d-matrix.py) | Medium | `array` `binary-search` |\n",
     "70$ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |  [Python](./algorithms/python/70.climbing-stairs.py) | Easy | `dynamic-programming` |\n",
     "69$ | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) |  [Python](./algorithms/python/69.sqrt-x.py) | Easy | `math` `binary-search` |\n",
+    "61$ | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) |  [Python](./algorithms/python/61.rotate-list.py) | Medium | `linked-list` `two-pointers` |\n",
     "59$ | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |  [Java](./algorithms/java/59.spiral-matrix-ii.java) | Medium | `array` |\n",
     "55$ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) |  [Python](./algorithms/python/55.jump-game.py) | Medium | `array` `greedy` |\n",
     "53$ | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |  [Python](./algorithms/python/53.maximum-subarray.py) | Medium | `array` `divide-and-conquer` `dynamic-programming` |\n",
