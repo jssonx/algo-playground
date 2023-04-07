@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `50` | [Array](#array) `32` | [Binary-search](#binary-search) `20` | [Hash-table](#hash-table) `20` | [String](#string) `19` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `11` | [Stack](#stack) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `50` | [Array](#array) `32` | [Binary-search](#binary-search) `20` | [Hash-table](#hash-table) `20` | [String](#string) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `11` | [Stack](#stack) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -276,6 +276,7 @@
 - <small>[383.[Ransom Note](https://leetcode.com/problems/ransom-note/)](Easy) - [Java](./algorithms/java/383.ransom-note.java)</small>
 - <small>[344.[Reverse String](https://leetcode.com/problems/reverse-string/)](Easy) - [Java](./algorithms/java/344.reverse-string.java) [Python](./algorithms/python/344.reverse-string.py)</small>
 - <small>[20.[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)](Easy) - [Java](./algorithms/java/20.valid-parentheses.java) [Python](./algorithms/python/20.valid-parentheses.py)</small>
+- <small>[443.[String Compression](https://leetcode.com/problems/string-compression/)](Medium) - [Python](./algorithms/python/443.string-compression.py)</small>
 - <small>[227.[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)](Medium) - [Python](./algorithms/python/227.basic-calculator-ii.py)</small>
 - <small>[186.[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/)](Medium) - [Python](./algorithms/python/186.reverse-words-in-a-string-ii.py)</small>
 - <small>[159.[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)](Medium) - [Python](./algorithms/python/159.longest-substring-with-at-most-two-distinct-characters.py)</small>
