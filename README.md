@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `50` | [Array](#array) `32` | [Binary-search](#binary-search) `20` | [Hash-table](#hash-table) `20` | [String](#string) `19` | [Depth-first-search](#depth-first-search) `17` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `11` | [Stack](#stack) `10` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `50` | [Array](#array) `32` | [Binary-search](#binary-search) `20` | [Hash-table](#hash-table) `20` | [String](#string) `19` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `11` | [Stack](#stack) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -101,6 +101,7 @@
 - <small>[100.[Same Tree](https://leetcode.com/problems/same-tree/)](Easy) - [Java](./algorithms/java/100.same-tree.java) [Python](./algorithms/python/100.same-tree.py)</small>
 - <small>[743.[Network Delay Time](https://leetcode.com/problems/network-delay-time/)](Medium) - [Python](./algorithms/python/743.network-delay-time.py)</small>
 - <small>[513.[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)](Medium) - [Java](./algorithms/java/513.find-bottom-left-tree-value.java)</small>
+- <small>[394.[Decode String](https://leetcode.com/problems/decode-string/)](Medium) - [Python](./algorithms/python/394.decode-string.py)</small>
 - <small>[366.[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)](Medium) - [Python](./algorithms/python/366.find-leaves-of-binary-tree.py)</small>
 - <small>[339.[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)](Medium) - [Python](./algorithms/python/339.nested-list-weight-sum.py)</small>
 - <small>[129.[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)](Medium) - [Python](./algorithms/python/129.sum-root-to-leaf-numbers.py)</small>
@@ -260,6 +261,7 @@
 - <small>[144.[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)](Easy) - [Cpp](./algorithms/cpp/144.binary-tree-preorder-traversal.cpp) [Java](./algorithms/java/144.binary-tree-preorder-traversal.java) [Python](./algorithms/python/144.binary-tree-preorder-traversal.py)</small>
 - <small>[94.[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)](Easy) - [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) [Python](./algorithms/python/94.binary-tree-inorder-traversal.py)</small>
 - <small>[20.[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)](Easy) - [Java](./algorithms/java/20.valid-parentheses.java) [Python](./algorithms/python/20.valid-parentheses.py)</small>
+- <small>[394.[Decode String](https://leetcode.com/problems/decode-string/)](Medium) - [Python](./algorithms/python/394.decode-string.py)</small>
 - <small>[150.[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)](Medium) - [Java](./algorithms/java/150.evaluate-reverse-polish-notation.java)</small>
 - <small>[772.[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)](Hard) - [Python](./algorithms/python/772.basic-calculator-iii.py)</small>
 - <small>[224.[Basic Calculator](https://leetcode.com/problems/basic-calculator/)](Hard) - [Python](./algorithms/python/224.basic-calculator.py)</small>

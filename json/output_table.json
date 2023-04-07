@@ -63,6 +63,7 @@
     "422$ | 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) |  [Python](./algorithms/python/422.valid-word-square.py) | Easy | `no-tags` |\n",
     "415$ | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) |  [Python](./algorithms/python/415.add-strings.py) | Easy | `string` |\n",
     "404$ | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) |  [Java](./algorithms/java/404.sum-of-left-leaves.java) | Easy | `tree` |\n",
+    "394$ | 394 | [Decode String](https://leetcode.com/problems/decode-string/) |  [Python](./algorithms/python/394.decode-string.py) | Medium | `stack` `depth-first-search` |\n",
     "383$ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |  [Java](./algorithms/java/383.ransom-note.java) | Easy | `string` |\n",
     "376$ | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) |  [Python](./algorithms/python/376.wiggle-subsequence.py) | Medium | `dynamic-programming` `greedy` |\n",
     "374$ | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) |  [Python](./algorithms/python/374.guess-number-higher-or-lower.py) | Easy | `binary-search` |\n",
