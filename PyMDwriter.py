@@ -190,7 +190,7 @@ for problem in full_prob_table:
 f.write("#### Navigation" + '\n'+ '\n')
 f.write("| " + '\n')
 for tag in sorted(tag_dict, key=lambda x: (-len(tag_dict[x]), x)):
-    f.write("[" + str(tag.capitalize()) + "](#" + str(tag) + ")"+ " `" + str(len(tag_dict[tag])) + "`" + " | ")
+    f.write("[" + str(tag.capitalize()) + "](#" + str(tag) + ")"+ " | ")
 
 f.write("\n")
 
