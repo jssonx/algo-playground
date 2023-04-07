@@ -209,9 +209,11 @@ for tag in sorted(tag_dict.keys()):
     for problem in tag_dict[tag]:
         if problem[2] == "Easy": 
             f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
+    f.write("---" + "\n")
     for problem in tag_dict[tag]:
         if problem[2] == "Medium": 
             f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
+    f.write("---" + "\n")
     for problem in tag_dict[tag]:
         if problem[2] == "Hard": 
             f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
