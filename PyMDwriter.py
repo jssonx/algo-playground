@@ -190,13 +190,13 @@ for problem in full_prob_table:
 f.write("#### Navigation" + '\n'+ '\n')
 f.write("| " + '\n')
 for tag in sorted(tag_dict, key=lambda x: (-len(tag_dict[x]), x)):
-    f.write("[" + str(tag.capitalize()) + "](#" + str(tag) + ")"+ "`" + str(len(tag_dict[tag])) + "`" + " | ")
+    f.write("[" + str(tag.capitalize()) + "](#" + str(tag) + ")"+ " `" + str(len(tag_dict[tag])) + "`" + " | ")
 
 f.write("\n")
 
 for tag in sorted(tag_dict.keys()):
     # print(tag, len(tag_dict[tag]))
-    f.write("#### " + tag.capitalize() + "`" + str(len(tag_dict[tag])) + "`" + "\n")
+    f.write("#### " + tag.capitalize() + "\n")
     plist = {"Easy": [], "Medium": [], "Hard": []}  # 用字典代替列表进行分类
     for problem in tag_dict[tag]:
         plist[problem[2]].append(problem)  # 将问题添加到对应难度的列表中
