@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `50` | [Array](#array) `32` | [Hash-table](#hash-table) `20` | [Binary-search](#binary-search) `19` | [String](#string) `19` | [Depth-first-search](#depth-first-search) `17` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `11` | [Stack](#stack) `10` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `50` | [Array](#array) `32` | [Binary-search](#binary-search) `20` | [Hash-table](#hash-table) `20` | [String](#string) `19` | [Depth-first-search](#depth-first-search) `17` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `11` | [Stack](#stack) `10` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -53,6 +53,7 @@
 - <small>[374.[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)](Easy) - [Python](./algorithms/python/374.guess-number-higher-or-lower.py)</small>
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
+- <small>[278.[First Bad Version](https://leetcode.com/problems/first-bad-version/)](Easy) - [Python](./algorithms/python/278.first-bad-version.py)</small>
 - <small>[270.[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)](Easy) - [Python](./algorithms/python/270.closest-binary-search-tree-value.py)</small>
 - <small>[69.[Sqrt(x)](https://leetcode.com/problems/sqrtx/)](Easy) - [Python](./algorithms/python/69.sqrt-x.py)</small>
 - <small>[35.[Search Insert Position](https://leetcode.com/problems/search-insert-position/)](Easy) - [Python](./algorithms/python/35.search-insert-position.py)</small>
