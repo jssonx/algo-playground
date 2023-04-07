@@ -64,6 +64,7 @@
     "404$ | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) |  [Java](./algorithms/java/404.sum-of-left-leaves.java) | Easy | `tree` |\n",
     "383$ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) |  [Java](./algorithms/java/383.ransom-note.java) | Easy | `string` |\n",
     "376$ | 376 | [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) |  [Python](./algorithms/python/376.wiggle-subsequence.py) | Medium | `dynamic-programming` `greedy` |\n",
+    "374$ | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) |  [Python](./algorithms/python/374.guess-number-higher-or-lower.py) | Easy | `binary-search` |\n",
     "367$ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) |  [Python](./algorithms/python/367.valid-perfect-square.py) | Easy | `math` `binary-search` |\n",
     "366$ | 366 | [Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/) |  [Python](./algorithms/python/366.find-leaves-of-binary-tree.py) | Medium | `tree` `depth-first-search` |\n",
     "349$ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |  [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py) | Easy | `hash-table` `two-pointers` `binary-search` `sort` |\n",
