@@ -4,6 +4,8 @@
 
 | 
 [Tree](#tree) `50` | [Array](#array) `32` | [Hash-table](#hash-table) `20` | [Binary-search](#binary-search) `19` | [String](#string) `19` | [Depth-first-search](#depth-first-search) `17` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `11` | [Stack](#stack) `10` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+#### Template
+
 #### Array
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>

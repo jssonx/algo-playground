@@ -193,6 +193,10 @@ for tag in sorted(tag_dict, key=lambda x: (-len(tag_dict[x]), x)):
     f.write("[" + str(tag.capitalize()) + "](#" + str(tag) + ")"+ " `" + str(len(tag_dict[tag])) + "`" + " | ")
 f.write("\n")
 
+# Add template
+f.write("#### Template" + '\n'+ '\n')
+
+# 生成每个标签的列表
 for tag in sorted(tag_dict.keys()):
     # print(tag, len(tag_dict[tag]))
     f.write("#### " + tag.capitalize() + "\n")
