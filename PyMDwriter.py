@@ -195,7 +195,8 @@ for tag in sorted(tag_dict.keys()):
 f.write("\n")
 
 for tag in sorted(tag_dict.keys()):
-    f.write("#### " + tag.capitalize() + "\n")
+    # print(tag, len(tag_dict[tag]))
+    f.write("#### " + tag.capitalize() + "`" + str(len(tag_dict[tag])) + "`" + "\n")
     plist = {"Easy": [], "Medium": [], "Hard": []}  # 用字典代替列表进行分类
     for problem in tag_dict[tag]:
         plist[problem[2]].append(problem)  # 将问题添加到对应难度的列表中
