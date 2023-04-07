@@ -225,7 +225,7 @@ for tag in sorted(tag_dict.keys()):
         plist[problem[2]].append(problem)  # 将问题添加到对应难度的列表中
     for level in ["Easy", "Medium", "Hard"]:
         for problem in plist[level]:
-            f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + level + ") - " + problem[3] + "</small>\n")
+            f.write("- <small>[" + str(problem[0] + "." + problem[1]) + "](" + level + ") - " + problem[3] + "</small>\n")
     f.write("\n")
     f.write("<small>[Back to Top](#navigation)</small>" + '\n')
 
