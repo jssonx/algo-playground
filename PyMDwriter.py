@@ -194,30 +194,6 @@ for tag in sorted(tag_dict.keys()):
 
 f.write("\n")
 
-# 创建 Markdown 文件，并将每个标签及其相关问题写入该文件中
-# for tag in sorted(tag_dict.keys()):
-#     f.write("#### " + tag.capitalize() + "\n")
-#     for problem in tag_dict[tag]:
-#         f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
-#     f.write("\n")
-#     f.write("<small>[Back to Top](#navigation)</small>" + '\n')
-    
-# 创建 Markdown 文件，并将每个标签及其相关问题写入该文件中
-# for tag in sorted(tag_dict.keys()):
-#     f.write("#### " + tag.capitalize() + "\n")
-#     plist = []
-#     for problem in tag_dict[tag]:
-#         if problem[2] == "Easy": 
-#             f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
-#     for problem in tag_dict[tag]:
-#         if problem[2] == "Medium": 
-#             f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
-#     for problem in tag_dict[tag]:
-#         if problem[2] == "Hard": 
-#             f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
-#     f.write("\n")
-#     f.write("<small>[Back to Top](#navigation)</small>" + '\n')
-
 for tag in sorted(tag_dict.keys()):
     f.write("#### " + tag.capitalize() + "\n")
     plist = {"Easy": [], "Medium": [], "Hard": []}  # 用字典代替列表进行分类
