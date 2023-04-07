@@ -57,6 +57,7 @@
     "459$ | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |  [Java](./algorithms/java/459.repeated-substring-pattern.java) | Easy | `string` |\n",
     "454$ | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) |  [Java](./algorithms/java/454.4sum-ii.java) | Medium | `hash-table` `binary-search` |\n",
     "450$ | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) |  [Java](./algorithms/java/450.delete-node-in-a-bst.java) | Medium | `tree` |\n",
+    "441$ | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) |  [Python](./algorithms/python/441.arranging-coins.py) | Easy | `math` `binary-search` |\n",
     "437$ | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) |  [Python](./algorithms/python/437.path-sum-iii.py) | Medium | `tree` |\n",
     "429$ | 429 | [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/) |  [Python](./algorithms/python/429.n-ary-tree-level-order-traversal.py) | Medium | `tree` `breadth-first-search` |\n",
     "422$ | 422 | [Valid Word Square](https://leetcode.com/problems/valid-word-square/) |  [Python](./algorithms/python/422.valid-word-square.py) | Easy | `no-tags` |\n",

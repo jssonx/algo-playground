@@ -34,8 +34,8 @@ for file in tags_files:
         json_data.append(data)
 
 # store the contents of all json files side-by-side in a new json file
-with open('./json/tags.json', 'w') as f:
-    json.dump(json_data, f, indent = 4)
+with open('./json/tags.json', 'w') as f_tags:
+    json.dump(json_data, f_tags, indent = 4)
 
 # get the modify time of a file
 def timeStampToTime(timestamp):

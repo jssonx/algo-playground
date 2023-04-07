@@ -49,6 +49,7 @@
 - <small>[704.[Binary Search](https://leetcode.com/problems/binary-search/)](Easy) - [Java](./algorithms/java/704.binary-search.java) [Python](./algorithms/python/704.binary-search.py)</small>
 - <small>[540.[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)](Medium) - [Python](./algorithms/python/540.single-element-in-a-sorted-array.py)</small>
 - <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java)</small>
+- <small>[441.[Arranging Coins](https://leetcode.com/problems/arranging-coins/)](Easy) - [Python](./algorithms/python/441.arranging-coins.py)</small>
 - <small>[374.[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)](Easy) - [Python](./algorithms/python/374.guess-number-higher-or-lower.py)</small>
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
@@ -192,6 +193,7 @@
 #### Math
 - <small>[1056.[Confusing Number](https://leetcode.com/problems/confusing-number/)](Easy) - [Python](./algorithms/python/1056.confusing-number.py)</small>
 - <small>[670.[Maximum Swap](https://leetcode.com/problems/maximum-swap/)](Medium) - [Python](./algorithms/python/670.maximum-swap.py)</small>
+- <small>[441.[Arranging Coins](https://leetcode.com/problems/arranging-coins/)](Easy) - [Python](./algorithms/python/441.arranging-coins.py)</small>
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
 - <small>[326.[Power of Three](https://leetcode.com/problems/power-of-three/)](Easy) - [Python](./algorithms/python/326.power-of-three.py)</small>
 - <small>[258.[Add Digits](https://leetcode.com/problems/add-digits/)](Easy) - [Python](./algorithms/python/258.add-digits.py)</small>
