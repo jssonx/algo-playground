@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `50` | [Array](#array) `32` | [Hash-table](#hash-table) `20` | [Binary-search](#binary-search) `19` | [String](#string) `19` | [Depth-first-search](#depth-first-search) `17` | [Dynamic-programming](#dynamic-programming) `17` | [Math](#math) `14` | [Two-pointers](#two-pointers) `14` | [No-tags](#no-tags) `13` | [Stack](#stack) `10` | [Bit-manipulation](#bit-manipulation) `8` | [Linked-list](#linked-list) `7` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `50` | [Array](#array) `32` | [Hash-table](#hash-table) `20` | [Binary-search](#binary-search) `19` | [String](#string) `19` | [Depth-first-search](#depth-first-search) `17` | [Dynamic-programming](#dynamic-programming) `17` | [Math](#math) `15` | [Two-pointers](#two-pointers) `14` | [No-tags](#no-tags) `13` | [Stack](#stack) `10` | [Bit-manipulation](#bit-manipulation) `8` | [Linked-list](#linked-list) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Array
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>
@@ -188,6 +188,7 @@
 - <small>[142.[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)](Medium) - [Java](./algorithms/java/142.linked-list-cycle-ii.java)</small>
 - <small>[24.[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)](Medium) - [Java](./algorithms/java/24.swap-nodes-in-pairs.java)</small>
 - <small>[19.[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)](Medium) - [Java](./algorithms/java/19.remove-nth-node-from-end-of-list.java) [Python](./algorithms/python/19.remove-nth-node-from-end-of-list.py)</small>
+- <small>[2.[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)](Medium) - [Python](./algorithms/python/2.add-two-numbers.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Math
@@ -204,6 +205,7 @@
 - <small>[670.[Maximum Swap](https://leetcode.com/problems/maximum-swap/)](Medium) - [Python](./algorithms/python/670.maximum-swap.py)</small>
 - <small>[43.[Multiply Strings](https://leetcode.com/problems/multiply-strings/)](Medium) - [Python](./algorithms/python/43.multiply-strings.py)</small>
 - <small>[29.[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)](Medium) - [Python](./algorithms/python/29.divide-two-integers.py)</small>
+- <small>[2.[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)](Medium) - [Python](./algorithms/python/2.add-two-numbers.py)</small>
 - <small>[224.[Basic Calculator](https://leetcode.com/problems/basic-calculator/)](Hard) - [Python](./algorithms/python/224.basic-calculator.py)</small>
 
 <small>[Back to Top](#navigation)</small>
