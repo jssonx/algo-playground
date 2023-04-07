@@ -4,7 +4,7 @@
 
 | 
 [Array](#array) | [Backtracking](#backtracking) | [Binary-search](#binary-search) | [Bit-manipulation](#bit-manipulation) | [Breadth-first-search](#breadth-first-search) | [Depth-first-search](#depth-first-search) | [Design](#design) | [Divide-and-conquer](#divide-and-conquer) | [Dynamic-programming](#dynamic-programming) | [Graph](#graph) | [Greedy](#greedy) | [Hash-table](#hash-table) | [Heap](#heap) | [Linked-list](#linked-list) | [Math](#math) | [No-tags](#no-tags) | [Ordered-map](#ordered-map) | [Recursion](#recursion) | [Sliding-window](#sliding-window) | [Sort](#sort) | [Stack](#stack) | [String](#string) | [Tree](#tree) | [Trie](#trie) | [Two-pointers](#two-pointers) | 
-#### Array `32`
+#### Array <small>`32`</small>
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>
 - <small>[746.[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)](Easy) - [Python](./algorithms/python/746.min-cost-climbing-stairs.py)</small>
@@ -39,13 +39,13 @@
 - <small>[123.[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)](Hard) - [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Backtracking `3`
+#### Backtracking <small>`3`</small>
 - <small>[216.[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)](Medium) - [Java](./algorithms/java/216.combination-sum-iii.java)</small>
 - <small>[77.[Combinations](https://leetcode.com/problems/combinations/)](Medium) - [Java](./algorithms/java/77.combinations.java)</small>
 - <small>[17.[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)](Medium) - [Java](./algorithms/java/17.letter-combinations-of-a-phone-number.java) [Python](./algorithms/python/17.letter-combinations-of-a-phone-number.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Binary-search `19`
+#### Binary-search <small>`19`</small>
 - <small>[704.[Binary Search](https://leetcode.com/problems/binary-search/)](Easy) - [Java](./algorithms/java/704.binary-search.java) [Python](./algorithms/python/704.binary-search.py)</small>
 - <small>[441.[Arranging Coins](https://leetcode.com/problems/arranging-coins/)](Easy) - [Python](./algorithms/python/441.arranging-coins.py)</small>
 - <small>[374.[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)](Easy) - [Python](./algorithms/python/374.guess-number-higher-or-lower.py)</small>
@@ -67,7 +67,7 @@
 - <small>[29.[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)](Medium) - [Python](./algorithms/python/29.divide-two-integers.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Bit-manipulation `8`
+#### Bit-manipulation <small>`8`</small>
 - <small>[476.[Number Complement](https://leetcode.com/problems/number-complement/)](Easy) - [Python](./algorithms/python/476.number-complement.py)</small>
 - <small>[342.[Power of Four](https://leetcode.com/problems/power-of-four/)](Easy) - [Python](./algorithms/python/342.power-of-four.py)</small>
 - <small>[338.[Counting Bits](https://leetcode.com/problems/counting-bits/)](Easy) - [Python](./algorithms/python/338.counting-bits.py)</small>
@@ -78,7 +78,7 @@
 - <small>[187.[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)](Medium) - [Python](./algorithms/python/187.repeated-dna-sequences.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Breadth-first-search `6`
+#### Breadth-first-search <small>`6`</small>
 - <small>[111.[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)](Easy) - [Java](./algorithms/java/111.minimum-depth-of-binary-tree.java) [Python](./algorithms/python/111.minimum-depth-of-binary-tree.py)</small>
 - <small>[101.[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)](Easy) - [Java](./algorithms/java/101.symmetric-tree.java) [Python](./algorithms/python/101.symmetric-tree.py)</small>
 - <small>[743.[Network Delay Time](https://leetcode.com/problems/network-delay-time/)](Medium) - [Python](./algorithms/python/743.network-delay-time.py)</small>
@@ -87,7 +87,7 @@
 - <small>[102.[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)](Medium) - [Java](./algorithms/java/102.binary-tree-level-order-traversal.java)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Depth-first-search `17`
+#### Depth-first-search <small>`17`</small>
 - <small>[257.[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)](Easy) - [Java](./algorithms/java/257.binary-tree-paths.java)</small>
 - <small>[112.[Path Sum](https://leetcode.com/problems/path-sum/)](Easy) - [Java](./algorithms/java/112.path-sum.java) [Python](./algorithms/python/112.path-sum.py)</small>
 - <small>[111.[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)](Easy) - [Java](./algorithms/java/111.minimum-depth-of-binary-tree.java) [Python](./algorithms/python/111.minimum-depth-of-binary-tree.py)</small>
@@ -107,18 +107,18 @@
 - <small>[98.[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)](Medium) - [Java](./algorithms/java/98.validate-binary-search-tree.java)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Design `3`
+#### Design <small>`3`</small>
 - <small>[232.[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)](Easy) - [Java](./algorithms/java/232.implement-queue-using-stacks.java)</small>
 - <small>[225.[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)](Easy) - [Java](./algorithms/java/225.implement-stack-using-queues.java)</small>
 - <small>[707.[Design Linked List](https://leetcode.com/problems/design-linked-list/)](Medium) - [Java](./algorithms/java/707.design-linked-list.java)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Divide-and-conquer `2`
+#### Divide-and-conquer <small>`2`</small>
 - <small>[240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)](Medium) - [Python](./algorithms/python/240.search-a-2-d-matrix-ii.py)</small>
 - <small>[53.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)](Medium) - [Python](./algorithms/python/53.maximum-subarray.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Dynamic-programming `17`
+#### Dynamic-programming <small>`17`</small>
 - <small>[746.[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)](Easy) - [Python](./algorithms/python/746.min-cost-climbing-stairs.py)</small>
 - <small>[338.[Counting Bits](https://leetcode.com/problems/counting-bits/)](Easy) - [Python](./algorithms/python/338.counting-bits.py)</small>
 - <small>[303.[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)](Easy) - [Python](./algorithms/python/303.range-sum-query-immutable.py)</small>
@@ -138,19 +138,19 @@
 - <small>[123.[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)](Hard) - [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Graph `2`
+#### Graph <small>`2`</small>
 - <small>[1971.[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)](Easy) - [Python](./algorithms/python/1971.find-if-path-exists-in-graph.py)</small>
 - <small>[743.[Network Delay Time](https://leetcode.com/problems/network-delay-time/)](Medium) - [Python](./algorithms/python/743.network-delay-time.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Greedy `4`
+#### Greedy <small>`4`</small>
 - <small>[376.[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)](Medium) - [Python](./algorithms/python/376.wiggle-subsequence.py)</small>
 - <small>[253.[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)](Medium) - [Java](./algorithms/java/253.meeting-rooms-ii.java)</small>
 - <small>[55.[Jump Game](https://leetcode.com/problems/jump-game/)](Medium) - [Python](./algorithms/python/55.jump-game.py)</small>
 - <small>[45.[Jump Game II](https://leetcode.com/problems/jump-game-ii/)](Medium) - [Python](./algorithms/python/45.jump-game-ii.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Hash-table `20`
+#### Hash-table <small>`20`</small>
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[734.[Sentence Similarity](https://leetcode.com/problems/sentence-similarity/)](Easy) - [Python](./algorithms/python/734.sentence-similarity.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
@@ -173,14 +173,14 @@
 - <small>[987.[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)](Hard) - [Python](./algorithms/python/987.vertical-order-traversal-of-a-binary-tree.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Heap `4`
+#### Heap <small>`4`</small>
 - <small>[743.[Network Delay Time](https://leetcode.com/problems/network-delay-time/)](Medium) - [Python](./algorithms/python/743.network-delay-time.py)</small>
 - <small>[347.[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)](Medium) - [Java](./algorithms/java/347.top-k-frequent-elements.java)</small>
 - <small>[253.[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)](Medium) - [Java](./algorithms/java/253.meeting-rooms-ii.java)</small>
 - <small>[239.[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)](Hard) - [Java](./algorithms/java/239.sliding-window-maximum.java)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Linked-list `7`
+#### Linked-list <small>`7`</small>
 - <small>[206.[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)](Easy) - [Java](./algorithms/java/206.reverse-linked-list.java)</small>
 - <small>[203.[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)](Easy) - [Java](./algorithms/java/203.remove-linked-list-elements.java)</small>
 - <small>[160.[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)](Easy) - [Java](./algorithms/java/160.intersection-of-two-linked-lists.java)</small>
@@ -190,7 +190,7 @@
 - <small>[19.[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)](Medium) - [Java](./algorithms/java/19.remove-nth-node-from-end-of-list.java) [Python](./algorithms/python/19.remove-nth-node-from-end-of-list.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Math `14`
+#### Math <small>`14`</small>
 - <small>[1056.[Confusing Number](https://leetcode.com/problems/confusing-number/)](Easy) - [Python](./algorithms/python/1056.confusing-number.py)</small>
 - <small>[441.[Arranging Coins](https://leetcode.com/problems/arranging-coins/)](Easy) - [Python](./algorithms/python/441.arranging-coins.py)</small>
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
@@ -207,7 +207,7 @@
 - <small>[224.[Basic Calculator](https://leetcode.com/problems/basic-calculator/)](Hard) - [Python](./algorithms/python/224.basic-calculator.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### No-tags `13`
+#### No-tags <small>`13`</small>
 - <small>[2357.[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)](Easy) - [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py)</small>
 - <small>[1480.[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)](Easy) - [Python](./algorithms/python/1480.running-sum-of-1-d-array.py)</small>
 - <small>[1469.[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)](Easy) - [Python](./algorithms/python/1469.find-all-the-lonely-nodes.py)</small>
@@ -223,28 +223,28 @@
 - <small>[1289.[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)](Hard) - [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Ordered-map `1`
+#### Ordered-map <small>`1`</small>
 - <small>[220.[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)](Hard) - [Python](./algorithms/python/220.contains-duplicate-iii.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Recursion `1`
+#### Recursion <small>`1`</small>
 - <small>[687.[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)](Medium) - [Python](./algorithms/python/687.longest-univalue-path.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Sliding-window `3`
+#### Sliding-window <small>`3`</small>
 - <small>[159.[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)](Medium) - [Python](./algorithms/python/159.longest-substring-with-at-most-two-distinct-characters.py)</small>
 - <small>[3.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)](Medium) - [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py)</small>
 - <small>[239.[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)](Hard) - [Java](./algorithms/java/239.sliding-window-maximum.java)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Sort `4`
+#### Sort <small>`4`</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[242.[Valid Anagram](https://leetcode.com/problems/valid-anagram/)](Easy) - [Java](./algorithms/java/242.valid-anagram.java)</small>
 - <small>[253.[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)](Medium) - [Java](./algorithms/java/253.meeting-rooms-ii.java)</small>
 - <small>[220.[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)](Hard) - [Python](./algorithms/python/220.contains-duplicate-iii.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Stack `10`
+#### Stack <small>`10`</small>
 - <small>[1047.[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)](Easy) - [Java](./algorithms/java/1047.remove-all-adjacent-duplicates-in-string.java)</small>
 - <small>[232.[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)](Easy) - [Java](./algorithms/java/232.implement-queue-using-stacks.java)</small>
 - <small>[225.[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)](Easy) - [Java](./algorithms/java/225.implement-stack-using-queues.java)</small>
@@ -257,7 +257,7 @@
 - <small>[224.[Basic Calculator](https://leetcode.com/problems/basic-calculator/)](Hard) - [Python](./algorithms/python/224.basic-calculator.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### String `19`
+#### String <small>`19`</small>
 - <small>[1065.[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)](Easy) - [Python](./algorithms/python/1065.index-pairs-of-a-string.py)</small>
 - <small>[606.[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)](Easy) - [Python](./algorithms/python/606.construct-string-from-binary-tree.py)</small>
 - <small>[551.[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)](Easy) - [Python](./algorithms/python/551.student-attendance-record-i.py)</small>
@@ -279,7 +279,7 @@
 - <small>[214.[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)](Hard) - [Python](./algorithms/python/214.shortest-palindrome.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Tree `50`
+#### Tree <small>`50`</small>
 - <small>[965.[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)](Easy) - [Python](./algorithms/python/965.univalued-binary-tree.py)</small>
 - <small>[700.[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)](Easy) - [Java](./algorithms/java/700.search-in-a-binary-search-tree.java)</small>
 - <small>[617.[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)](Easy) - [Java](./algorithms/java/617.merge-two-binary-trees.java)</small>
@@ -332,11 +332,11 @@
 - <small>[987.[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)](Hard) - [Python](./algorithms/python/987.vertical-order-traversal-of-a-binary-tree.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Trie `1`
+#### Trie <small>`1`</small>
 - <small>[1065.[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)](Easy) - [Python](./algorithms/python/1065.index-pairs-of-a-string.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### Two-pointers `14`
+#### Two-pointers <small>`14`</small>
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[344.[Reverse String](https://leetcode.com/problems/reverse-string/)](Easy) - [Java](./algorithms/java/344.reverse-string.java) [Python](./algorithms/python/344.reverse-string.py)</small>
