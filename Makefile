@@ -8,7 +8,7 @@ n ?= 0
 # Define targets
 .PHONY: update
 update:
-	python auto_md_writer.py
+	python PyMDwriter.py
 	git add .
 	git commit -m "update $(n)"
 	git push
