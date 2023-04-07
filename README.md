@@ -276,6 +276,7 @@
 - <small>[17.[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)](Medium) - [Java](./algorithms/java/17.letter-combinations-of-a-phone-number.java) [Python](./algorithms/python/17.letter-combinations-of-a-phone-number.py)</small>
 - <small>[3.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)](Medium) - [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py)</small>
 - <small>[772.[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)](Hard) - [Python](./algorithms/python/772.basic-calculator-iii.py)</small>
+- <small>[214.[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)](Hard) - [Python](./algorithms/python/214.shortest-palindrome.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Tree
