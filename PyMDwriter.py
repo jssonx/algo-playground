@@ -203,20 +203,29 @@ f.write("\n")
 #     f.write("<small>[Back to Top](#navigation)</small>" + '\n')
     
 # 创建 Markdown 文件，并将每个标签及其相关问题写入该文件中
+# for tag in sorted(tag_dict.keys()):
+#     f.write("#### " + tag.capitalize() + "\n")
+#     plist = []
+#     for problem in tag_dict[tag]:
+#         if problem[2] == "Easy": 
+#             f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
+#     for problem in tag_dict[tag]:
+#         if problem[2] == "Medium": 
+#             f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
+#     for problem in tag_dict[tag]:
+#         if problem[2] == "Hard": 
+#             f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
+#     f.write("\n")
+#     f.write("<small>[Back to Top](#navigation)</small>" + '\n')
+
 for tag in sorted(tag_dict.keys()):
     f.write("#### " + tag.capitalize() + "\n")
-    plist = []
+    plist = {"Easy": [], "Medium": [], "Hard": []}  # 用字典代替列表进行分类
     for problem in tag_dict[tag]:
-        if problem[2] == "Easy": 
-            f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
-    f.write("######### ---" + "\n")
-    for problem in tag_dict[tag]:
-        if problem[2] == "Medium": 
-            f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
-    f.write("######### ---" + "\n")
-    for problem in tag_dict[tag]:
-        if problem[2] == "Hard": 
-            f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + problem[2] + ") - " + problem[3] + "</small>\n")
+        plist[problem[2]].append(problem)  # 将问题添加到对应难度的列表中
+    for level in ["Easy", "Medium", "Hard"]:
+        for problem in plist[level]:
+            f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + level + ") - " + problem[3] + "</small>\n")
     f.write("\n")
     f.write("<small>[Back to Top](#navigation)</small>" + '\n')
 
