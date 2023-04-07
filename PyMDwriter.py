@@ -226,7 +226,6 @@ for tag in sorted(tag_dict.keys()):
     for level in ["Easy", "Medium", "Hard"]:
         for problem in plist[level]:
             f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + level + ") - " + problem[3] + "</small>\n")
-        f.write("<small>" + "</small>\n\n")
     f.write("\n")
     f.write("<small>[Back to Top](#navigation)</small>" + '\n')
 
