@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `50` | [Array](#array) `32` | [Hash-table](#hash-table) `20` | [Binary-search](#binary-search) `19` | [String](#string) `19` | [Depth-first-search](#depth-first-search) `17` | [Dynamic-programming](#dynamic-programming) `17` | [Math](#math) `15` | [Two-pointers](#two-pointers) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `10` | [Stack](#stack) `10` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `50` | [Array](#array) `32` | [Hash-table](#hash-table) `20` | [Binary-search](#binary-search) `19` | [String](#string) `19` | [Depth-first-search](#depth-first-search) `17` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `11` | [Stack](#stack) `10` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Array
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>
@@ -181,6 +181,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Linked-list
+- <small>[234.[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)](Easy) - [Python](./algorithms/python/234.palindrome-linked-list.py)</small>
 - <small>[206.[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)](Easy) - [Java](./algorithms/java/206.reverse-linked-list.java)</small>
 - <small>[203.[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)](Easy) - [Java](./algorithms/java/203.remove-linked-list-elements.java)</small>
 - <small>[160.[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)](Easy) - [Java](./algorithms/java/160.intersection-of-two-linked-lists.java)</small>
@@ -344,6 +345,7 @@
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[344.[Reverse String](https://leetcode.com/problems/reverse-string/)](Easy) - [Java](./algorithms/java/344.reverse-string.java) [Python](./algorithms/python/344.reverse-string.py)</small>
+- <small>[234.[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)](Easy) - [Python](./algorithms/python/234.palindrome-linked-list.py)</small>
 - <small>[27.[Remove Element](https://leetcode.com/problems/remove-element/)](Easy) - [Java](./algorithms/java/27.remove-element.java) [Python](./algorithms/python/27.remove-element.py)</small>
 - <small>[487.[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)](Medium) - [Python](./algorithms/python/487.max-consecutive-ones-ii.py)</small>
 - <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
