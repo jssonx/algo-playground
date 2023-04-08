@@ -4274,6 +4274,10 @@
     {
         "id": 1609,
         "fid": 1469,
+        "tags": [
+            "tree",
+            "stack"
+        ],
         "name": "Find All The Lonely Nodes",
         "slug": "find-all-the-lonely-nodes",
         "link": "https://leetcode.com/problems/find-all-the-lonely-nodes/description/",
