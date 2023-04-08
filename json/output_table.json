@@ -10,7 +10,7 @@
     "1195$ | 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) |  [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py) | Medium | `no-tags` |\n",
     "1186$ | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |  [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py) | Medium | `no-tags` |\n",
     "1151$ | 1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) |  [Python](./algorithms/python/1151.minimum-swaps-to-group-all-1-s-together.py) | Medium | `no-tags` |\n",
-    "1137$ | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) |  [Python](./algorithms/python/1137.n-th-tribonacci-number.py) | Easy | `no-tags` |\n",
+    "1137$ | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) |  [Python](./algorithms/python/1137.n-th-tribonacci-number.py) | Easy | `dynamic-programming` |\n",
     "1086$ | 1086 | [High Five](https://leetcode.com/problems/high-five/) |  [Python](./algorithms/python/1086.high-five.py) | Easy | `hash-table` |\n",
     "1065$ | 1065 | [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/) |  [Python](./algorithms/python/1065.index-pairs-of-a-string.py) | Easy | `string` `trie` |\n",
     "1056$ | 1056 | [Confusing Number](https://leetcode.com/problems/confusing-number/) |  [Python](./algorithms/python/1056.confusing-number.py) | Easy | `math` |\n",
