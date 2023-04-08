@@ -9974,6 +9974,10 @@
     {
         "id": 2436,
         "fid": 2357,
+        "tags": [
+            "hash-table",
+            "array"
+        ],
         "name": "Make Array Zero by Subtracting Equal Amounts",
         "slug": "make-array-zero-by-subtracting-equal-amounts",
         "link": "https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/",

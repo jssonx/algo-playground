@@ -3,10 +3,11 @@
 #### Navigation
 
 | 
-[Tree](#tree) `51` | [Array](#array) `33` | [Hash-table](#hash-table) `21` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [No-tags](#no-tags) `9` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `51` | [Array](#array) `34` | [Hash-table](#hash-table) `22` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [No-tags](#no-tags) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
+- <small>[2357.[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)](Easy) - [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py)</small>
 - <small>[1480.[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)](Easy) - [Python](./algorithms/python/1480.running-sum-of-1-d-array.py)</small>
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>
@@ -156,6 +157,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Hash-table
+- <small>[2357.[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)](Easy) - [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py)</small>
 - <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[734.[Sentence Similarity](https://leetcode.com/problems/sentence-similarity/)](Easy) - [Python](./algorithms/python/734.sentence-similarity.py)</small>
@@ -219,7 +221,6 @@
 
 <small>[Back to Top](#navigation)</small>
 #### No-tags
-- <small>[2357.[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)](Easy) - [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py)</small>
 - <small>[1137.[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)](Easy) - [Python](./algorithms/python/1137.n-th-tribonacci-number.py)</small>
 - <small>[1086.[High Five](https://leetcode.com/problems/high-five/)](Easy) - [Python](./algorithms/python/1086.high-five.py)</small>
 - <small>[422.[Valid Word Square](https://leetcode.com/problems/valid-word-square/)](Easy) - [Python](./algorithms/python/422.valid-word-square.py)</small>
