@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `53` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `53` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `17` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -256,6 +256,7 @@
 #### Stack
 - <small>[1469.[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)](Easy) - [Python](./algorithms/python/1469.find-all-the-lonely-nodes.py)</small>
 - <small>[1047.[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)](Easy) - [Java](./algorithms/java/1047.remove-all-adjacent-duplicates-in-string.java)</small>
+- <small>[653.[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)](Easy) - [Python](./algorithms/python/653.two-sum-iv-input-is-a-bst.py)</small>
 - <small>[232.[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)](Easy) - [Java](./algorithms/java/232.implement-queue-using-stacks.java)</small>
 - <small>[225.[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)](Easy) - [Java](./algorithms/java/225.implement-stack-using-queues.java)</small>
 - <small>[145.[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)](Easy) - [Java](./algorithms/java/145.binary-tree-postorder-traversal.java) [Python](./algorithms/python/145.binary-tree-postorder-traversal.py)</small>
@@ -354,6 +355,7 @@
 <small>[Back to Top](#navigation)</small>
 #### Two-pointers
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java) [Python](./algorithms/python/977.squares-of-a-sorted-array.py)</small>
+- <small>[653.[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)](Easy) - [Python](./algorithms/python/653.two-sum-iv-input-is-a-bst.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[344.[Reverse String](https://leetcode.com/problems/reverse-string/)](Easy) - [Java](./algorithms/java/344.reverse-string.java) [Python](./algorithms/python/344.reverse-string.py)</small>
 - <small>[234.[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)](Easy) - [Python](./algorithms/python/234.palindrome-linked-list.py)</small>
