@@ -11192,6 +11192,9 @@
     {
         "id": 2634,
         "fid": 2540,
+        "tags": [
+            "two-pointers"
+        ],
         "name": "Minimum Common Value",
         "slug": "minimum-common-value",
         "link": "https://leetcode.com/problems/minimum-common-value/description/",
