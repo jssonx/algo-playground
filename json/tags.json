@@ -2656,6 +2656,9 @@
     {
         "id": 1288,
         "fid": 1186,
+        "tags": [
+            "dynamic-programming"
+        ],
         "name": "Maximum Subarray Sum with One Deletion",
         "slug": "maximum-subarray-sum-with-one-deletion",
         "link": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/description/",

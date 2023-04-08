@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `52` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [No-tags](#no-tags) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `52` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Dynamic-programming](#dynamic-programming) `19` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [No-tags](#no-tags) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -132,6 +132,7 @@
 - <small>[338.[Counting Bits](https://leetcode.com/problems/counting-bits/)](Easy) - [Python](./algorithms/python/338.counting-bits.py)</small>
 - <small>[303.[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)](Easy) - [Python](./algorithms/python/303.range-sum-query-immutable.py)</small>
 - <small>[70.[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)](Easy) - [Python](./algorithms/python/70.climbing-stairs.py)</small>
+- <small>[1186.[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)](Medium) - [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py)</small>
 - <small>[740.[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)](Medium) - [Python](./algorithms/python/740.delete-and-earn.py)</small>
 - <small>[376.[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)](Medium) - [Python](./algorithms/python/376.wiggle-subsequence.py)</small>
 - <small>[309.[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)](Medium) - [Python](./algorithms/python/309.best-time-to-buy-and-sell-stock-with-cooldown.py)</small>
@@ -226,7 +227,6 @@
 <small>[Back to Top](#navigation)</small>
 #### No-tags
 - <small>[1195.[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/)](Medium) - [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py)</small>
-- <small>[1186.[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)](Medium) - [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py)</small>
 - <small>[1151.[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)](Medium) - [Python](./algorithms/python/1151.minimum-swaps-to-group-all-1-s-together.py)</small>
 - <small>[1289.[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)](Hard) - [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py)</small>
 
