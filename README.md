@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `52` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Dynamic-programming](#dynamic-programming) `19` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [No-tags](#no-tags) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `52` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [No-tags](#no-tags) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -143,6 +143,7 @@
 - <small>[96.[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)](Medium) - [Python](./algorithms/python/96.unique-binary-search-trees.py)</small>
 - <small>[95.[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)](Medium) - [Python](./algorithms/python/95.unique-binary-search-trees-ii.py)</small>
 - <small>[53.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)](Medium) - [Python](./algorithms/python/53.maximum-subarray.py)</small>
+- <small>[1289.[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)](Hard) - [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py)</small>
 - <small>[940.[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/)](Hard) - [Python](./algorithms/python/940.distinct-subsequences-ii.py)</small>
 - <small>[265.[Paint House II](https://leetcode.com/problems/paint-house-ii/)](Hard) - [Python](./algorithms/python/265.paint-house-ii.py)</small>
 - <small>[123.[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)](Hard) - [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py)</small>
@@ -227,7 +228,6 @@
 <small>[Back to Top](#navigation)</small>
 #### No-tags
 - <small>[1195.[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/)](Medium) - [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py)</small>
-- <small>[1289.[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)](Hard) - [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Ordered-map

@@ -3249,6 +3249,9 @@
     {
         "id": 1224,
         "fid": 1289,
+        "tags": [
+            "dynamic-programming"
+        ],
         "name": "Minimum Falling Path Sum II",
         "slug": "minimum-falling-path-sum-ii",
         "link": "https://leetcode.com/problems/minimum-falling-path-sum-ii/description/",
