@@ -3500,8 +3500,7 @@
         "id": 1254,
         "fid": 1302,
         "tags": [
-            "tree",
-            "Breadth-first-search"
+            "tree"
         ],
         "name": "Deepest Leaves Sum",
         "slug": "deepest-leaves-sum",

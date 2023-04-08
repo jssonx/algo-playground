@@ -3,13 +3,9 @@
 #### Navigation
 
 | 
-[Tree](#tree) `52` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [No-tags](#no-tags) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Breadth-first-search](#Breadth-first-search) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `52` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [No-tags](#no-tags) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
-#### Breadth-first-search
-- <small>[1302.[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)](Medium) - [Python](./algorithms/python/1302.deepest-leaves-sum.py)</small>
-
-<small>[Back to Top](#navigation)</small>
 #### Array
 - <small>[2357.[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)](Easy) - [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py)</small>
 - <small>[1480.[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)](Easy) - [Python](./algorithms/python/1480.running-sum-of-1-d-array.py)</small>
