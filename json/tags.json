@@ -1753,6 +1753,9 @@
     {
         "id": 1074,
         "fid": 1086,
+        "tags": [
+            "hash-table"
+        ],
         "name": "High Five",
         "slug": "high-five",
         "link": "https://leetcode.com/problems/high-five/description/",
