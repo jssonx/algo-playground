@@ -3,18 +3,9 @@
 #### Navigation
 
 | 
-[Tree](#tree) `50` | [Array](#array) `32` | [Binary-search](#binary-search) `20` | [Hash-table](#hash-table) `20` | [String](#string) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `11` | [Stack](#stack) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [A](#a) `2` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [H](#h) `2` | [-](#-) `1` | [B](#b) `1` | [E](#e) `1` | [L](#l) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [S](#s) `1` | [T](#t) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `50` | [Array](#array) `32` | [Hash-table](#hash-table) `21` | [Binary-search](#binary-search) `20` | [String](#string) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `11` | [Stack](#stack) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
-#### -
-- <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
-
-<small>[Back to Top](#navigation)</small>
-#### A
-- <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
-- <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
-
-<small>[Back to Top](#navigation)</small>
 #### Array
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>
@@ -48,10 +39,6 @@
 - <small>[16.[3Sum Closest](https://leetcode.com/problems/3sum-closest/)](Medium) - [Python](./algorithms/python/16.3-sum-closest.py)</small>
 - <small>[15.[3Sum](https://leetcode.com/problems/3sum/)](Medium) - [Java](./algorithms/java/15.3-sum.java)</small>
 - <small>[123.[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)](Hard) - [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py)</small>
-
-<small>[Back to Top](#navigation)</small>
-#### B
-- <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Backtracking
@@ -155,10 +142,6 @@
 - <small>[123.[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)](Hard) - [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### E
-- <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
-
-<small>[Back to Top](#navigation)</small>
 #### Graph
 - <small>[1971.[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)](Easy) - [Python](./algorithms/python/1971.find-if-path-exists-in-graph.py)</small>
 - <small>[743.[Network Delay Time](https://leetcode.com/problems/network-delay-time/)](Medium) - [Python](./algorithms/python/743.network-delay-time.py)</small>
@@ -171,12 +154,8 @@
 - <small>[45.[Jump Game II](https://leetcode.com/problems/jump-game-ii/)](Medium) - [Python](./algorithms/python/45.jump-game-ii.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### H
-- <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
-- <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
-
-<small>[Back to Top](#navigation)</small>
 #### Hash-table
+- <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[734.[Sentence Similarity](https://leetcode.com/problems/sentence-similarity/)](Easy) - [Python](./algorithms/python/734.sentence-similarity.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
@@ -204,10 +183,6 @@
 - <small>[347.[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)](Medium) - [Java](./algorithms/java/347.top-k-frequent-elements.java)</small>
 - <small>[253.[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)](Medium) - [Java](./algorithms/java/253.meeting-rooms-ii.java)</small>
 - <small>[239.[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)](Hard) - [Java](./algorithms/java/239.sliding-window-maximum.java)</small>
-
-<small>[Back to Top](#navigation)</small>
-#### L
-- <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Linked-list
@@ -266,10 +241,6 @@
 - <small>[687.[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)](Medium) - [Python](./algorithms/python/687.longest-univalue-path.py)</small>
 
 <small>[Back to Top](#navigation)</small>
-#### S
-- <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
-
-<small>[Back to Top](#navigation)</small>
 #### Sliding-window
 - <small>[159.[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)](Medium) - [Python](./algorithms/python/159.longest-substring-with-at-most-two-distinct-characters.py)</small>
 - <small>[3.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)](Medium) - [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py)</small>
@@ -318,10 +289,6 @@
 - <small>[3.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)](Medium) - [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py)</small>
 - <small>[772.[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)](Hard) - [Python](./algorithms/python/772.basic-calculator-iii.py)</small>
 - <small>[214.[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)](Hard) - [Python](./algorithms/python/214.shortest-palindrome.py)</small>
-
-<small>[Back to Top](#navigation)</small>
-#### T
-- <small>[1207.[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)](Easy) - [Python](./algorithms/python/1207.unique-number-of-occurrences.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Tree

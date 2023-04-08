@@ -2978,7 +2978,9 @@
     {
         "id": 1319,
         "fid": 1207,
-        "tags": "hash-table",
+        "tags": [
+            "hash-table"
+        ],
         "name": "Unique Number of Occurrences",
         "slug": "unique-number-of-occurrences",
         "link": "https://leetcode.com/problems/unique-number-of-occurrences/description/",
