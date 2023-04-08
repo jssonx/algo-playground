@@ -15744,6 +15744,9 @@
     {
         "id": 422,
         "fid": 422,
+        "tags": [
+            "array"
+        ],
         "name": "Valid Word Square",
         "slug": "valid-word-square",
         "link": "https://leetcode.com/problems/valid-word-square/description/",

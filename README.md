@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `51` | [Array](#array) `34` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [No-tags](#no-tags) `6` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `51` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [No-tags](#no-tags) `5` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -15,6 +15,7 @@
 - <small>[724.[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)](Easy) - [Python](./algorithms/python/724.find-pivot-index.py)</small>
 - <small>[717.[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)](Easy) - [Python](./algorithms/python/717.1-bit-and-2-bit-characters.py)</small>
 - <small>[509.[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)](Easy) - [Java](./algorithms/java/509.fibonacci-number.java) [Python](./algorithms/python/509.fibonacci-number.py)</small>
+- <small>[422.[Valid Word Square](https://leetcode.com/problems/valid-word-square/)](Easy) - [Python](./algorithms/python/422.valid-word-square.py)</small>
 - <small>[243.[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)](Easy) - [Python](./algorithms/python/243.shortest-word-distance.py)</small>
 - <small>[228.[Summary Ranges](https://leetcode.com/problems/summary-ranges/)](Easy) - [Python](./algorithms/python/228.summary-ranges.py)</small>
 - <small>[219.[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)](Easy) - [Python](./algorithms/python/219.contains-duplicate-ii.py)</small>
@@ -223,7 +224,6 @@
 
 <small>[Back to Top](#navigation)</small>
 #### No-tags
-- <small>[422.[Valid Word Square](https://leetcode.com/problems/valid-word-square/)](Easy) - [Python](./algorithms/python/422.valid-word-square.py)</small>
 - <small>[1302.[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)](Medium) - [Python](./algorithms/python/1302.deepest-leaves-sum.py)</small>
 - <small>[1195.[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/)](Medium) - [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py)</small>
 - <small>[1186.[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)](Medium) - [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py)</small>
