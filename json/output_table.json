@@ -40,6 +40,7 @@
     "669$ | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) |  [Java](./algorithms/java/669.trim-a-binary-search-tree.java) | Medium | `tree` |\n",
     "666$ | 666 | [Path Sum IV](https://leetcode.com/problems/path-sum-iv/) |  [Python](./algorithms/python/666.path-sum-iv.py) | Medium | `tree` |\n",
     "654$ | 654 | [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/) |  [Java](./algorithms/java/654.maximum-binary-tree.java) | Medium | `tree` |\n",
+    "653$ | 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |  [Python](./algorithms/python/653.two-sum-iv-input-is-a-bst.py) | Easy | `tree` |\n",
     "617$ | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) |  [Java](./algorithms/java/617.merge-two-binary-trees.java) | Easy | `tree` |\n",
     "606$ | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) |  [Python](./algorithms/python/606.construct-string-from-binary-tree.py) | Easy | `string` `tree` |\n",
     "590$ | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) |  [Python](./algorithms/python/590.n-ary-tree-postorder-traversal.py) | Easy | `tree` |\n",
