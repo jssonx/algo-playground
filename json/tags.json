@@ -3499,6 +3499,10 @@
     {
         "id": 1254,
         "fid": 1302,
+        "tags": [
+            "tree",
+            "Breadth-first-search"
+        ],
         "name": "Deepest Leaves Sum",
         "slug": "deepest-leaves-sum",
         "link": "https://leetcode.com/problems/deepest-leaves-sum/description/",

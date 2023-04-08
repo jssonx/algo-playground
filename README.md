@@ -3,9 +3,13 @@
 #### Navigation
 
 | 
-[Tree](#tree) `51` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [No-tags](#no-tags) `5` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `52` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [No-tags](#no-tags) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Breadth-first-search](#Breadth-first-search) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
+#### Breadth-first-search
+- <small>[1302.[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)](Medium) - [Python](./algorithms/python/1302.deepest-leaves-sum.py)</small>
+
+<small>[Back to Top](#navigation)</small>
 #### Array
 - <small>[2357.[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)](Easy) - [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py)</small>
 - <small>[1480.[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)](Easy) - [Python](./algorithms/python/1480.running-sum-of-1-d-array.py)</small>
@@ -224,7 +228,6 @@
 
 <small>[Back to Top](#navigation)</small>
 #### No-tags
-- <small>[1302.[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)](Medium) - [Python](./algorithms/python/1302.deepest-leaves-sum.py)</small>
 - <small>[1195.[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/)](Medium) - [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py)</small>
 - <small>[1186.[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)](Medium) - [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py)</small>
 - <small>[1151.[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)](Medium) - [Python](./algorithms/python/1151.minimum-swaps-to-group-all-1-s-together.py)</small>
@@ -318,6 +321,7 @@
 - <small>[101.[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)](Easy) - [Java](./algorithms/java/101.symmetric-tree.java) [Python](./algorithms/python/101.symmetric-tree.py)</small>
 - <small>[100.[Same Tree](https://leetcode.com/problems/same-tree/)](Easy) - [Java](./algorithms/java/100.same-tree.java) [Python](./algorithms/python/100.same-tree.py)</small>
 - <small>[94.[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)](Easy) - [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) [Python](./algorithms/python/94.binary-tree-inorder-traversal.py)</small>
+- <small>[1302.[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)](Medium) - [Python](./algorithms/python/1302.deepest-leaves-sum.py)</small>
 - <small>[1008.[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)](Medium) - [Python](./algorithms/python/1008.construct-binary-search-tree-from-preorder-traversal.py)</small>
 - <small>[958.[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)](Medium) - [Python](./algorithms/python/958.check-completeness-of-a-binary-tree.py)</small>
 - <small>[889.[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)](Medium) - [Python](./algorithms/python/889.construct-binary-tree-from-preorder-and-postorder-traversal.py)</small>
