@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `52` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Dynamic-programming](#dynamic-programming) `19` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [No-tags](#no-tags) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `52` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Dynamic-programming](#dynamic-programming) `19` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Stack](#stack) `12` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [No-tags](#no-tags) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -227,7 +227,6 @@
 <small>[Back to Top](#navigation)</small>
 #### No-tags
 - <small>[1195.[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/)](Medium) - [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py)</small>
-- <small>[1151.[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)](Medium) - [Python](./algorithms/python/1151.minimum-swaps-to-group-all-1-s-together.py)</small>
 - <small>[1289.[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)](Hard) - [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py)</small>
 
 <small>[Back to Top](#navigation)</small>
@@ -240,6 +239,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Sliding-window
+- <small>[1151.[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)](Medium) - [Python](./algorithms/python/1151.minimum-swaps-to-group-all-1-s-together.py)</small>
 - <small>[159.[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)](Medium) - [Python](./algorithms/python/159.longest-substring-with-at-most-two-distinct-characters.py)</small>
 - <small>[3.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)](Medium) - [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py)</small>
 - <small>[239.[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)](Hard) - [Java](./algorithms/java/239.sliding-window-maximum.java)</small>
