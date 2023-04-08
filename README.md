@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `50` | [Array](#array) `32` | [Hash-table](#hash-table) `21` | [Binary-search](#binary-search) `20` | [String](#string) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `12` | [Linked-list](#linked-list) `11` | [Stack](#stack) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `50` | [Array](#array) `32` | [Hash-table](#hash-table) `21` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [Linked-list](#linked-list) `11` | [No-tags](#no-tags) `11` | [Stack](#stack) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -221,7 +221,6 @@
 - <small>[2357.[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)](Easy) - [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py)</small>
 - <small>[1480.[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)](Easy) - [Python](./algorithms/python/1480.running-sum-of-1-d-array.py)</small>
 - <small>[1469.[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)](Easy) - [Python](./algorithms/python/1469.find-all-the-lonely-nodes.py)</small>
-- <small>[1427.[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)](Easy) - [Python](./algorithms/python/1427.perform-string-shifts.py)</small>
 - <small>[1137.[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)](Easy) - [Python](./algorithms/python/1137.n-th-tribonacci-number.py)</small>
 - <small>[1086.[High Five](https://leetcode.com/problems/high-five/)](Easy) - [Python](./algorithms/python/1086.high-five.py)</small>
 - <small>[422.[Valid Word Square](https://leetcode.com/problems/valid-word-square/)](Easy) - [Python](./algorithms/python/422.valid-word-square.py)</small>
@@ -269,6 +268,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### String
+- <small>[1427.[Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)](Easy) - [Python](./algorithms/python/1427.perform-string-shifts.py)</small>
 - <small>[1065.[Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)](Easy) - [Python](./algorithms/python/1065.index-pairs-of-a-string.py)</small>
 - <small>[606.[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/)](Easy) - [Python](./algorithms/python/606.construct-string-from-binary-tree.py)</small>
 - <small>[551.[Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/)](Easy) - [Python](./algorithms/python/551.student-attendance-record-i.py)</small>

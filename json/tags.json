@@ -3879,6 +3879,9 @@
     {
         "id": 1345,
         "fid": 1427,
+        "tags": [
+            "string"
+        ],
         "name": "Perform String Shifts",
         "slug": "perform-string-shifts",
         "link": "https://leetcode.com/problems/perform-string-shifts/description/",
