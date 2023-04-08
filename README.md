@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `50` | [Array](#array) `32` | [Hash-table](#hash-table) `21` | [Binary-search](#binary-search) `20` | [String](#string) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `13` | [Linked-list](#linked-list) `11` | [Stack](#stack) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sort](#sort) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `50` | [Array](#array) `32` | [Hash-table](#hash-table) `21` | [Binary-search](#binary-search) `20` | [String](#string) `20` | [Depth-first-search](#depth-first-search) `18` | [Dynamic-programming](#dynamic-programming) `17` | [Two-pointers](#two-pointers) `16` | [Math](#math) `15` | [No-tags](#no-tags) `12` | [Linked-list](#linked-list) `11` | [Stack](#stack) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `6` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Sliding-window](#sliding-window) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -229,7 +229,6 @@
 - <small>[1195.[Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/)](Medium) - [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py)</small>
 - <small>[1186.[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)](Medium) - [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py)</small>
 - <small>[1151.[Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/)](Medium) - [Python](./algorithms/python/1151.minimum-swaps-to-group-all-1-s-together.py)</small>
-- <small>[912.[Sort an Array](https://leetcode.com/problems/sort-an-array/)](Medium) - [Java](./algorithms/java/912.sort-an-array.java)</small>
 - <small>[1289.[Minimum Falling Path Sum II](https://leetcode.com/problems/minimum-falling-path-sum-ii/)](Hard) - [Python](./algorithms/python/1289.minimum-falling-path-sum-ii.py)</small>
 
 <small>[Back to Top](#navigation)</small>
@@ -250,6 +249,7 @@
 #### Sort
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[242.[Valid Anagram](https://leetcode.com/problems/valid-anagram/)](Easy) - [Java](./algorithms/java/242.valid-anagram.java)</small>
+- <small>[912.[Sort an Array](https://leetcode.com/problems/sort-an-array/)](Medium) - [Java](./algorithms/java/912.sort-an-array.java)</small>
 - <small>[253.[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)](Medium) - [Java](./algorithms/java/253.meeting-rooms-ii.java)</small>
 - <small>[220.[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)](Hard) - [Python](./algorithms/python/220.contains-duplicate-iii.py)</small>
 
