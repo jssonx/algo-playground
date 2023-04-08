@@ -10,7 +10,7 @@
 - <small>[2357.[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)](Easy) - [Python](./algorithms/python/2357.make-array-zero-by-subtracting-equal-amounts.py)</small>
 - <small>[1480.[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)](Easy) - [Python](./algorithms/python/1480.running-sum-of-1-d-array.py)</small>
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
-- <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>
+- <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java) [Python](./algorithms/python/977.squares-of-a-sorted-array.py)</small>
 - <small>[746.[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)](Easy) - [Python](./algorithms/python/746.min-cost-climbing-stairs.py)</small>
 - <small>[724.[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)](Easy) - [Python](./algorithms/python/724.find-pivot-index.py)</small>
 - <small>[717.[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)](Easy) - [Python](./algorithms/python/717.1-bit-and-2-bit-characters.py)</small>
@@ -352,7 +352,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Two-pointers
-- <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java)</small>
+- <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java) [Python](./algorithms/python/977.squares-of-a-sorted-array.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[344.[Reverse String](https://leetcode.com/problems/reverse-string/)](Easy) - [Java](./algorithms/java/344.reverse-string.java) [Python](./algorithms/python/344.reverse-string.py)</small>
 - <small>[234.[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)](Easy) - [Python](./algorithms/python/234.palindrome-linked-list.py)</small>
