@@ -2920,6 +2920,9 @@
     {
         "id": 1316,
         "fid": 1195,
+        "tags": [
+            "concurrency"
+        ],
         "name": "Fizz Buzz Multithreaded",
         "slug": "fizz-buzz-multithreaded",
         "link": "https://leetcode.com/problems/fizz-buzz-multithreaded/description/",
