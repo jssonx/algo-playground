@@ -4943,6 +4943,9 @@
     {
         "id": 1646,
         "fid": 1539,
+        "tags": [
+            "binary-search"
+        ],
         "name": "Kth Missing Positive Number",
         "slug": "kth-missing-positive-number",
         "link": "https://leetcode.com/problems/kth-missing-positive-number/description/",

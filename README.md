@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `53` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Binary-search](#binary-search) `20` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [No-tags](#no-tags) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `53` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [Binary-search](#binary-search) `21` | [String](#string) `21` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -51,6 +51,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Binary-search
+- <small>[1539.[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)](Easy) - [Python](./algorithms/python/1539.kth-missing-positive-number.py)</small>
 - <small>[704.[Binary Search](https://leetcode.com/problems/binary-search/)](Easy) - [Java](./algorithms/java/704.binary-search.java) [Python](./algorithms/python/704.binary-search.py)</small>
 - <small>[441.[Arranging Coins](https://leetcode.com/problems/arranging-coins/)](Easy) - [Python](./algorithms/python/441.arranging-coins.py)</small>
 - <small>[374.[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)](Easy) - [Python](./algorithms/python/374.guess-number-higher-or-lower.py)</small>
@@ -228,10 +229,6 @@
 - <small>[29.[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)](Medium) - [Python](./algorithms/python/29.divide-two-integers.py)</small>
 - <small>[2.[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)](Medium) - [Python](./algorithms/python/2.add-two-numbers.py)</small>
 - <small>[224.[Basic Calculator](https://leetcode.com/problems/basic-calculator/)](Hard) - [Python](./algorithms/python/224.basic-calculator.py)</small>
-
-<small>[Back to Top](#navigation)</small>
-#### No-tags
-- <small>[1539.[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)](Easy) - [Python](./algorithms/python/1539.kth-missing-positive-number.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Ordered-map
