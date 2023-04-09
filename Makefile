@@ -3,12 +3,12 @@
 all: update
 
 # Define variables
-n ?= 0
+INPUT :=
 
 # Define targets
 .PHONY: update
 update:
 	python PyMDwriter.py
 	git add .
-	git commit -m "update $(n)"
+	git commit -m "$(INPUT)"
 	git push
