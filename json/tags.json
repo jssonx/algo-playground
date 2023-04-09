@@ -2015,6 +2015,9 @@
     {
         "id": 1083,
         "fid": 1099,
+        "tags": [
+            "binary-search"
+        ],
         "name": "Two Sum Less Than K",
         "slug": "two-sum-less-than-k",
         "link": "https://leetcode.com/problems/two-sum-less-than-k/description/",
