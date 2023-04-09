@@ -2794,6 +2794,139 @@
         }
     },
     {
+        "id": 1102,
+        "fid": 1150,
+        "tags": [
+            "binary-search"
+        ],
+        "name": "Check If a Number Is Majority Element in a Sorted Array",
+        "slug": "check-if-a-number-is-majority-element-in-a-sorted-array",
+        "link": "https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/description/",
+        "percent": 57.175943332380854,
+        "level": "Easy",
+        "category": "algorithms",
+        "totalAC": "38.3K",
+        "totalSubmit": "67K",
+        "likes": 373,
+        "dislikes": 34,
+        "desc": "<p>Given an integer array <code>nums</code> sorted in non-decreasing order and an integer <code>target</code>, return <code>true</code> <em>if</em> <code>target</code> <em>is a <strong>majority</strong> element, or </em><code>false</code><em> otherwise</em>.</p>\n\n<p>A <strong>majority</strong> element in an array <code>nums</code> is an element that appears more than <code>nums.length / 2</code> times in the array.</p>\n\n<p>&nbsp;</p>\n<p><strong class=\"example\">Example 1:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [2,4,5,5,5,5,5,6,6], target = 5\n<strong>Output:</strong> true\n<strong>Explanation:</strong> The value 5 appears 5 times and the length of the array is 9.\nThus, 5 is a majority element because 5 &gt; 9/2 is true.\n</pre>\n\n<p><strong class=\"example\">Example 2:</strong></p>\n\n<pre>\n<strong>Input:</strong> nums = [10,100,101,101], target = 101\n<strong>Output:</strong> false\n<strong>Explanation:</strong> The value 101 appears 2 times and the length of the array is 4.\nThus, 101 is not a majority element because 2 &gt; 4/2 is false.\n</pre>\n\n<p>&nbsp;</p>\n<p><strong>Constraints:</strong></p>\n\n<ul>\n\t<li><code>1 &lt;= nums.length &lt;= 1000</code></li>\n\t<li><code>1 &lt;= nums[i], target &lt;= 10<sup>9</sup></code></li>\n\t<li><code>nums</code> is sorted in non-decreasing order.</li>\n</ul>\n",
+        "templates": [
+            {
+                "value": "cpp",
+                "text": "C++",
+                "defaultCode": "class Solution {\npublic:\n    bool isMajorityElement(vector<int>& nums, int target) {\n        \n    }\n};"
+            },
+            {
+                "value": "java",
+                "text": "Java",
+                "defaultCode": "class Solution {\n    public boolean isMajorityElement(int[] nums, int target) {\n        \n    }\n}"
+            },
+            {
+                "value": "python",
+                "text": "Python",
+                "defaultCode": "class Solution(object):\n    def isMajorityElement(self, nums, target):\n        \"\"\"\n        :type nums: List[int]\n        :type target: int\n        :rtype: bool\n        \"\"\"\n        "
+            },
+            {
+                "value": "python3",
+                "text": "Python3",
+                "defaultCode": "class Solution:\n    def isMajorityElement(self, nums: List[int], target: int) -> bool:\n        "
+            },
+            {
+                "value": "c",
+                "text": "C",
+                "defaultCode": "bool isMajorityElement(int* nums, int numsSize, int target){\n\n}"
+            },
+            {
+                "value": "csharp",
+                "text": "C#",
+                "defaultCode": "public class Solution {\n    public bool IsMajorityElement(int[] nums, int target) {\n        \n    }\n}"
+            },
+            {
+                "value": "javascript",
+                "text": "JavaScript",
+                "defaultCode": "/**\n * @param {number[]} nums\n * @param {number} target\n * @return {boolean}\n */\nvar isMajorityElement = function(nums, target) {\n    \n};"
+            },
+            {
+                "value": "ruby",
+                "text": "Ruby",
+                "defaultCode": "# @param {Integer[]} nums\n# @param {Integer} target\n# @return {Boolean}\ndef is_majority_element(nums, target)\n    \nend"
+            },
+            {
+                "value": "swift",
+                "text": "Swift",
+                "defaultCode": "class Solution {\n    func isMajorityElement(_ nums: [Int], _ target: Int) -> Bool {\n        \n    }\n}"
+            },
+            {
+                "value": "golang",
+                "text": "Go",
+                "defaultCode": "func isMajorityElement(nums []int, target int) bool {\n    \n}"
+            },
+            {
+                "value": "scala",
+                "text": "Scala",
+                "defaultCode": "object Solution {\n    def isMajorityElement(nums: Array[Int], target: Int): Boolean = {\n        \n    }\n}"
+            },
+            {
+                "value": "kotlin",
+                "text": "Kotlin",
+                "defaultCode": "class Solution {\n    fun isMajorityElement(nums: IntArray, target: Int): Boolean {\n        \n    }\n}"
+            },
+            {
+                "value": "rust",
+                "text": "Rust",
+                "defaultCode": "impl Solution {\n    pub fn is_majority_element(nums: Vec<i32>, target: i32) -> bool {\n        \n    }\n}"
+            },
+            {
+                "value": "php",
+                "text": "PHP",
+                "defaultCode": "class Solution {\n\n    /**\n     * @param Integer[] $nums\n     * @param Integer $target\n     * @return Boolean\n     */\n    function isMajorityElement($nums, $target) {\n        \n    }\n}"
+            },
+            {
+                "value": "typescript",
+                "text": "TypeScript",
+                "defaultCode": "function isMajorityElement(nums: number[], target: number): boolean {\n\n};"
+            },
+            {
+                "value": "racket",
+                "text": "Racket",
+                "defaultCode": "(define/contract (is-majority-element nums target)\n  (-> (listof exact-integer?) exact-integer? boolean?)\n\n  )"
+            },
+            {
+                "value": "erlang",
+                "text": "Erlang",
+                "defaultCode": "-spec is_majority_element(Nums :: [integer()], Target :: integer()) -> boolean().\nis_majority_element(Nums, Target) ->\n  ."
+            },
+            {
+                "value": "elixir",
+                "text": "Elixir",
+                "defaultCode": "defmodule Solution do\n  @spec is_majority_element(nums :: [integer], target :: integer) :: boolean\n  def is_majority_element(nums, target) do\n\n  end\nend"
+            },
+            {
+                "value": "dart",
+                "text": "Dart",
+                "defaultCode": "class Solution {\n  bool isMajorityElement(List<int> nums, int target) {\n\n  }\n}"
+            }
+        ],
+        "testcase": "[2,4,5,5,5,5,5,6,6]\n5",
+        "testable": true,
+        "templateMeta": {
+            "name": "isMajorityElement",
+            "params": [
+                {
+                    "name": "nums",
+                    "type": "integer[]"
+                },
+                {
+                    "name": "target",
+                    "type": "integer"
+                }
+            ],
+            "return": {
+                "type": "boolean"
+            }
+        }
+    },
+    {
         "id": 1107,
         "fid": 1151,
         "tags": [

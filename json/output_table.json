@@ -13,6 +13,7 @@
     "1195$ | 1195 | [Fizz Buzz Multithreaded](https://leetcode.com/problems/fizz-buzz-multithreaded/) |  [Python](./algorithms/python/1195.fizz-buzz-multithreaded.py) | Medium | `concurrency` |\n",
     "1186$ | 1186 | [Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/) |  [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py) | Medium | `dynamic-programming` |\n",
     "1151$ | 1151 | [Minimum Swaps to Group All 1's Together](https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together/) |  [Python](./algorithms/python/1151.minimum-swaps-to-group-all-1-s-together.py) | Medium | `sliding-window` |\n",
+    "1150$ | 1150 | [Check If a Number Is Majority Element in a Sorted Array](https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/) |  [Python](./algorithms/python/1150.check-if-a-number-is-majority-element-in-a-sorted-array.py) | Easy | `binary-search` |\n",
     "1137$ | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) |  [Python](./algorithms/python/1137.n-th-tribonacci-number.py) | Easy | `dynamic-programming` |\n",
     "1099$ | 1099 | [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) |  [Python](./algorithms/python/1099.two-sum-less-than-k.py) | Easy | `binary-search` |\n",
     "1086$ | 1086 | [High Five](https://leetcode.com/problems/high-five/) |  [Python](./algorithms/python/1086.high-five.py) | Easy | `hash-table` |\n",
