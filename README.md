@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `53` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [Binary-search](#binary-search) `21` | [String](#string) `21` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `53` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [Binary-search](#binary-search) `22` | [String](#string) `21` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -61,6 +61,7 @@
 - <small>[270.[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)](Easy) - [Python](./algorithms/python/270.closest-binary-search-tree-value.py)</small>
 - <small>[69.[Sqrt(x)](https://leetcode.com/problems/sqrtx/)](Easy) - [Python](./algorithms/python/69.sqrt-x.py)</small>
 - <small>[35.[Search Insert Position](https://leetcode.com/problems/search-insert-position/)](Easy) - [Python](./algorithms/python/35.search-insert-position.py)</small>
+- <small>[1060.[Missing Element in Sorted Array](https://leetcode.com/problems/missing-element-in-sorted-array/)](Medium) - [Python](./algorithms/python/1060.missing-element-in-sorted-array.py)</small>
 - <small>[540.[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)](Medium) - [Python](./algorithms/python/540.single-element-in-a-sorted-array.py)</small>
 - <small>[454.[4Sum II](https://leetcode.com/problems/4sum-ii/)](Medium) - [Java](./algorithms/java/454.4sum-ii.java)</small>
 - <small>[240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)](Medium) - [Python](./algorithms/python/240.search-a-2-d-matrix-ii.py)</small>
