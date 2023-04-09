@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `53` | [Array](#array) `35` | [Hash-table](#hash-table) `23` | [Binary-search](#binary-search) `22` | [String](#string) `21` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `5` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `53` | [Array](#array) `35` | [Binary-search](#binary-search) `23` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -52,6 +52,7 @@
 <small>[Back to Top](#navigation)</small>
 #### Binary-search
 - <small>[1539.[Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)](Easy) - [Python](./algorithms/python/1539.kth-missing-positive-number.py)</small>
+- <small>[1337.[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)](Easy) - [Python](./algorithms/python/1337.the-k-weakest-rows-in-a-matrix.py)</small>
 - <small>[704.[Binary Search](https://leetcode.com/problems/binary-search/)](Easy) - [Java](./algorithms/java/704.binary-search.java) [Python](./algorithms/python/704.binary-search.py)</small>
 - <small>[441.[Arranging Coins](https://leetcode.com/problems/arranging-coins/)](Easy) - [Python](./algorithms/python/441.arranging-coins.py)</small>
 - <small>[374.[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)](Easy) - [Python](./algorithms/python/374.guess-number-higher-or-lower.py)</small>
@@ -248,6 +249,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Sort
+- <small>[1337.[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)](Easy) - [Python](./algorithms/python/1337.the-k-weakest-rows-in-a-matrix.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[242.[Valid Anagram](https://leetcode.com/problems/valid-anagram/)](Easy) - [Java](./algorithms/java/242.valid-anagram.java)</small>
 - <small>[912.[Sort an Array](https://leetcode.com/problems/sort-an-array/)](Medium) - [Java](./algorithms/java/912.sort-an-array.java)</small>
