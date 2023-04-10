@@ -56,6 +56,7 @@
 
 # @lc code=start
 
+# 难点在于（1）使用位运算优化除法运算（2）处理溢出问题
 class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
         if divisor == 0:
@@ -70,7 +71,7 @@ class Solution:
             while dividend >= temp:
                 dividend -= temp
                 res += i
-                i <<= 1
+                i <<= 1 # 位运算的计算速度比逻辑运算更快
                 temp <<= 1
         if not positive:
             res = -res
