@@ -59,6 +59,8 @@
 #
 
 # @lc code=start
+# 我们应该选择尽可能小的元素，这样才能使得子序列的长度最大化
+# 1. 排序 2. 二分
 class Solution:
     def answerQueries(self, nums: List[int], queries: List[int]) -> List[int]:
         nums.sort()
