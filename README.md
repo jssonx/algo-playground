@@ -3,7 +3,7 @@
 #### Navigation
 
 | 
-[Tree](#tree) `53` | [Array](#array) `35` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+[Tree](#tree) `53` | [Array](#array) `36` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `23` | [String](#string) `21` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Two-pointers](#two-pointers) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -11,6 +11,7 @@
 - <small>[1480.[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)](Easy) - [Python](./algorithms/python/1480.running-sum-of-1-d-array.py)</small>
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[977.[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)](Easy) - [Java](./algorithms/java/977.squares-of-a-sorted-array.java) [Python](./algorithms/python/977.squares-of-a-sorted-array.py)</small>
+- <small>[905.[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)](Easy) - [Python](./algorithms/python/905.sort-array-by-parity.py)</small>
 - <small>[746.[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)](Easy) - [Python](./algorithms/python/746.min-cost-climbing-stairs.py)</small>
 - <small>[724.[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)](Easy) - [Python](./algorithms/python/724.find-pivot-index.py)</small>
 - <small>[717.[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)](Easy) - [Python](./algorithms/python/717.1-bit-and-2-bit-characters.py)</small>
