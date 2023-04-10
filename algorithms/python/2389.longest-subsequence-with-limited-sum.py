@@ -62,6 +62,27 @@
 class Solution:
     def answerQueries(self, nums: List[int], queries: List[int]) -> List[int]:
         nums.sort()
+        ans = []
+        for q in queries:
+            ans.append(self.findMaxLen(nums, q))
+        return ans
+    
+    def findMaxLen(self, nums, q):
+        l, r = -1, len(nums)
+        while l + 1 != r:
+            mid = (l + r) // 2
+            if sum(nums[:mid+1]) <= q:
+                l = mid
+            else:
+                r = mid
+        return r
+        
+# @lc code=end
+
+'''
+class Solution:
+    def answerQueries(self, nums: List[int], queries: List[int]) -> List[int]:
+        nums.sort()
         res = []
         for q in queries:
             left, right = -1, len(nums)
@@ -73,5 +94,4 @@ class Solution:
                     right = mid
             res.append(left+1)
         return res
-# @lc code=end
-
+'''
