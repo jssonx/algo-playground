@@ -3,12 +3,12 @@
    - 1539, 1060
 
 ## Template
-list -> string
+ - list -> string
 ```python
 s = "".join(s_list)
 ```
 
-isalpha() & isdigit()
+ - isalpha() & isdigit()
 ```python
 def isLetter(self, char):
         return ord('a') <= ord(char) <= ord('z') or ord('A') <= ord(char) <= ord('Z')
@@ -17,7 +17,7 @@ char1 = 'a'
 print(char1.isalpha())  # 输出 True
 ```
 
-isPrime()
+ - isPrime()
 ```python
 def isPrime(self, n):
         if n < 2:
@@ -27,7 +27,7 @@ def isPrime(self, n):
                 return False
         return True
 ```
-binary search
+ - binary search
 ```python
 def binarySearch(self, nums: List[int], target: int) -> int:
     left = -1
@@ -48,4 +48,22 @@ def binarySearch(self, nums: List[int], target: int) -> int:
         return idx
     else:
         return -1
+```
+ - 前缀和
+```python
+def prefixSum(self, nums: List[int]) -> List[int]:
+    n = len(nums)
+    prefix = [0] * (n + 1)
+    for i in range(1, n + 1):
+        prefix[i] = prefix[i - 1] + nums[i - 1]
+    return prefix
+```
+ - 差分数组
+```python
+def diffArray(self, nums: List[int]) -> List[int]:
+    n = len(nums)
+    diff = [0] * (n + 1)
+    for i in range(1, n + 1):
+        diff[i] = nums[i - 1] - nums[i]
+    return diff
 ```
