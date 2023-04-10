@@ -24171,7 +24171,8 @@
         "level": "Easy",
         "category": "algorithms",
         "tags": [
-            "array"
+            "array",
+            "two-pointers"
         ],
         "totalAC": "594.8K",
         "totalSubmit": "786.9K",
