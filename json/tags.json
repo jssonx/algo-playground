@@ -24430,7 +24430,8 @@
         "level": "Easy",
         "category": "algorithms",
         "tags": [
-            "string"
+            "string",
+            "two-pointers"
         ],
         "totalAC": "162.1K",
         "totalSubmit": "261K",

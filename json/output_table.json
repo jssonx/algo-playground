@@ -29,7 +29,7 @@
     "965$ | 965 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) |  [Python](./algorithms/python/965.univalued-binary-tree.py) | Easy | `tree` |\n",
     "958$ | 958 | [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) |  [Python](./algorithms/python/958.check-completeness-of-a-binary-tree.py) | Medium | `tree` |\n",
     "940$ | 940 | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) |  [Python](./algorithms/python/940.distinct-subsequences-ii.py) | Hard | `dynamic-programming` |\n",
-    "917$ | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) |  [Python](./algorithms/python/917.reverse-only-letters.py) | Easy | `string` |\n",
+    "917$ | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) |  [Python](./algorithms/python/917.reverse-only-letters.py) | Easy | `string` `two-pointers` |\n",
     "912$ | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) |  [Java](./algorithms/java/912.sort-an-array.java) | Medium | `sort` |\n",
     "905$ | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |  [Python](./algorithms/python/905.sort-array-by-parity.py) | Easy | `array` `two-pointers` |\n",
     "889$ | 889 | [Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) |  [Python](./algorithms/python/889.construct-binary-tree-from-preorder-and-postorder-traversal.py) | Medium | `tree` |\n",
