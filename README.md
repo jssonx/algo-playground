@@ -2,8 +2,7 @@
 
 #### Navigation
 
-| 
-[Tree](#tree) `53` | [Array](#array) `36` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `23` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `53` | [Array](#array) `36` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `23` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
