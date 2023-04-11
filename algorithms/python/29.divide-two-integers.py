@@ -53,10 +53,44 @@
 # 
 # 
 #
+    
 
 # @lc code=start
 
-# 难点在于（1）使用位运算优化除法运算（2）处理溢出问题
+# 难点在于：边界
+class Solution:
+    def divide(self, dividend: int, divisor: int) -> int:
+        if divisor == 0:
+            return 0
+        if dividend == -2**31 and divisor == -1:
+            return 2**31 - 1
+        
+        # 是否同号
+        positive = (dividend >= 0) is (divisor >= 0)
+        dividend, divisor = abs(dividend), abs(divisor)
+        
+        # 被除数，除数
+        res = self.binarySearch(dividend, divisor)
+        if not positive:
+            res = -res
+        return min(max(res, -2**31), 2**31 - 1)
+    
+    def binarySearch(self, dividend, divisor):
+        res = 0
+        left, right = -1, dividend + 1
+        while left + 1 != right:
+            mid = (left + right) // 2
+            if divisor * mid <= dividend < divisor * (mid + 1):
+                return mid
+            elif divisor * mid > dividend:
+                right = mid
+            else:
+                left = mid
+        return res
+
+# @lc code=end
+
+'''
 class Solution:
     def divide(self, dividend: int, divisor: int) -> int:
         if divisor == 0:
@@ -76,6 +110,4 @@ class Solution:
         if not positive:
             res = -res
         return res if -2**31 <= res <= 2**31-1 else 2**31-1
-
-# @lc code=end
-
+'''
