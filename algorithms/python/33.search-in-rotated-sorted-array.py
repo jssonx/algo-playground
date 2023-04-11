@@ -52,6 +52,10 @@
 #
 
 # @lc code=start
+
+# 0 1 2 4 5 6 7
+# 4 5 6 7 0 1 2
+# target: 0
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         if not nums:
@@ -59,21 +63,22 @@ class Solution:
         n = len(nums)
         if n == 1:
             return 0 if nums[0] == target else -1
-        l, r = 0, n - 1
-        while l <= r:
+        l, r = -1, n
+        while l + 1 != r:
             mid = (l + r) // 2
             if nums[mid] == target:
                 return mid
+            # 有限区间内是有序的，因此可以做判断
             if nums[0] <= nums[mid]:
                 if nums[0] <= target < nums[mid]:
-                    r = mid - 1
+                    r = mid
                 else:
-                    l = mid + 1
+                    l = mid
             else:
                 if nums[mid] < target <= nums[n - 1]:
-                    l = mid + 1
+                    l = mid
                 else:
-                    r = mid - 1
+                    r = mid
         return -1
 # @lc code=end
 
