@@ -5476,6 +5476,9 @@
     {
         "id": 1630,
         "fid": 1523,
+        "tags": [
+            "math"
+        ],
         "name": "Count Odd Numbers in an Interval Range",
         "slug": "count-odd-numbers-in-an-interval-range",
         "link": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/",

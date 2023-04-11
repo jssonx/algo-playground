@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `53` | [Array](#array) `37` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `24` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [No-tags](#no-tags) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `53` | [Array](#array) `37` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `24` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -222,6 +222,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Math
+- <small>[1523.[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)](Easy) - [Python](./algorithms/python/1523.count-odd-numbers-in-an-interval-range.py)</small>
 - <small>[1056.[Confusing Number](https://leetcode.com/problems/confusing-number/)](Easy) - [Python](./algorithms/python/1056.confusing-number.py)</small>
 - <small>[441.[Arranging Coins](https://leetcode.com/problems/arranging-coins/)](Easy) - [Python](./algorithms/python/441.arranging-coins.py)</small>
 - <small>[367.[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)](Easy) - [Python](./algorithms/python/367.valid-perfect-square.py)</small>
@@ -237,10 +238,6 @@
 - <small>[29.[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)](Medium) - [Python](./algorithms/python/29.divide-two-integers.py)</small>
 - <small>[2.[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)](Medium) - [Python](./algorithms/python/2.add-two-numbers.py)</small>
 - <small>[224.[Basic Calculator](https://leetcode.com/problems/basic-calculator/)](Hard) - [Python](./algorithms/python/224.basic-calculator.py)</small>
-
-<small>[Back to Top](#navigation)</small>
-#### No-tags
-- <small>[1523.[Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)](Easy) - [Python](./algorithms/python/1523.count-odd-numbers-in-an-interval-range.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Ordered-map
