@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `53` | [Array](#array) `36` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `23` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `53` | [Array](#array) `37` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `24` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `15` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -14,6 +14,7 @@
 - <small>[746.[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)](Easy) - [Python](./algorithms/python/746.min-cost-climbing-stairs.py)</small>
 - <small>[724.[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)](Easy) - [Python](./algorithms/python/724.find-pivot-index.py)</small>
 - <small>[717.[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/)](Easy) - [Python](./algorithms/python/717.1-bit-and-2-bit-characters.py)</small>
+- <small>[697.[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)](Easy) - [Python](./algorithms/python/697.degree-of-an-array.py)</small>
 - <small>[509.[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)](Easy) - [Java](./algorithms/java/509.fibonacci-number.java) [Python](./algorithms/python/509.fibonacci-number.py)</small>
 - <small>[422.[Valid Word Square](https://leetcode.com/problems/valid-word-square/)](Easy) - [Python](./algorithms/python/422.valid-word-square.py)</small>
 - <small>[243.[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)](Easy) - [Python](./algorithms/python/243.shortest-word-distance.py)</small>
@@ -178,6 +179,7 @@
 - <small>[1086.[High Five](https://leetcode.com/problems/high-five/)](Easy) - [Python](./algorithms/python/1086.high-five.py)</small>
 - <small>[1002.[Find Common Characters](https://leetcode.com/problems/find-common-characters/)](Easy) - [Java](./algorithms/java/1002.find-common-characters.java)</small>
 - <small>[734.[Sentence Similarity](https://leetcode.com/problems/sentence-similarity/)](Easy) - [Python](./algorithms/python/734.sentence-similarity.py)</small>
+- <small>[697.[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/)](Easy) - [Python](./algorithms/python/697.degree-of-an-array.py)</small>
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[290.[Word Pattern](https://leetcode.com/problems/word-pattern/)](Easy) - [Python](./algorithms/python/290.word-pattern.py)</small>
 - <small>[266.[Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/)](Easy) - [Java](./algorithms/java/266.palindrome-permutation.java)</small>
