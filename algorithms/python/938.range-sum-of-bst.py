@@ -57,16 +57,40 @@
 #         self.right = right
 class Solution:
     def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
-        self.total_sum = 0
-        self.inorder(root, low, high)
-        return self.total_sum
-    
-    def inorder(self, node, low, high):
-        if node is None:
-            return
-        self.inorder(node.left, low, high)
-        if low <= node.val <= high:
-            self.total_sum += node.val
-        self.inorder(node.right, low, high)
+        def dfs(node: TreeNode) -> int:
+            if node is None:
+                return 0
+            if low <= node.val <= high:
+                return node.val + dfs(node.left) + dfs(node.right)
+            
+            if node.val < low:
+                return dfs(node.right)
+            
+            if node.val > high:
+                return dfs(node.left)
+        
+        return dfs(root)
 # @lc code=end
 
+# Definition for a binary tree node.
+# class TreeNode:
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
+
+'''
+class Solution:
+def rangeSumBST(self, root: Optional[TreeNode], low: int, high: int) -> int:
+    self.total_sum = 0
+    self.inorder(root, low, high)
+    return self.total_sum
+
+def inorder(self, node, low, high):
+    if node is None:
+        return
+    self.inorder(node.left, low, high)
+    if low <= node.val <= high:
+        self.total_sum += node.val
+    self.inorder(node.right, low, high)
+'''
