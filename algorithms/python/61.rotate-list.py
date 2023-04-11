@@ -57,6 +57,9 @@ class Solution:
             cur = cur.next
             n += 1
         k %= n
+        # 快慢指针，通常快指针先走2步，然后慢指针一步一步走，所以这样的话就可以使慢指针最终的位置是整体的一半
+        # 这个时候慢指针的速度是快指针的1/2
+        # 如果慢指针的速度是快指针的1/n，那么慢指针的位置就是整体的n分之一
         slow = fast = head
         for i in range(k):
             fast = fast.next
