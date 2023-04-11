@@ -5474,6 +5474,116 @@
         }
     },
     {
+        "id": 1630,
+        "fid": 1523,
+        "name": "Count Odd Numbers in an Interval Range",
+        "slug": "count-odd-numbers-in-an-interval-range",
+        "link": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/description/",
+        "percent": 49.68333952156156,
+        "level": "Easy",
+        "category": "algorithms",
+        "totalAC": "290.3K",
+        "totalSubmit": "587.1K",
+        "likes": 2488,
+        "dislikes": 147,
+        "desc": "<p>Given two non-negative integers <code>low</code> and <code><font face=\"monospace\">high</font></code>. Return the <em>count of odd numbers between </em><code>low</code><em> and </em><code><font face=\"monospace\">high</font></code><em>&nbsp;(inclusive)</em>.</p>\r\n\r\n<p>&nbsp;</p>\r\n<p><strong class=\"example\">Example 1:</strong></p>\r\n\r\n<pre>\r\n<strong>Input:</strong> low = 3, high = 7\r\n<strong>Output:</strong> 3\r\n<b>Explanation: </b>The odd numbers between 3 and 7 are [3,5,7].</pre>\r\n\r\n<p><strong class=\"example\">Example 2:</strong></p>\r\n\r\n<pre>\r\n<strong>Input:</strong> low = 8, high = 10\r\n<strong>Output:</strong> 1\r\n<b>Explanation: </b>The odd numbers between 8 and 10 are [9].</pre>\r\n\r\n<p>&nbsp;</p>\r\n<p><strong>Constraints:</strong></p>\r\n\r\n<ul>\r\n\t<li><code>0 &lt;= low &lt;= high&nbsp;&lt;= 10^9</code></li>\r\n</ul>",
+        "templates": [
+            {
+                "value": "cpp",
+                "text": "C++",
+                "defaultCode": "class Solution {\npublic:\n    int countOdds(int low, int high) {\n        \n    }\n};"
+            },
+            {
+                "value": "java",
+                "text": "Java",
+                "defaultCode": "class Solution {\n    public int countOdds(int low, int high) {\n        \n    }\n}"
+            },
+            {
+                "value": "python",
+                "text": "Python",
+                "defaultCode": "class Solution(object):\n    def countOdds(self, low, high):\n        \"\"\"\n        :type low: int\n        :type high: int\n        :rtype: int\n        \"\"\"\n        "
+            },
+            {
+                "value": "python3",
+                "text": "Python3",
+                "defaultCode": "class Solution:\n    def countOdds(self, low: int, high: int) -> int:\n        "
+            },
+            {
+                "value": "c",
+                "text": "C",
+                "defaultCode": "\n\nint countOdds(int low, int high){\n\n}"
+            },
+            {
+                "value": "csharp",
+                "text": "C#",
+                "defaultCode": "public class Solution {\n    public int CountOdds(int low, int high) {\n        \n    }\n}"
+            },
+            {
+                "value": "javascript",
+                "text": "JavaScript",
+                "defaultCode": "/**\n * @param {number} low\n * @param {number} high\n * @return {number}\n */\nvar countOdds = function(low, high) {\n    \n};"
+            },
+            {
+                "value": "ruby",
+                "text": "Ruby",
+                "defaultCode": "# @param {Integer} low\n# @param {Integer} high\n# @return {Integer}\ndef count_odds(low, high)\n    \nend"
+            },
+            {
+                "value": "swift",
+                "text": "Swift",
+                "defaultCode": "class Solution {\n    func countOdds(_ low: Int, _ high: Int) -> Int {\n        \n    }\n}"
+            },
+            {
+                "value": "golang",
+                "text": "Go",
+                "defaultCode": "func countOdds(low int, high int) int {\n    \n}"
+            },
+            {
+                "value": "scala",
+                "text": "Scala",
+                "defaultCode": "object Solution {\n    def countOdds(low: Int, high: Int): Int = {\n        \n    }\n}"
+            },
+            {
+                "value": "kotlin",
+                "text": "Kotlin",
+                "defaultCode": "class Solution {\n    fun countOdds(low: Int, high: Int): Int {\n        \n    }\n}"
+            },
+            {
+                "value": "rust",
+                "text": "Rust",
+                "defaultCode": "impl Solution {\n    pub fn count_odds(low: i32, high: i32) -> i32 {\n        \n    }\n}"
+            },
+            {
+                "value": "php",
+                "text": "PHP",
+                "defaultCode": "class Solution {\n\n    /**\n     * @param Integer $low\n     * @param Integer $high\n     * @return Integer\n     */\n    function countOdds($low, $high) {\n        \n    }\n}"
+            },
+            {
+                "value": "typescript",
+                "text": "TypeScript",
+                "defaultCode": "function countOdds(low: number, high: number): number {\n\n};"
+            }
+        ],
+        "testcase": "3\n7",
+        "testable": true,
+        "templateMeta": {
+            "name": "countOdds",
+            "params": [
+                {
+                    "name": "low",
+                    "type": "integer"
+                },
+                {
+                    "type": "integer",
+                    "name": "high"
+                }
+            ],
+            "return": {
+                "type": "integer"
+            }
+        }
+    },
+    {
         "id": 1646,
         "fid": 1539,
         "tags": [
