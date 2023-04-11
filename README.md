@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `53` | [Array](#array) `37` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `24` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Recursion](#recursion) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `54` | [Array](#array) `37` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `24` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -245,6 +245,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Recursion
+- <small>[938.[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)](Easy) - [Python](./algorithms/python/938.range-sum-of-bst.py)</small>
 - <small>[687.[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/)](Medium) - [Python](./algorithms/python/687.longest-univalue-path.py)</small>
 
 <small>[Back to Top](#navigation)</small>
@@ -308,6 +309,7 @@
 #### Tree
 - <small>[1469.[Find All The Lonely Nodes](https://leetcode.com/problems/find-all-the-lonely-nodes/)](Easy) - [Python](./algorithms/python/1469.find-all-the-lonely-nodes.py)</small>
 - <small>[965.[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)](Easy) - [Python](./algorithms/python/965.univalued-binary-tree.py)</small>
+- <small>[938.[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)](Easy) - [Python](./algorithms/python/938.range-sum-of-bst.py)</small>
 - <small>[700.[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)](Easy) - [Java](./algorithms/java/700.search-in-a-binary-search-tree.java)</small>
 - <small>[653.[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)](Easy) - [Python](./algorithms/python/653.two-sum-iv-input-is-a-bst.py)</small>
 - <small>[617.[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)](Easy) - [Java](./algorithms/java/617.merge-two-binary-trees.java)</small>
