@@ -21723,7 +21723,8 @@
         "level": "Easy",
         "category": "algorithms",
         "tags": [
-            "array"
+            "array",
+            "hash-table"
         ],
         "totalAC": "179.3K",
         "totalSubmit": "320.5K",
