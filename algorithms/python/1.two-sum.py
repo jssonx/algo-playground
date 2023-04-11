@@ -7,15 +7,14 @@
 # @lc code=start
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        s = {}
+        d = {}
         for i in range(len(nums)):
-            tmp = nums[i]
-            s[tmp] = i
+            d[nums[i]] = i
         for i in range(len(nums)):
-            tmp = nums[i]
-            comp = target - tmp
-            if comp in s and s[comp] != i:
-                return [i, s[comp]]
+            complement = target - nums[i]
+            if complement in d and d[complement] != i:
+                return [i, d[complement]]
+        return []
 
         
 # @lc code=end
