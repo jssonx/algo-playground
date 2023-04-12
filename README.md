@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `54` | [Array](#array) `37` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `25` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `54` | [Array](#array) `38` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `26` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -20,6 +20,7 @@
 - <small>[243.[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)](Easy) - [Python](./algorithms/python/243.shortest-word-distance.py)</small>
 - <small>[228.[Summary Ranges](https://leetcode.com/problems/summary-ranges/)](Easy) - [Python](./algorithms/python/228.summary-ranges.py)</small>
 - <small>[219.[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)](Easy) - [Python](./algorithms/python/219.contains-duplicate-ii.py)</small>
+- <small>[217.[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)](Easy) - [Python](./algorithms/python/217.contains-duplicate.py)</small>
 - <small>[119.[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)](Easy) - [Python](./algorithms/python/119.pascals-triangle-ii.py)</small>
 - <small>[35.[Search Insert Position](https://leetcode.com/problems/search-insert-position/)](Easy) - [Python](./algorithms/python/35.search-insert-position.py)</small>
 - <small>[27.[Remove Element](https://leetcode.com/problems/remove-element/)](Easy) - [Java](./algorithms/java/27.remove-element.java) [Python](./algorithms/python/27.remove-element.py)</small>
@@ -186,6 +187,7 @@
 - <small>[246.[Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)](Easy) - [Python](./algorithms/python/246.strobogrammatic-number.py)</small>
 - <small>[242.[Valid Anagram](https://leetcode.com/problems/valid-anagram/)](Easy) - [Java](./algorithms/java/242.valid-anagram.java)</small>
 - <small>[219.[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)](Easy) - [Python](./algorithms/python/219.contains-duplicate-ii.py)</small>
+- <small>[217.[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)](Easy) - [Python](./algorithms/python/217.contains-duplicate.py)</small>
 - <small>[202.[Happy Number](https://leetcode.com/problems/happy-number/)](Easy) - [Java](./algorithms/java/202.happy-number.java)</small>
 - <small>[136.[Single Number](https://leetcode.com/problems/single-number/)](Easy) - [Python](./algorithms/python/136.single-number.py)</small>
 - <small>[94.[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)](Easy) - [Java](./algorithms/java/94.binary-tree-inorder-traversal.java) [Python](./algorithms/python/94.binary-tree-inorder-traversal.py)</small>

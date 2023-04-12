@@ -122,6 +122,7 @@
     "222$ | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) |  [Java](./algorithms/java/222.count-complete-tree-nodes.java) [Python](./algorithms/python/222.count-complete-tree-nodes.py) | Medium | `binary-search` `tree` |\n",
     "220$ | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) |  [Python](./algorithms/python/220.contains-duplicate-iii.py) | Hard | `sort` `ordered-map` |\n",
     "219$ | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) |  [Python](./algorithms/python/219.contains-duplicate-ii.py) | Easy | `array` `hash-table` |\n",
+    "217$ | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |  [Python](./algorithms/python/217.contains-duplicate.py) | Easy | `array` `hash-table` |\n",
     "216$ | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) |  [Java](./algorithms/java/216.combination-sum-iii.java) | Medium | `array` `backtracking` |\n",
     "214$ | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) |  [Python](./algorithms/python/214.shortest-palindrome.py) | Hard | `string` |\n",
     "213$ | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) |  [Python](./algorithms/python/213.house-robber-ii.py) | Medium | `dynamic-programming` |\n",

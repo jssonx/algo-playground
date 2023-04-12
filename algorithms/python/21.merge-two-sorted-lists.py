@@ -73,6 +73,5 @@ class Solution:
             cur = cur.next
         cur.next = list1 if list1 else list2
         return dummy.next
-        
 # @lc code=end
 
