@@ -7776,7 +7776,8 @@
         ],
         "tags": [
             "string",
-            "stack"
+            "stack",
+            "hash-table"
         ],
         "totalAC": "3M",
         "totalSubmit": "7.4M",
