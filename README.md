@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `54` | [Array](#array) `38` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `26` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `54` | [Array](#array) `38` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `26` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -211,6 +211,7 @@
 
 <small>[Back to Top](#navigation)</small>
 #### Linked-list
+- <small>[876.[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)](Easy) - [Python](./algorithms/python/876.middle-of-the-linked-list.py)</small>
 - <small>[234.[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)](Easy) - [Python](./algorithms/python/234.palindrome-linked-list.py)</small>
 - <small>[206.[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)](Easy) - [Java](./algorithms/java/206.reverse-linked-list.java)</small>
 - <small>[203.[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)](Easy) - [Java](./algorithms/java/203.remove-linked-list-elements.java)</small>
