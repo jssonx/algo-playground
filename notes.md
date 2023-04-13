@@ -17,6 +17,12 @@ char1 = 'a'
 print(char1.isalpha())  # 输出 True
 ```
 
+ - isPalindrome()
+```python
+def isPalindrome(self, s: str) -> bool:
+    return s == s[::-1]
+```
+
  - isPrime()
 ```python
 def isPrime(self, n):
