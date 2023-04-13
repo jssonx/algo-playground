@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `54` | [Array](#array) `38` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `26` | [String](#string) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Two-pointers](#two-pointers) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `54` | [Array](#array) `38` | [Binary-search](#binary-search) `27` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `21` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -295,6 +295,7 @@
 - <small>[415.[Add Strings](https://leetcode.com/problems/add-strings/)](Easy) - [Python](./algorithms/python/415.add-strings.py)</small>
 - <small>[383.[Ransom Note](https://leetcode.com/problems/ransom-note/)](Easy) - [Java](./algorithms/java/383.ransom-note.java)</small>
 - <small>[344.[Reverse String](https://leetcode.com/problems/reverse-string/)](Easy) - [Java](./algorithms/java/344.reverse-string.java) [Python](./algorithms/python/344.reverse-string.py)</small>
+- <small>[125.[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)](Easy) - [Python](./algorithms/python/125.valid-palindrome.py)</small>
 - <small>[20.[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)](Easy) - [Java](./algorithms/java/20.valid-parentheses.java) [Python](./algorithms/python/20.valid-parentheses.py)</small>
 - <small>[443.[String Compression](https://leetcode.com/problems/string-compression/)](Medium) - [Python](./algorithms/python/443.string-compression.py)</small>
 - <small>[227.[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)](Medium) - [Python](./algorithms/python/227.basic-calculator-ii.py)</small>
@@ -380,6 +381,7 @@
 - <small>[349.[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)](Easy) - [Java](./algorithms/java/349.intersection-of-two-arrays.java) [Python](./algorithms/python/349.intersection-of-two-arrays.py)</small>
 - <small>[344.[Reverse String](https://leetcode.com/problems/reverse-string/)](Easy) - [Java](./algorithms/java/344.reverse-string.java) [Python](./algorithms/python/344.reverse-string.py)</small>
 - <small>[234.[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)](Easy) - [Python](./algorithms/python/234.palindrome-linked-list.py)</small>
+- <small>[125.[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)](Easy) - [Python](./algorithms/python/125.valid-palindrome.py)</small>
 - <small>[27.[Remove Element](https://leetcode.com/problems/remove-element/)](Easy) - [Java](./algorithms/java/27.remove-element.java) [Python](./algorithms/python/27.remove-element.py)</small>
 - <small>[487.[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)](Medium) - [Python](./algorithms/python/487.max-consecutive-ones-ii.py)</small>
 - <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
