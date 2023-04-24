@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `54` | [Array](#array) `39` | [Binary-search](#binary-search) `28` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `21` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `54` | [Array](#array) `39` | [Binary-search](#binary-search) `28` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -385,6 +385,7 @@
 - <small>[234.[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)](Easy) - [Python](./algorithms/python/234.palindrome-linked-list.py)</small>
 - <small>[125.[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)](Easy) - [Python](./algorithms/python/125.valid-palindrome.py)</small>
 - <small>[27.[Remove Element](https://leetcode.com/problems/remove-element/)](Easy) - [Java](./algorithms/java/27.remove-element.java) [Python](./algorithms/python/27.remove-element.py)</small>
+- <small>[904.[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)](Medium) - [Java](./algorithms/java/904.fruit-into-baskets.java)</small>
 - <small>[487.[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)](Medium) - [Python](./algorithms/python/487.max-consecutive-ones-ii.py)</small>
 - <small>[209.[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)](Medium) - [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py)</small>
 - <small>[159.[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)](Medium) - [Python](./algorithms/python/159.longest-substring-with-at-most-two-distinct-characters.py)</small>
