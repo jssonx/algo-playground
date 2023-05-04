@@ -97,6 +97,7 @@
     "309$ | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |  [Python](./algorithms/python/309.best-time-to-buy-and-sell-stock-with-cooldown.py) | Medium | `dynamic-programming` |\n",
     "303$ | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |  [Python](./algorithms/python/303.range-sum-query-immutable.py) | Easy | `dynamic-programming` |\n",
     "290$ | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) |  [Python](./algorithms/python/290.word-pattern.py) | Easy | `hash-table` |\n",
+    "286$ | 286 | [Walls and Gates](https://leetcode.com/problems/walls-and-gates/) |  [Python](./algorithms/python/286.walls-and-gates.py) | Medium | `breadth-first-search` |\n",
     "278$ | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) |  [Python](./algorithms/python/278.first-bad-version.py) | Easy | `binary-search` |\n",
     "276$ | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) |  [Python](./algorithms/python/276.paint-fence.py) | Medium | `dynamic-programming` |\n",
     "270$ | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) |  [Python](./algorithms/python/270.closest-binary-search-tree-value.py) | Easy | `binary-search` `tree` |\n",

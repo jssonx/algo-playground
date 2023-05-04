@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `54` | [Array](#array) `39` | [Binary-search](#binary-search) `28` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `7` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `54` | [Array](#array) `39` | [Binary-search](#binary-search) `28` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `8` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -102,6 +102,7 @@
 - <small>[743.[Network Delay Time](https://leetcode.com/problems/network-delay-time/)](Medium) - [Python](./algorithms/python/743.network-delay-time.py)</small>
 - <small>[513.[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)](Medium) - [Java](./algorithms/java/513.find-bottom-left-tree-value.java)</small>
 - <small>[429.[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)](Medium) - [Python](./algorithms/python/429.n-ary-tree-level-order-traversal.py)</small>
+- <small>[286.[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)](Medium) - [Python](./algorithms/python/286.walls-and-gates.py)</small>
 - <small>[102.[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)](Medium) - [Java](./algorithms/java/102.binary-tree-level-order-traversal.java)</small>
 
 <small>[Back to Top](#navigation)</small>
