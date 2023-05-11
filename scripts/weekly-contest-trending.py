@@ -3,9 +3,10 @@ import matplotlib.pyplot as plt
 import math
 
 def fetch_user_contest_ranking_history(username):
+    url = 'https://leetcode.com/graphql'
     query = '''
-    {
-        userContestRankingHistory(username: "%s") {
+    query($username: String!) {
+        userContestRankingHistory(username: $username) {
             attended
             trendDirection
             problemsSolved
@@ -19,12 +20,19 @@ def fetch_user_contest_ranking_history(username):
             }
         }
     }
-    ''' % username
-
-    url = 'https://leetcode.com/graphql'
-    response = requests.post(url, json={'query': query})
-    data = response.json()
-    return data['data']['userContestRankingHistory']
+    '''
+    variables = {'username': username}
+    try:
+        response = requests.post(url, json={'query': query, 'variables': variables})
+        if response.status_code == 200:
+            data = response.json()
+            return data['data']['userContestRankingHistory']
+        else:
+            print('Request failed with status code:', response.status_code)
+            return None
+    except requests.exceptions.RequestException as e:
+        print('Request failed:', str(e))
+        return None
 
 def plot_user_contest_rating_history(user_contest_ranking_history):
     attended_contests = [ranking_history for ranking_history in user_contest_ranking_history if ranking_history['attended']]
