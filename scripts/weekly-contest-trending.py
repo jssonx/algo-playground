@@ -6,17 +6,17 @@ def fetch_user_contest_ranking_history(username):
     query = '''
     {
         userContestRankingHistory(username: "%s") {
-        attended
-        trendDirection
-        problemsSolved
-        totalProblems
-        finishTimeInSeconds
-        rating
-        ranking
-        contest {
-            title
-            startTime
-        }
+            attended
+            trendDirection
+            problemsSolved
+            totalProblems
+            finishTimeInSeconds
+            rating
+            ranking
+            contest {
+                title
+                startTime
+            }
         }
     }
     ''' % username
