@@ -71,6 +71,7 @@
     "501$ | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) |  [Java](./algorithms/java/501.find-mode-in-binary-search-tree.java) | Easy | `tree` |\n",
     "487$ | 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) |  [Python](./algorithms/python/487.max-consecutive-ones-ii.py) | Medium | `two-pointers` |\n",
     "476$ | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) |  [Python](./algorithms/python/476.number-complement.py) | Easy | `bit-manipulation` |\n",
+    "474$ | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) |  [Python](./algorithms/python/474.ones-and-zeroes.py) | Medium | `dynamic-programming` |\n",
     "459$ | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |  [Java](./algorithms/java/459.repeated-substring-pattern.java) | Easy | `string` |\n",
     "454$ | 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/) |  [Java](./algorithms/java/454.4sum-ii.java) | Medium | `hash-table` `binary-search` |\n",
     "450$ | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) |  [Java](./algorithms/java/450.delete-node-in-a-bst.java) | Medium | `tree` |\n",

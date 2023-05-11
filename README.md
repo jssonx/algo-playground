@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `54` | [Array](#array) `39` | [Binary-search](#binary-search) `28` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `20` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `8` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `54` | [Array](#array) `39` | [Binary-search](#binary-search) `28` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `21` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `8` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -150,6 +150,7 @@
 - <small>[70.[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)](Easy) - [Python](./algorithms/python/70.climbing-stairs.py)</small>
 - <small>[1186.[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)](Medium) - [Python](./algorithms/python/1186.maximum-subarray-sum-with-one-deletion.py)</small>
 - <small>[740.[Delete and Earn](https://leetcode.com/problems/delete-and-earn/)](Medium) - [Python](./algorithms/python/740.delete-and-earn.py)</small>
+- <small>[474.[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)](Medium) - [Python](./algorithms/python/474.ones-and-zeroes.py)</small>
 - <small>[376.[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)](Medium) - [Python](./algorithms/python/376.wiggle-subsequence.py)</small>
 - <small>[309.[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)](Medium) - [Python](./algorithms/python/309.best-time-to-buy-and-sell-stock-with-cooldown.py)</small>
 - <small>[276.[Paint Fence](https://leetcode.com/problems/paint-fence/)](Medium) - [Python](./algorithms/python/276.paint-fence.py)</small>
