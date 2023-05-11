@@ -1,5 +1,6 @@
 import requests
 import matplotlib.pyplot as plt
+import math
 
 def fetch_user_contest_ranking_history(username):
     query = '''
@@ -32,18 +33,23 @@ def plot_user_contest_rating_history(user_contest_ranking_history):
     rankings = [contest['ranking'] for contest in attended_contests]
 
     x = range(len(contest_titles))
-    fig, ax = plt.subplots(figsize=(10, 6))
-    ax.plot(x, ratings, marker='o', color='blue', alpha=0.7, linewidth=2, markersize=8)
+    fig, ax = plt.subplots(figsize=(8, 4))
+    ax.plot(x, ratings, marker='o', color='darkgreen', alpha=0.9, linewidth=2, markersize=5, markeredgecolor='black')
+
     ax.set_xticks(x)
-    ax.set_xticklabels(contest_titles, rotation=45, fontsize=8)
-    ax.set_xlabel('Contest', fontsize=10)
-    ax.set_ylabel('Rating', fontsize=10)
-    ax.set_title('Contest Rating History')
-    [ax.spines[i].set_color('black') for i in ax.spines]
-    [ax.spines[i].set_linewidth(1) for i in ax.spines]
+    ax.set_title('Ratings')
     ax.set_facecolor('white')
     for i in range(len(rankings)):
-        ax.text(x[i], ratings[i], f'Rank {rankings[i]}', ha='center', va='bottom', fontsize=8)
+        ax.text(x[i], ratings[i], f'Rank {rankings[i]}', ha='center', va='bottom', fontsize=7)
+    
+    # Automatically detect rating range
+    min_rating = math.floor(min(ratings) / 100) * 100
+    max_rating = math.ceil(max(ratings) / 100) * 100
+    color_regions = [(i, i+100) for i in range(min_rating, max_rating, 100)]
+    colors = ['red', 'blue', 'green', 'yellow', 'purple', 'pink', 'orange']
+    for i, region in enumerate(color_regions):
+        color = colors[i % len(colors)]
+        ax.fill_between(x, region[0], region[1], color=color, alpha=0.1)
 
     plt.tight_layout()
     plt.show()
