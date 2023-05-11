@@ -26,7 +26,6 @@ query($username: String!) {
 def fetch_data(url, query, variables):
     try:
         response = requests.post(url, json={'query': query, 'variables': variables})
-
         if response.status_code == 200:
             return response.json()
         else:
