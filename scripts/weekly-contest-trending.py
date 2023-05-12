@@ -26,6 +26,7 @@ query($username: String!) {
 def fetch_data(url, query, variables):
     try:
         response = requests.post(url, json={'query': query, 'variables': variables})
+
         if response.status_code == 200:
             return response.json()
         else:
@@ -46,21 +47,21 @@ def plot_graph(contest_titles, ratings, rankings):
     ax.plot(x, ratings, marker='o', color='darkgreen', alpha=0.9, linewidth=2, markersize=5, markeredgecolor='black')
 
     ax.set_xticks(x)
-    ax.set_title('Ratings')
+    # ax.set_title('Ratings')
     ax.set_facecolor('white')
     for i in range(len(rankings)):
-        ax.text(x[i], ratings[i], f'Rank {rankings[i]}', ha='center', va='bottom', fontsize=7)
+        ax.text(x[i], ratings[i], f'{rankings[i]}', ha='center', va='bottom', fontsize=8)
     
     min_rating = math.floor(min(ratings) / 100) * 100
     max_rating = math.ceil(max(ratings) / 100) * 100
     color_regions = [(i, i+100) for i in range(min_rating, max_rating, 100)]
-    colors = ['red', 'blue', 'green', 'yellow', 'purple', 'pink', 'orange']
+    colors = ['red', 'orange', 'yellow', 'green', 'purple', 'pink', 'blue']
     for i, region in enumerate(color_regions):
         color = colors[i % len(colors)]
         ax.fill_between(x, region[0], region[1], color=color, alpha=0.1)
 
     plt.tight_layout()
-    plt.savefig(f'rating_history.png')
+    plt.savefig(f'../images/ratings.png')
 
 def plot_user_contest_rating_history(user_contest_ranking_history):
     attended_contests = [ranking_history for ranking_history in user_contest_ranking_history if ranking_history['attended']]
