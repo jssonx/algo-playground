@@ -47,7 +47,7 @@ def plot_graph(contest_titles, ratings, rankings):
     ax.plot(x, ratings, marker='o', color='darkgreen', alpha=0.9, linewidth=2, markersize=5, markeredgecolor='black')
 
     ax.set_xticks(x)
-    # ax.set_title('Ratings')
+    ax.set_title('Ratings')
     ax.set_facecolor('white')
     for i in range(len(rankings)):
         ax.text(x[i], ratings[i], f'{rankings[i]}', ha='center', va='bottom', fontsize=8)
