@@ -1,0 +1,19 @@
+name: Weekly Rating Plot
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"  # Runs at 00:00 every Monday
+
+jobs:
+  plot_rating:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2  # Checkout the repository
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.11.2
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Execute script
+        run: python scripts/weekly-contest-trending.py
