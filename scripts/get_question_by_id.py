@@ -33,7 +33,7 @@ class LeetCodeClient:
         variables = {
             "categorySlug": "", 
             "skip": 0, 
-            "limit": 1000,  # Increase this if you have more questions
+            "limit": 5000,  # Increase this if you have more questions
             "filters": {}
         }
 
