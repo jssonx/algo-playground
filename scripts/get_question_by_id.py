@@ -10,10 +10,7 @@ class LeetCodeClient:
         self.headers = {
             'Content-Type': 'application/json',
         }
-
-    def get_question_data(self, question_id):
-        # First, get the list of all questions
-        query = """
+        self.query_problemset_question_list = """
             query problemsetQuestionList($categorySlug: String, $limit: Int, $skip: Int, $filters: QuestionListFilterInput) {
                 problemsetQuestionList: questionList(
                     categorySlug: $categorySlug
@@ -30,35 +27,7 @@ class LeetCodeClient:
             }
         """
 
-        variables = {
-            "categorySlug": "", 
-            "skip": 0, 
-            "limit": 5000,  # Increase this if you have more questions
-            "filters": {}
-        }
-
-        data = {
-            'operationName': 'problemsetQuestionList',
-            'query': query,
-            'variables': variables
-        }
-
-        response = requests.post(self.url, headers=self.headers, data=json.dumps(data))
-        json_response = response.json()
-
-        # Now, find the titleSlug for the questionId we are interested in
-        title_slug = None
-        for question in json_response['data']['problemsetQuestionList']['questions']:
-            if question['frontendQuestionId'] == question_id:
-                title_slug = question['titleSlug']
-                break
-
-        if title_slug is None:
-            print(f"No question found with id: {question_id}")
-            return None
-
-        # Now, we can get the question data using the titleSlug
-        query = """
+        self.query_question_data = """
             query questionData($titleSlug: String!) {
                 question(titleSlug: $titleSlug) {
                     questionId
@@ -110,13 +79,43 @@ class LeetCodeClient:
             }
         """
 
+    def get_question_data(self, question_id):
+        # First, get the list of all questions
         variables = {
-            "titleSlug": title_slug, 
+            "categorySlug": "",
+            "skip": 0,
+            "limit": 5000,  # Increase this if you have more questions
+            "filters": {}
+        }
+
+        data = {
+            'operationName': 'problemsetQuestionList',
+            'query': self.query_problemset_question_list,
+            'variables': variables
+        }
+
+        response = requests.post(self.url, headers=self.headers, data=json.dumps(data))
+        json_response = response.json()
+
+        # Now, find the titleSlug for the questionId we are interested in
+        title_slug = None
+        for question in json_response['data']['problemsetQuestionList']['questions']:
+            if question['frontendQuestionId'] == question_id:
+                title_slug = question['titleSlug']
+                break
+
+        if title_slug is None:
+            print(f"No question found with id: {question_id}")
+            return None
+
+        # Now, we can get the question data using the titleSlug
+        variables = {
+            "titleSlug": title_slug,
         }
 
         data = {
             'operationName': 'questionData',
-            'query': query,
+            'query': self.query_question_data,
             'variables': variables
         }
 
@@ -125,10 +124,13 @@ class LeetCodeClient:
 
         return json_response
 
+
 def main(question_id):
     client = LeetCodeClient()
     question_data = client.get_question_data(question_id)
     print(json.dumps(question_data, indent=4))
+
+
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
