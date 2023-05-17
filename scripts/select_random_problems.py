@@ -5,7 +5,7 @@ import random
 tag_name, easy_count, medium_count, hard_count = "two-pointers", 1, 3, 0
 
 # 从本地 JSON 文件加载数据
-with open("tags.json", "r") as f:
+with open("../json/tags.json", "r") as f:
     data = json.load(f)
 
 # 筛选符合标签的问题
@@ -20,6 +20,7 @@ def get_tags(p_num, tags_table):
             if 'tags' not in tags_table[i]:
                 tags_table[i]['tags'] = ["no-tags"]
             return tags_table[i]['tags'], tags_table[i]['name'], tags_table[i]['level']
+    return ["no-tags"], "no-name", "no-level"
 
 # 根据指定数量选择问题
 selected_problems = []

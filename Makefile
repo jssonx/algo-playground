@@ -8,7 +8,11 @@ INPUT :=
 # Define targets
 .PHONY: update
 update:
-	python PyMDwriter.py
+	python ./scripts/write_readme.py
 	git add .
 	git commit -m "$(INPUT)"
 	git push
+
+.PHONY: select
+select:
+	python ./scripts/get_question_by_id.py $(INPUT)

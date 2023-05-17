@@ -1,6 +1,8 @@
 # Reference: https://github.com/aylei/leetcode-rust/issues/12
 import requests
 import json
+import argparse
+
 
 class LeetCodeClient:
     def __init__(self):
@@ -123,9 +125,13 @@ class LeetCodeClient:
 
         return json_response
 
-# 使用示例
-client = LeetCodeClient()
-question_data = client.get_question_data("1")  # Replace "1" with your questionId
+def main(question_id):
+    client = LeetCodeClient()
+    question_data = client.get_question_data(question_id)
+    print(json.dumps(question_data, indent=4))
 
-# 打印问题数据
-print(json.dumps(question_data, indent=4))
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser()
+    parser.add_argument("question_id", help="The ID of the question to retrieve data for")
+    args = parser.parse_args()
+    main(args.question_id)
