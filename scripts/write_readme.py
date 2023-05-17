@@ -60,6 +60,7 @@ def get_tags(p_num, tags_table):
             if 'tags' not in tags_table[i]:
                 tags_table[i]['tags'] = ["no-tags"]
             return tags_table[i]['tags'], tags_table[i]['name'], tags_table[i]['level'], tags_table[i]['link']
+    return ["no-tags"], "no-name", "no-level", "no-link"
 
 def tagging(tags):
     tag_list = []

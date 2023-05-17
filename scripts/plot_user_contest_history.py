@@ -61,7 +61,7 @@ def plot_graph(contest_titles, ratings, rankings):
         ax.fill_between(x, region[0], region[1], color=color, alpha=0.1)
 
     plt.tight_layout()
-    plt.savefig(f'./images/ratings.png')
+    plt.savefig(f'./resources/images/ratings.png')
 
 def plot_user_contest_rating_history(user_contest_ranking_history):
     attended_contests = [ranking_history for ranking_history in user_contest_ranking_history if ranking_history['attended']]

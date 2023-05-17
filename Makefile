@@ -16,3 +16,7 @@ update:
 .PHONY: select
 select:
 	python ./scripts/get_question_by_id.py $(INPUT)
+
+.PHONY: plot
+plot:
+	python scripts/plot_user_contest_history.py
