@@ -16,4 +16,4 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
       - name: Execute script
-        run: python scripts/weekly-contest-trending.py
+        run: python scripts/plot_user_contest_history.py
