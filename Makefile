@@ -20,3 +20,7 @@ select:
 .PHONY: plot
 plot:
 	python scripts/plot_user_contest_history.py
+
+# Usage
+# make select INPUT=1
+# make update INPUT="update question 1"
