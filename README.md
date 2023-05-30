@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `54` | [Array](#array) `39` | [Binary-search](#binary-search) `28` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `21` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `8` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `2` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [No-tags](#no-tags) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `54` | [Array](#array) `40` | [Binary-search](#binary-search) `29` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `21` | [Depth-first-search](#depth-first-search) `18` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Breadth-first-search](#breadth-first-search) `8` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `3` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -45,6 +45,7 @@
 - <small>[16.[3Sum Closest](https://leetcode.com/problems/3sum-closest/)](Medium) - [Python](./algorithms/python/16.3-sum-closest.py)</small>
 - <small>[15.[3Sum](https://leetcode.com/problems/3sum/)](Medium) - [Java](./algorithms/java/15.3-sum.java)</small>
 - <small>[123.[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)](Hard) - [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py)</small>
+- <small>[4.[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)](Hard) - [Python](./algorithms/python/4.median-of-two-sorted-arrays.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Backtracking
@@ -82,6 +83,7 @@
 - <small>[34.[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)](Medium) - [Python](./algorithms/python/34.find-first-and-last-position-of-element-in-sorted-array.py)</small>
 - <small>[33.[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)](Medium) - [Python](./algorithms/python/33.search-in-rotated-sorted-array.py)</small>
 - <small>[29.[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)](Medium) - [Python](./algorithms/python/29.divide-two-integers.py)</small>
+- <small>[4.[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)](Hard) - [Python](./algorithms/python/4.median-of-two-sorted-arrays.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Bit-manipulation
@@ -140,6 +142,7 @@
 #### Divide-and-conquer
 - <small>[240.[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)](Medium) - [Python](./algorithms/python/240.search-a-2-d-matrix-ii.py)</small>
 - <small>[53.[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)](Medium) - [Python](./algorithms/python/53.maximum-subarray.py)</small>
+- <small>[4.[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)](Hard) - [Python](./algorithms/python/4.median-of-two-sorted-arrays.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Dynamic-programming
@@ -246,9 +249,6 @@
 - <small>[29.[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)](Medium) - [Python](./algorithms/python/29.divide-two-integers.py)</small>
 - <small>[2.[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)](Medium) - [Python](./algorithms/python/2.add-two-numbers.py)</small>
 - <small>[224.[Basic Calculator](https://leetcode.com/problems/basic-calculator/)](Hard) - [Python](./algorithms/python/224.basic-calculator.py)</small>
-
-<small>[Back to Top](#navigation)</small>
-#### No-tags
 
 <small>[Back to Top](#navigation)</small>
 #### Ordered-map

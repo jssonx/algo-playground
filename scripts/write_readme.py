@@ -8,13 +8,21 @@ import time
 import datetime
 import shutil
 
-# create leetcode cache
 src_folder = os.path.join(os.path.expanduser("~"), ".lc/leetcode/cache")
 dst_folder = './lc-cache/'
 
-if os.path.exists(dst_folder):
-    shutil.rmtree(dst_folder)
-shutil.copytree(src_folder, dst_folder)
+if not os.path.exists(dst_folder):
+    os.makedirs(dst_folder)
+
+for root, _, files in os.walk(src_folder):
+    for file in files:
+        src_file_path = os.path.join(root, file)
+        dst_file_path = os.path.join(dst_folder, os.path.relpath(src_file_path, src_folder))
+
+        # 如果文件不存在于dst_folder，则将文件从src_folder复制到dst_folder
+        if not os.path.exists(dst_file_path):
+            os.makedirs(os.path.dirname(dst_file_path), exist_ok=True)
+            shutil.copy2(src_file_path, dst_file_path)
 
 # type:directory
 solution_type = {"cpp":"cpp", "rs":"rust", "java":"java", "py":"python"}
@@ -203,10 +211,7 @@ for tag in sorted(tag_dict.keys()):
     f.write("#### " + tag.capitalize() + "\n")
     plist = {"Easy": [], "Medium": [], "Hard": []}  # 用字典代替列表进行分类
     for problem in tag_dict[tag]:
-        try:
-            plist[problem[2]].append(problem)  # 将问题添加到对应难度的列表中
-        except:
-            print(problem[2])
+        plist[problem[2]].append(problem)  # 将问题添加到对应难度的列表中
     for level in ["Easy", "Medium", "Hard"]:
         for problem in plist[level]:
             f.write("- <small>[" + problem[0] + "." + problem[1] + "](" + level + ") - " + problem[3] + "</small>\n")

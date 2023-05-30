@@ -76,6 +76,7 @@ class LeetCodeClient:
                     envInfo
                     libraryUrl
                     adminUrl
+                    questionDetailUrl
                 }
             }
         """
@@ -135,11 +136,12 @@ def main(question_id):
         print("No data received from LeetCode")
         return
     original_data = response_data["data"]["question"]
+    # pprint(original_data)
     
     # Save to lc-cache
     question_data = {
-        "id": original_data.get("questionId"),
-        "fid": original_data.get("questionFrontendId"),
+        "id": int(original_data.get("questionId")),
+        "fid": int(original_data.get("questionFrontendId")),
         "name": original_data.get("title"),
         "slug": original_data.get("titleSlug"),
         "tags": [tag["slug"] for tag in original_data.get("topicTags")],
@@ -147,6 +149,7 @@ def main(question_id):
         "category": original_data.get("categoryTitle"),
         "content": original_data.get("content"),
         "hint": original_data.get("hints"),
+        "link": f"https://leetcode.com{original_data.get('questionDetailUrl')}"
     }
     slug = question_data["slug"]
     with open(os.path.join(os.getcwd(), "lc-cache", f"{question_id}.{slug}.json"), "w") as json_file:
