@@ -2,7 +2,8 @@
 import requests
 import json
 import argparse
-
+import os
+from pprint import pprint
 
 class LeetCodeClient:
     def __init__(self):
@@ -124,13 +125,39 @@ class LeetCodeClient:
 
         return json_response
 
+from bs4 import BeautifulSoup
+
 
 def main(question_id):
     client = LeetCodeClient()
-    question_data = client.get_question_data(question_id)
-    print(json.dumps(question_data, indent=4))
-
-
+    response_data = client.get_question_data(question_id)
+    if response_data is None:
+        print("No data received from LeetCode")
+        return
+    original_data = response_data["data"]["question"]
+    
+    # Save to lc-cache
+    question_data = {
+        "id": original_data.get("questionId"),
+        "fid": original_data.get("questionFrontendId"),
+        "name": original_data.get("title"),
+        "slug": original_data.get("titleSlug"),
+        "tags": [tag["slug"] for tag in original_data.get("topicTags")],
+        "level": original_data.get("difficulty"),
+        "category": original_data.get("categoryTitle"),
+        "content": original_data.get("content"),
+        "hint": original_data.get("hints"),
+    }
+    slug = question_data["slug"]
+    with open(os.path.join(os.getcwd(), "lc-cache", f"{question_id}.{slug}.json"), "w") as json_file:
+        json.dump(question_data, json_file, indent=4)
+    
+    # Save to algorithms
+    soup = BeautifulSoup(question_data["content"], 'html.parser')
+    question_content = soup.get_text()
+    question_content = '\n'.join('# ' + line for line in question_content.split('\n'))
+    with open(os.path.join(os.getcwd(), "algorithms/python", f"{question_id}.{slug}.py"), "w") as python_file:
+        python_file.write(question_content)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
