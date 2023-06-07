@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `57` | [Array](#array) `40` | [Binary-search](#binary-search) `29` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `21` | [Depth-first-search](#depth-first-search) `19` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Breadth-first-search](#breadth-first-search) `10` | [Bit-manipulation](#bit-manipulation) `8` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `3` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [No-tags](#no-tags) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `58` | [Array](#array) `40` | [Binary-search](#binary-search) `29` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `21` | [Depth-first-search](#depth-first-search) `20` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Breadth-first-search](#breadth-first-search) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `3` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [No-tags](#no-tags) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -102,6 +102,7 @@
 - <small>[101.[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)](Easy) - [Java](./algorithms/java/101.symmetric-tree.java) [Python](./algorithms/python/101.symmetric-tree.py)</small>
 - <small>[1302.[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)](Medium) - [Python](./algorithms/python/1302.deepest-leaves-sum.py)</small>
 - <small>[743.[Network Delay Time](https://leetcode.com/problems/network-delay-time/)](Medium) - [Python](./algorithms/python/743.network-delay-time.py)</small>
+- <small>[515.[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)](Medium) - [Python](./algorithms/python/515.find-largest-value-in-each-tree-row.py)</small>
 - <small>[513.[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)](Medium) - [Java](./algorithms/java/513.find-bottom-left-tree-value.java)</small>
 - <small>[429.[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)](Medium) - [Python](./algorithms/python/429.n-ary-tree-level-order-traversal.py)</small>
 - <small>[286.[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)](Medium) - [Python](./algorithms/python/286.walls-and-gates.py)</small>
@@ -124,6 +125,7 @@
 - <small>[101.[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)](Easy) - [Java](./algorithms/java/101.symmetric-tree.java) [Python](./algorithms/python/101.symmetric-tree.py)</small>
 - <small>[100.[Same Tree](https://leetcode.com/problems/same-tree/)](Easy) - [Java](./algorithms/java/100.same-tree.java) [Python](./algorithms/python/100.same-tree.py)</small>
 - <small>[743.[Network Delay Time](https://leetcode.com/problems/network-delay-time/)](Medium) - [Python](./algorithms/python/743.network-delay-time.py)</small>
+- <small>[515.[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)](Medium) - [Python](./algorithms/python/515.find-largest-value-in-each-tree-row.py)</small>
 - <small>[513.[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)](Medium) - [Java](./algorithms/java/513.find-bottom-left-tree-value.java)</small>
 - <small>[394.[Decode String](https://leetcode.com/problems/decode-string/)](Medium) - [Python](./algorithms/python/394.decode-string.py)</small>
 - <small>[366.[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)](Medium) - [Python](./algorithms/python/366.find-leaves-of-binary-tree.py)</small>
@@ -364,6 +366,7 @@
 - <small>[666.[Path Sum IV](https://leetcode.com/problems/path-sum-iv/)](Medium) - [Python](./algorithms/python/666.path-sum-iv.py)</small>
 - <small>[654.[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/)](Medium) - [Java](./algorithms/java/654.maximum-binary-tree.java)</small>
 - <small>[538.[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)](Medium) - [Java](./algorithms/java/538.convert-bst-to-greater-tree.java)</small>
+- <small>[515.[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)](Medium) - [Python](./algorithms/python/515.find-largest-value-in-each-tree-row.py)</small>
 - <small>[513.[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)](Medium) - [Java](./algorithms/java/513.find-bottom-left-tree-value.java)</small>
 - <small>[450.[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)](Medium) - [Java](./algorithms/java/450.delete-node-in-a-bst.java)</small>
 - <small>[437.[Path Sum III](https://leetcode.com/problems/path-sum-iii/)](Medium) - [Python](./algorithms/python/437.path-sum-iii.py)</small>

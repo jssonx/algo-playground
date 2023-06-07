@@ -68,6 +68,7 @@
     "540$ | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) |  [Python](./algorithms/python/540.single-element-in-a-sorted-array.py) | Medium | `binary-search` |\n",
     "538$ | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |  [Java](./algorithms/java/538.convert-bst-to-greater-tree.java) | Medium | `tree` |\n",
     "530$ | 530 | [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) |  [Java](./algorithms/java/530.minimum-absolute-difference-in-bst.java) | Easy | `tree` |\n",
+    "515$ | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) |  [Python](./algorithms/python/515.find-largest-value-in-each-tree-row.py) | Medium | `tree` `depth-first-search` `breadth-first-search` |\n",
     "513$ | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) |  [Java](./algorithms/java/513.find-bottom-left-tree-value.java) | Medium | `tree` `depth-first-search` `breadth-first-search` |\n",
     "509$ | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) |  [Java](./algorithms/java/509.fibonacci-number.java) [Python](./algorithms/python/509.fibonacci-number.py) | Easy | `array` |\n",
     "501$ | 501 | [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) |  [Java](./algorithms/java/501.find-mode-in-binary-search-tree.java) | Easy | `tree` |\n",
