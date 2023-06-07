@@ -56,18 +56,18 @@ class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        q = collections.deque([root])
+        queue = [root]
         depth = 1
-        while q:
-            size = len(q)
-            for i in range(size):
-                cur = q.popleft()
+        while len(queue) > 0:
+            size = len(queue)
+            for _ in range(size):
+                cur = queue.pop(0)
                 if not cur.left and not cur.right:
                     return depth
                 if cur.left:
-                    q.append(cur.left)
+                    queue.append(cur.left)
                 if cur.right:
-                    q.append(cur.right)
+                    queue.append(cur.right)
             depth += 1
         return depth
         
