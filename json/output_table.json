@@ -134,6 +134,7 @@
     "214$ | 214 | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) |  [Python](./algorithms/python/214.shortest-palindrome.py) | Hard | `string` |\n",
     "213$ | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) |  [Python](./algorithms/python/213.house-robber-ii.py) | Medium | `dynamic-programming` |\n",
     "209$ | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) |  [Java](./algorithms/java/209.minimum-size-subarray-sum.java) [Python](./algorithms/python/209.minimum-size-subarray-sum.py) | Medium | `array` `two-pointers` `binary-search` |\n",
+    "207$ | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) |  [Python](./algorithms/python/207.course-schedule.py) | Medium | `depth-first-search` `breadth-first-search` `graph` `topological-sort` |\n",
     "206$ | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |  [Java](./algorithms/java/206.reverse-linked-list.java) | Easy | `linked-list` |\n",
     "203$ | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |  [Java](./algorithms/java/203.remove-linked-list-elements.java) | Easy | `linked-list` |\n",
     "202$ | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) |  [Java](./algorithms/java/202.happy-number.java) | Easy | `hash-table` `math` |\n",

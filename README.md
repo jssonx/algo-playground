@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `60` | [Array](#array) `40` | [Binary-search](#binary-search) `29` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Depth-first-search](#depth-first-search) `22` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `21` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Breadth-first-search](#breadth-first-search) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `3` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [No-tags](#no-tags) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `60` | [Array](#array) `40` | [Binary-search](#binary-search) `29` | [Hash-table](#hash-table) `26` | [Depth-first-search](#depth-first-search) `23` | [String](#string) `23` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `21` | [Math](#math) `16` | [Stack](#stack) `13` | [Breadth-first-search](#breadth-first-search) `12` | [Linked-list](#linked-list) `12` | [Bit-manipulation](#bit-manipulation) `8` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `3` | [Graph](#graph) `3` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [No-tags](#no-tags) `1` | [Ordered-map](#ordered-map) `1` | [Topological-sort](#topological-sort) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -106,6 +106,7 @@
 - <small>[513.[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)](Medium) - [Java](./algorithms/java/513.find-bottom-left-tree-value.java)</small>
 - <small>[429.[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)](Medium) - [Python](./algorithms/python/429.n-ary-tree-level-order-traversal.py)</small>
 - <small>[286.[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)](Medium) - [Python](./algorithms/python/286.walls-and-gates.py)</small>
+- <small>[207.[Course Schedule](https://leetcode.com/problems/course-schedule/)](Medium) - [Python](./algorithms/python/207.course-schedule.py)</small>
 - <small>[199.[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)](Medium) - [Python](./algorithms/python/199.binary-tree-right-side-view.py)</small>
 - <small>[107.[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)](Medium) - [Python](./algorithms/python/107.binary-tree-level-order-traversal-ii.py)</small>
 - <small>[102.[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)](Medium) - [Java](./algorithms/java/102.binary-tree-level-order-traversal.java) [Python](./algorithms/python/102.binary-tree-level-order-traversal.py)</small>
@@ -130,6 +131,7 @@
 - <small>[394.[Decode String](https://leetcode.com/problems/decode-string/)](Medium) - [Python](./algorithms/python/394.decode-string.py)</small>
 - <small>[366.[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)](Medium) - [Python](./algorithms/python/366.find-leaves-of-binary-tree.py)</small>
 - <small>[339.[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)](Medium) - [Python](./algorithms/python/339.nested-list-weight-sum.py)</small>
+- <small>[207.[Course Schedule](https://leetcode.com/problems/course-schedule/)](Medium) - [Python](./algorithms/python/207.course-schedule.py)</small>
 - <small>[199.[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)](Medium) - [Python](./algorithms/python/199.binary-tree-right-side-view.py)</small>
 - <small>[129.[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)](Medium) - [Python](./algorithms/python/129.sum-root-to-leaf-numbers.py)</small>
 - <small>[117.[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)](Medium) - [Python](./algorithms/python/117.populating-next-right-pointers-in-each-node-ii.py)</small>
@@ -179,6 +181,7 @@
 #### Graph
 - <small>[1971.[Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/)](Easy) - [Python](./algorithms/python/1971.find-if-path-exists-in-graph.py)</small>
 - <small>[743.[Network Delay Time](https://leetcode.com/problems/network-delay-time/)](Medium) - [Python](./algorithms/python/743.network-delay-time.py)</small>
+- <small>[207.[Course Schedule](https://leetcode.com/problems/course-schedule/)](Medium) - [Python](./algorithms/python/207.course-schedule.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Greedy
@@ -327,6 +330,10 @@
 - <small>[3.[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)](Medium) - [Python](./algorithms/python/3.longest-substring-without-repeating-characters.py)</small>
 - <small>[772.[Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/)](Hard) - [Python](./algorithms/python/772.basic-calculator-iii.py)</small>
 - <small>[214.[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)](Hard) - [Python](./algorithms/python/214.shortest-palindrome.py)</small>
+
+<small>[Back to Top](#navigation)</small>
+#### Topological-sort
+- <small>[207.[Course Schedule](https://leetcode.com/problems/course-schedule/)](Medium) - [Python](./algorithms/python/207.course-schedule.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Tree
