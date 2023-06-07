@@ -105,7 +105,7 @@
 - <small>[513.[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)](Medium) - [Java](./algorithms/java/513.find-bottom-left-tree-value.java)</small>
 - <small>[429.[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)](Medium) - [Python](./algorithms/python/429.n-ary-tree-level-order-traversal.py)</small>
 - <small>[286.[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)](Medium) - [Python](./algorithms/python/286.walls-and-gates.py)</small>
-- <small>[102.[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)](Medium) - [Java](./algorithms/java/102.binary-tree-level-order-traversal.java)</small>
+- <small>[102.[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)](Medium) - [Java](./algorithms/java/102.binary-tree-level-order-traversal.java) [Python](./algorithms/python/102.binary-tree-level-order-traversal.py)</small>
 
 <small>[Back to Top](#navigation)</small>
 #### Concurrency
@@ -368,7 +368,7 @@
 - <small>[113.[Path Sum II](https://leetcode.com/problems/path-sum-ii/)](Medium) - [Python](./algorithms/python/113.path-sum-ii.py)</small>
 - <small>[106.[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)](Medium) - [Java](./algorithms/java/106.construct-binary-tree-from-inorder-and-postorder-traversal.java) [Python](./algorithms/python/106.construct-binary-tree-from-inorder-and-postorder-traversal.py)</small>
 - <small>[105.[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)](Medium) - [Python](./algorithms/python/105.construct-binary-tree-from-preorder-and-inorder-traversal.py)</small>
-- <small>[102.[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)](Medium) - [Java](./algorithms/java/102.binary-tree-level-order-traversal.java)</small>
+- <small>[102.[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)](Medium) - [Java](./algorithms/java/102.binary-tree-level-order-traversal.java) [Python](./algorithms/python/102.binary-tree-level-order-traversal.py)</small>
 - <small>[98.[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)](Medium) - [Java](./algorithms/java/98.validate-binary-search-tree.java)</small>
 - <small>[96.[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)](Medium) - [Python](./algorithms/python/96.unique-binary-search-trees.py)</small>
 - <small>[95.[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)](Medium) - [Python](./algorithms/python/95.unique-binary-search-trees-ii.py)</small>
