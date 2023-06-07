@@ -158,6 +158,7 @@
     "125$ | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |  [Python](./algorithms/python/125.valid-palindrome.py) | Easy | `two-pointers` `string` |\n",
     "123$ | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |  [Python](./algorithms/python/123.best-time-to-buy-and-sell-stock-iii.py) | Hard | `array` `dynamic-programming` |\n",
     "119$ | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) |  [Python](./algorithms/python/119.pascals-triangle-ii.py) | Easy | `array` |\n",
+    "117$ | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) |  [Python](./algorithms/python/117.populating-next-right-pointers-in-each-node-ii.py) | Medium | `tree` `depth-first-search` |\n",
     "116$ | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |  [Python](./algorithms/python/116.populating-next-right-pointers-in-each-node.py) | Medium | `tree` `depth-first-search` |\n",
     "113$ | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) |  [Python](./algorithms/python/113.path-sum-ii.py) | Medium | `tree` `depth-first-search` |\n",
     "112$ | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) |  [Java](./algorithms/java/112.path-sum.java) [Python](./algorithms/python/112.path-sum.py) | Easy | `tree` `depth-first-search` |\n",

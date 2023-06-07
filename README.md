@@ -2,7 +2,7 @@
 
 #### Navigation
 
-| [Tree](#tree) `59` | [Array](#array) `40` | [Binary-search](#binary-search) `29` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Two-pointers](#two-pointers) `22` | [Depth-first-search](#depth-first-search) `21` | [Dynamic-programming](#dynamic-programming) `21` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Breadth-first-search](#breadth-first-search) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `3` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [No-tags](#no-tags) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
+| [Tree](#tree) `60` | [Array](#array) `40` | [Binary-search](#binary-search) `29` | [Hash-table](#hash-table) `26` | [String](#string) `23` | [Depth-first-search](#depth-first-search) `22` | [Two-pointers](#two-pointers) `22` | [Dynamic-programming](#dynamic-programming) `21` | [Math](#math) `16` | [Stack](#stack) `13` | [Linked-list](#linked-list) `12` | [Breadth-first-search](#breadth-first-search) `11` | [Bit-manipulation](#bit-manipulation) `8` | [Sort](#sort) `6` | [Greedy](#greedy) `4` | [Heap](#heap) `4` | [Sliding-window](#sliding-window) `4` | [Backtracking](#backtracking) `3` | [Design](#design) `3` | [Divide-and-conquer](#divide-and-conquer) `3` | [Graph](#graph) `2` | [Recursion](#recursion) `2` | [Concurrency](#concurrency) `1` | [No-tags](#no-tags) `1` | [Ordered-map](#ordered-map) `1` | [Trie](#trie) `1` | 
 #### Template
 
 #### Array
@@ -132,6 +132,7 @@
 - <small>[339.[Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/)](Medium) - [Python](./algorithms/python/339.nested-list-weight-sum.py)</small>
 - <small>[199.[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)](Medium) - [Python](./algorithms/python/199.binary-tree-right-side-view.py)</small>
 - <small>[129.[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)](Medium) - [Python](./algorithms/python/129.sum-root-to-leaf-numbers.py)</small>
+- <small>[117.[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)](Medium) - [Python](./algorithms/python/117.populating-next-right-pointers-in-each-node-ii.py)</small>
 - <small>[116.[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)](Medium) - [Python](./algorithms/python/116.populating-next-right-pointers-in-each-node.py)</small>
 - <small>[113.[Path Sum II](https://leetcode.com/problems/path-sum-ii/)](Medium) - [Python](./algorithms/python/113.path-sum-ii.py)</small>
 - <small>[106.[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)](Medium) - [Java](./algorithms/java/106.construct-binary-tree-from-inorder-and-postorder-traversal.java) [Python](./algorithms/python/106.construct-binary-tree-from-inorder-and-postorder-traversal.py)</small>
@@ -378,6 +379,7 @@
 - <small>[222.[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)](Medium) - [Java](./algorithms/java/222.count-complete-tree-nodes.java) [Python](./algorithms/python/222.count-complete-tree-nodes.py)</small>
 - <small>[199.[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)](Medium) - [Python](./algorithms/python/199.binary-tree-right-side-view.py)</small>
 - <small>[129.[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)](Medium) - [Python](./algorithms/python/129.sum-root-to-leaf-numbers.py)</small>
+- <small>[117.[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)](Medium) - [Python](./algorithms/python/117.populating-next-right-pointers-in-each-node-ii.py)</small>
 - <small>[116.[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)](Medium) - [Python](./algorithms/python/116.populating-next-right-pointers-in-each-node.py)</small>
 - <small>[113.[Path Sum II](https://leetcode.com/problems/path-sum-ii/)](Medium) - [Python](./algorithms/python/113.path-sum-ii.py)</small>
 - <small>[107.[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)](Medium) - [Python](./algorithms/python/107.binary-tree-level-order-traversal-ii.py)</small>
